@@ -1,0 +1,461 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1973932130712563712",
+        "3_1973932130687463426",
+        "3_1973932130716758016",
+        "13_1973932130725228545"
+      ],
+      "media_source_tweet_id": [
+        "1973932212174401655",
+        "1973932212174401655",
+        "1973932212174401655",
+        "1973932212174401655"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2039566355347939429",
+    "created_at": "2026-04-02T04:51:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T05:51:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039566355347939429"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 19,
+          "tag": "자해"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1949526936121978880",
+          "start": 3,
+          "username": "selfharm_luna"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YQeuUQ8WEV",
+          "end": 46,
+          "expanded_url": "https://x.com/selfharm835/status/1973932212174401655/video/1",
+          "media_key": "3_1973932130712563712",
+          "start": 23,
+          "url": "https://t.co/YQeuUQ8WEV"
+        },
+        {
+          "display_url": "pic.x.com/YQeuUQ8WEV",
+          "end": 46,
+          "expanded_url": "https://x.com/selfharm835/status/1973932212174401655/video/1",
+          "media_key": "3_1973932130687463426",
+          "start": 23,
+          "url": "https://t.co/YQeuUQ8WEV"
+        },
+        {
+          "display_url": "pic.x.com/YQeuUQ8WEV",
+          "end": 46,
+          "expanded_url": "https://x.com/selfharm835/status/1973932212174401655/video/1",
+          "media_key": "3_1973932130716758016",
+          "start": 23,
+          "url": "https://t.co/YQeuUQ8WEV"
+        },
+        {
+          "display_url": "pic.x.com/YQeuUQ8WEV",
+          "end": 46,
+          "expanded_url": "https://x.com/selfharm835/status/1973932212174401655/video/1",
+          "media_key": "13_1973932130725228545",
+          "start": 23,
+          "url": "https://t.co/YQeuUQ8WEV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039566355347939429",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973932212174401655",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @selfharm_luna: #자해 https://t.co/YQeuUQ8WEV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1973932130712563712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2TQ0IXaMAAmZfm.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1973932130687463426",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2TQ0IRbMAI4k5t.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1973932130716758016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2TQ0IYaMAAxOgC.jpg",
+        "width": 1152
+      },
+      {
+        "duration_ms": 19783,
+        "height": 720,
+        "media_key": "13_1973932130725228545",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1973932130725228545/img/_nVSnolO2LKcqgjI.jpg",
+        "public_metrics": {
+          "view_count": 5555
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1973932130725228545/vid/avc1/480x270/HH2LJ3slRIDj5K4H.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1973932130725228545/vid/avc1/640x360/bNjJGu6MJyvZxX9L.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1973932130725228545/vid/avc1/1280x720/Ni_aV4-ohYoenhmI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1973932130725228545/pl/qQGHpac7_nIvLLE-.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973932130712563712",
+            "3_1973932130687463426",
+            "3_1973932130716758016",
+            "13_1973932130725228545"
+          ],
+          "media_source_tweet_id": [
+            "1973932212174401655",
+            "1973932212174401655",
+            "1973932212174401655",
+            "1973932212174401655"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2039566355347939429",
+        "created_at": "2026-04-02T04:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T05:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039566355347939429"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "자해"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1949526936121978880",
+              "start": 3,
+              "username": "selfharm_luna"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YQeuUQ8WEV",
+              "end": 46,
+              "expanded_url": "https://x.com/selfharm835/status/1973932212174401655/video/1",
+              "media_key": "3_1973932130712563712",
+              "start": 23,
+              "url": "https://t.co/YQeuUQ8WEV"
+            },
+            {
+              "display_url": "pic.x.com/YQeuUQ8WEV",
+              "end": 46,
+              "expanded_url": "https://x.com/selfharm835/status/1973932212174401655/video/1",
+              "media_key": "3_1973932130687463426",
+              "start": 23,
+              "url": "https://t.co/YQeuUQ8WEV"
+            },
+            {
+              "display_url": "pic.x.com/YQeuUQ8WEV",
+              "end": 46,
+              "expanded_url": "https://x.com/selfharm835/status/1973932212174401655/video/1",
+              "media_key": "3_1973932130716758016",
+              "start": 23,
+              "url": "https://t.co/YQeuUQ8WEV"
+            },
+            {
+              "display_url": "pic.x.com/YQeuUQ8WEV",
+              "end": 46,
+              "expanded_url": "https://x.com/selfharm835/status/1973932212174401655/video/1",
+              "media_key": "13_1973932130725228545",
+              "start": 23,
+              "url": "https://t.co/YQeuUQ8WEV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039566355347939429",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973932212174401655",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @selfharm_luna: #자해 https://t.co/YQeuUQ8WEV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973932130712563712",
+            "3_1973932130687463426",
+            "3_1973932130716758016",
+            "13_1973932130725228545"
+          ]
+        },
+        "author_id": "1949526936121978880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1973932212174401655",
+        "created_at": "2025-10-03T02:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T03:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973932212174401655"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "자해"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YQeuUQ8WEV",
+              "end": 27,
+              "expanded_url": "https://x.com/selfharm835/status/1973932212174401655/video/1",
+              "media_key": "3_1973932130712563712",
+              "start": 4,
+              "url": "https://t.co/YQeuUQ8WEV"
+            },
+            {
+              "display_url": "pic.x.com/YQeuUQ8WEV",
+              "end": 27,
+              "expanded_url": "https://x.com/selfharm835/status/1973932212174401655/video/1",
+              "media_key": "3_1973932130687463426",
+              "start": 4,
+              "url": "https://t.co/YQeuUQ8WEV"
+            },
+            {
+              "display_url": "pic.x.com/YQeuUQ8WEV",
+              "end": 27,
+              "expanded_url": "https://x.com/selfharm835/status/1973932212174401655/video/1",
+              "media_key": "3_1973932130716758016",
+              "start": 4,
+              "url": "https://t.co/YQeuUQ8WEV"
+            },
+            {
+              "display_url": "pic.x.com/YQeuUQ8WEV",
+              "end": 27,
+              "expanded_url": "https://x.com/selfharm835/status/1973932212174401655/video/1",
+              "media_key": "13_1973932130725228545",
+              "start": 4,
+              "url": "https://t.co/YQeuUQ8WEV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973932212174401655",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 10111,
+          "like_count": 204,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "#자해 https://t.co/YQeuUQ8WEV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "@hongdou_cici的重生号\n\n防炸备用机@Lajitong_l",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "hongdou_cici"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "Lajitong_l"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "1835690499442876760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 181,
+          "like_count": 1012,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 485
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-27T17:47:19.000Z",
+        "description": "https://t.co/3usrapVIE5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/7455738514",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/7455738514",
+                "start": 0,
+                "url": "https://t.co/3usrapVIE5"
+              }
+            ]
+          }
+        },
+        "id": "1949526936121978880",
+        "name": "黑月",
+        "pinned_tweet_id": "1991213629463752764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016897908860403712/uXsvcfyX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 44,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 58
+        },
+        "username": "selfharm_luna",
+        "verified": false
+      }
+    ]
+  }
+}

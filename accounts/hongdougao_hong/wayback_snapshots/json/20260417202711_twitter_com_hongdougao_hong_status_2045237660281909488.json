@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2044675167914487928",
+    "created_at": "2026-04-17T20:27:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T21:27:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045237660281909488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1581478431274983424",
+          "start": 0,
+          "username": "yoyobewild"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045237660281909488",
+    "in_reply_to_user_id": "1581478431274983424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045115990896411071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoyobewild 是的！我认识的很多coser都遭到男摄的骚扰，但因为这个行业里男性占大比例，而且有大量男摄是互勉目的所以所以找女摄比较吃力，很多人都被二次元这种男本位宅文化洗脑并且日常化了..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2044675167914487928",
+        "created_at": "2026-04-17T20:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T21:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045237660281909488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1581478431274983424",
+              "start": 0,
+              "username": "yoyobewild"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045237660281909488",
+        "in_reply_to_user_id": "1581478431274983424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045115990896411071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyobewild 是的！我认识的很多coser都遭到男摄的骚扰，但因为这个行业里男性占大比例，而且有大量男摄是互勉目的所以所以找女摄比较吃力，很多人都被二次元这种男本位宅文化洗脑并且日常化了..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581478431274983424",
+        "conversation_id": "2044675167914487928",
+        "created_at": "2026-04-17T12:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045115990896411071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790756114700640256",
+              "start": 0,
+              "username": "hongdougao_hong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045115990896411071",
+        "in_reply_to_user_id": "1790756114700640256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 472,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044675167914487928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdougao_hong 二次元本来就宅男多，在宅男多的圈子里，潜移默化地就会被他们的语言、讨论、规则给影响，虽然有不适，但也会觉得大家都这样。另外女生本来在教育中就被教导要温柔听话，很多女生不会拒绝和愤怒。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2039663142012325929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 171,
+          "like_count": 1244,
+          "listed_count": 3,
+          "media_count": 63,
+          "tweet_count": 658
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T02:53:47.000Z",
+        "description": "🌈女同，女权，友跨友双，LGBT支持者，混乱中立，不属于任何阵营。",
+        "id": "1581478431274983424",
+        "name": "悠悠的信",
+        "pinned_tweet_id": "2013221589114839211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990676879624572928/JaJp2kTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4732,
+          "following_count": 189,
+          "like_count": 37050,
+          "listed_count": 17,
+          "media_count": 382,
+          "tweet_count": 8013
+        },
+        "username": "yoyobewild",
+        "verified": false
+      }
+    ]
+  }
+}

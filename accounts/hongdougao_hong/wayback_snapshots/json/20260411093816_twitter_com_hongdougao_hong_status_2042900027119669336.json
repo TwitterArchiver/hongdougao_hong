@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2042900027119669336",
+    "created_at": "2026-04-11T09:38:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T10:38:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042900027119669336"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yi30744/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/yi30744/status/2042453796752932905",
+          "start": 8,
+          "url": "https://t.co/AeLyrOACwj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042900027119669336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042453796752932905",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "快帮帮这个遗灰 https://t.co/AeLyrOACwj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2042453794341232640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhA55HboAARMEo.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2042900027119669336",
+        "created_at": "2026-04-11T09:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042900027119669336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yi30744/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/yi30744/status/2042453796752932905",
+              "start": 8,
+              "url": "https://t.co/AeLyrOACwj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042900027119669336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042453796752932905",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "快帮帮这个遗灰 https://t.co/AeLyrOACwj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042453794341232640"
+          ]
+        },
+        "author_id": "1701591779999612928",
+        "conversation_id": "2042453796752932905",
+        "created_at": "2026-04-10T04:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T05:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042453796752932905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KyqGl8vCP6",
+              "end": 42,
+              "expanded_url": "https://x.com/yi30744/status/2042453796752932905/photo/1",
+              "media_key": "3_2042453794341232640",
+              "start": 19,
+              "url": "https://t.co/KyqGl8vCP6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042453796752932905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1108,
+          "like_count": 49,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我是遺灰，我重生了\n請助力我找回互關 https://t.co/KyqGl8vCP6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "@hongdou_cici的重生号\n\n防炸备用机@Lajitong_l",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "hongdou_cici"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "Lajitong_l"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2039663142012325929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 157,
+          "like_count": 1090,
+          "listed_count": 3,
+          "media_count": 56,
+          "tweet_count": 569
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T13:41:20.000Z",
+        "description": "是的我3.0了，前世 @bai347312，備用@hui04210524",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "bai347312"
+              },
+              {
+                "end": 36,
+                "start": 24,
+                "username": "hui04210524"
+              }
+            ]
+          }
+        },
+        "id": "1701591779999612928",
+        "name": "遺灰3.0",
+        "pinned_tweet_id": "2042453796752932905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042452792657494016/M34MuTiD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 316,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 33
+        },
+        "username": "yi30744",
+        "verified": false
+      }
+    ]
+  }
+}

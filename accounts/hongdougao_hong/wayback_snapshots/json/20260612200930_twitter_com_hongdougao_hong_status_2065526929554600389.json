@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2065444835029659803",
+    "created_at": "2026-06-12T20:09:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T21:09:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065526929554600389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1645857818808025090",
+          "start": 0,
+          "username": "choco_030_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065526929554600389",
+    "in_reply_to_user_id": "1645857818808025090",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065482330576425008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@choco_030_ovo 抱抱你可可🫂🫂🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2065444835029659803",
+        "created_at": "2026-06-12T20:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T21:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065526929554600389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1645857818808025090",
+              "start": 0,
+              "username": "choco_030_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065526929554600389",
+        "in_reply_to_user_id": "1645857818808025090",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065482330576425008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@choco_030_ovo 抱抱你可可🫂🫂🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1645857818808025090",
+        "conversation_id": "2065444835029659803",
+        "created_at": "2026-06-12T17:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065482330576425008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790756114700640256",
+              "start": 0,
+              "username": "hongdougao_hong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065482330576425008",
+        "in_reply_to_user_id": "1790756114700640256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065444835029659803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdougao_hong 摸摸你🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 204,
+          "like_count": 2054,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 1058
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-11T18:34:54.000Z",
+        "description": "可可🍫🍫 陰暗b一隻 經常發癲 萌新考蛇 地雷系女子    想和女孩子貼貼 成分複雜 雜食cp 死宅女 偶爾紫餐 \nweeeee(=｀ω´=) 夢想可以冬眠100年",
+        "id": "1645857818808025090",
+        "location": "香港",
+        "name": "🉑🉑ᐠ( ᑒ )ᐟ",
+        "pinned_tweet_id": "2048716811362054430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047031662714966016/2OkPQEVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 36,
+          "like_count": 12154,
+          "listed_count": 0,
+          "media_count": 251,
+          "tweet_count": 1554
+        },
+        "username": "choco_030_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

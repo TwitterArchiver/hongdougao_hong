@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2071625796914164165",
+    "created_at": "2026-06-29T16:04:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T17:04:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071625796914164165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2025597264627126272",
+          "start": 3,
+          "username": "sahlbar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071625796914164165",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6364
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071104195588223445",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sahlbar: gua sumpahin semua uang yang dihabiskan di bulan Juni bakal diganti 3x lipat di bulan July."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2071625796914164165",
+        "created_at": "2026-06-29T16:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T17:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071625796914164165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2025597264627126272",
+              "start": 3,
+              "username": "sahlbar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071625796914164165",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6364
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071104195588223445",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sahlbar: gua sumpahin semua uang yang dihabiskan di bulan Juni bakal diganti 3x lipat di bulan July."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025597264627126272",
+        "conversation_id": "2071104195588223445",
+        "created_at": "2026-06-28T05:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T06:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071104195588223445"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071104195588223445",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 229,
+          "impression_count": 247085,
+          "like_count": 25637,
+          "quote_count": 372,
+          "reply_count": 430,
+          "retweet_count": 6364
+        },
+        "reply_settings": "everyone",
+        "text": "gua sumpahin semua uang yang dihabiskan di bulan Juni bakal diganti 3x lipat di bulan July."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 210,
+          "like_count": 2324,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1184
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-22T15:43:34.000Z",
+        "description": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا\nFa inna ma'al-'usri yusrā",
+        "id": "2025597264627126272",
+        "name": "sahl",
+        "pinned_tweet_id": "2063516203801629128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057881736877584385/_mXxDQsV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1801,
+          "following_count": 888,
+          "like_count": 13646,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 14895
+        },
+        "url": "",
+        "username": "sahlbar",
+        "verified": true
+      }
+    ]
+  }
+}

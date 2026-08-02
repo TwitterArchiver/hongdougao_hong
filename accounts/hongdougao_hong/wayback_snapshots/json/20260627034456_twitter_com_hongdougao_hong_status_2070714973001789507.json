@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2070419653667803234",
+    "created_at": "2026-06-27T03:44:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T04:44:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070714973001789507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1553395938193842176",
+          "start": 0,
+          "username": "crazy33872628"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070714973001789507",
+    "in_reply_to_user_id": "1553395938193842176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070711066573894022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@crazy33872628 卧槽对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2070419653667803234",
+        "created_at": "2026-06-27T03:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T04:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070714973001789507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1553395938193842176",
+              "start": 0,
+              "username": "crazy33872628"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070714973001789507",
+        "in_reply_to_user_id": "1553395938193842176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070711066573894022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crazy33872628 卧槽对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1553395938193842176",
+        "conversation_id": "2070419653667803234",
+        "created_at": "2026-06-27T03:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T04:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070711066573894022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790756114700640256",
+              "start": 0,
+              "username": "hongdougao_hong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070711066573894022",
+        "in_reply_to_user_id": "1790756114700640256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070419653667803234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdougao_hong 就是丑。。特别是那个🚗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 209,
+          "like_count": 2266,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1166
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-30T15:04:01.000Z",
+        "description": "",
+        "id": "1553395938193842176",
+        "location": "天堂",
+        "name": "ᕳᕲ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062009832857829376/PAZV2TLI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 568,
+          "like_count": 4838,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "crazy33872628",
+        "verified": false
+      }
+    ]
+  }
+}

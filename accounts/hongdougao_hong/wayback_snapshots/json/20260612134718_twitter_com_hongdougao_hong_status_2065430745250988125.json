@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2065365793718915249",
+    "created_at": "2026-06-12T13:47:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T14:47:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065430745250988125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2054829279762935809",
+          "start": 0,
+          "username": "nemunemu_son"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065430745250988125",
+    "in_reply_to_user_id": "2054829279762935809",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065427336347148534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nemunemu_son 学校、終わってるじゃん、、"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2065365793718915249",
+        "created_at": "2026-06-12T13:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T14:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065430745250988125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2054829279762935809",
+              "start": 0,
+              "username": "nemunemu_son"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065430745250988125",
+        "in_reply_to_user_id": "2054829279762935809",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065427336347148534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nemunemu_son 学校、終わってるじゃん、、"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054829279762935809",
+        "conversation_id": "2065365793718915249",
+        "created_at": "2026-06-12T13:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T14:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065427336347148534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790756114700640256",
+              "start": 0,
+              "username": "hongdougao_hong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065427336347148534",
+        "in_reply_to_user_id": "1790756114700640256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065426611177193589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdougao_hong 哈哈，这件事发生在一次禁毒宣传课上。\n\n普通に笑えない話…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 202,
+          "like_count": 2041,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 1052
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T07:41:07.000Z",
+        "description": "皆愛してる！！\n\n我目前正在學習繁體中文。\n隨時歡迎你跟我聊天！我們交朋友吧！",
+        "id": "2054829279762935809",
+        "name": "あ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054838465087565824/EmKTOjyo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 13,
+          "like_count": 400,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 105
+        },
+        "username": "nemunemu_son",
+        "verified": false
+      }
+    ]
+  }
+}

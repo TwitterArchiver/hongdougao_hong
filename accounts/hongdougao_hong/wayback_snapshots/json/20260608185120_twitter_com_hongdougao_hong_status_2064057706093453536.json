@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063914380488769536"
+      ],
+      "media_source_tweet_id": [
+        "2063914385786249312"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "2064057706093453536",
+    "created_at": "2026-06-08T18:51:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T19:51:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064057706093453536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1486226849768214529",
+          "start": 3,
+          "username": "ame_3533"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sI3CNwqh91",
+          "end": 39,
+          "expanded_url": "https://x.com/ame_3533/status/2063914385786249312/photo/1",
+          "media_key": "3_2063914380488769536",
+          "start": 16,
+          "url": "https://t.co/sI3CNwqh91"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064057706093453536",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063914385786249312",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ame_3533: 👀 https://t.co/sI3CNwqh91"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063914380488769536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKR_MafagAAQb6R.jpg",
+        "width": 1792
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063914380488769536"
+          ],
+          "media_source_tweet_id": [
+            "2063914385786249312"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "conversation_id": "2064057706093453536",
+        "created_at": "2026-06-08T18:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T19:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064057706093453536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1486226849768214529",
+              "start": 3,
+              "username": "ame_3533"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sI3CNwqh91",
+              "end": 39,
+              "expanded_url": "https://x.com/ame_3533/status/2063914385786249312/photo/1",
+              "media_key": "3_2063914380488769536",
+              "start": 16,
+              "url": "https://t.co/sI3CNwqh91"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064057706093453536",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063914385786249312",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ame_3533: 👀 https://t.co/sI3CNwqh91"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063914380488769536"
+          ]
+        },
+        "author_id": "1486226849768214529",
+        "conversation_id": "2063914385786249312",
+        "created_at": "2026-06-08T09:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063914385786249312"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sI3CNwqh91",
+              "end": 25,
+              "expanded_url": "https://x.com/ame_3533/status/2063914385786249312/photo/1",
+              "media_key": "3_2063914380488769536",
+              "start": 2,
+              "url": "https://t.co/sI3CNwqh91"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063914385786249312",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 1053,
+          "like_count": 340,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "👀 https://t.co/sI3CNwqh91"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 196,
+          "like_count": 1981,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 1025
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-26T06:38:12.000Z",
+        "description": "あめです絵を描くことが好きな人です",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@ame.3533?_r=1…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@ame.3533?_r=1&_t=ZS-96mVw9jOKWL",
+                "start": 0,
+                "url": "https://t.co/1fUraNZFG2"
+              }
+            ]
+          }
+        },
+        "id": "1486226849768214529",
+        "name": "🍬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048393868916539392/kSdDptNP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 92,
+          "like_count": 4001,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 590
+        },
+        "url": "https://t.co/1fUraNZFG2",
+        "username": "ame_3533",
+        "verified": false
+      }
+    ]
+  }
+}

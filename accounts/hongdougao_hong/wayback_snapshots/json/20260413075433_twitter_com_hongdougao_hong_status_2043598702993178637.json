@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2043598702993178637",
+    "created_at": "2026-04-13T07:54:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T08:54:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043598702993178637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2017284572082540548",
+          "start": 3,
+          "username": "blucheck333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043598702993178637",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3599
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043223954568126796",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @blucheck333: 남자들을 싫어하는 전세계 여성분들 너무 반가워요 저도 싫어해요☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2043598702993178637",
+        "created_at": "2026-04-13T07:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T08:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043598702993178637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2017284572082540548",
+              "start": 3,
+              "username": "blucheck333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043598702993178637",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3599
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043223954568126796",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @blucheck333: 남자들을 싫어하는 전세계 여성분들 너무 반가워요 저도 싫어해요☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017284572082540548",
+        "conversation_id": "2043223954568126796",
+        "created_at": "2026-04-12T07:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T08:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043223954568126796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luzreud/status…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/luzreud/status/2042919810426712569",
+              "start": 37,
+              "url": "https://t.co/zbSBSxFTVC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043223954568126796",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 572,
+          "impression_count": 1703647,
+          "like_count": 39460,
+          "quote_count": 80,
+          "reply_count": 141,
+          "retweet_count": 3599
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042919810426712569",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "남자들을 싫어하는 전세계 여성분들 너무 반가워요 저도 싫어해요☺️ https://t.co/zbSBSxFTVC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "@hongdou_cici的重生号\n\n防炸备用机@Lajitong_l",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "hongdou_cici"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "Lajitong_l"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2039663142012325929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 165,
+          "like_count": 1129,
+          "listed_count": 3,
+          "media_count": 57,
+          "tweet_count": 600
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-30T17:11:45.000Z",
+        "description": "취미=남혐/트잉여짓 하면서 돈벌고 싶어서 시작했어요 #블루레이디",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 29,
+                "tag": "블루레이디"
+              }
+            ]
+          }
+        },
+        "id": "2017284572082540548",
+        "name": "체크",
+        "pinned_tweet_id": "2032457992441098549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017289431821258752/GBvvwxX2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2125,
+          "following_count": 1097,
+          "like_count": 19589,
+          "listed_count": 15,
+          "media_count": 175,
+          "tweet_count": 12452
+        },
+        "username": "blucheck333",
+        "verified": true
+      }
+    ]
+  }
+}

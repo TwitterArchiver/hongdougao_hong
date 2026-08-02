@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040457288457048064"
+      ],
+      "media_source_tweet_id": [
+        "2040457322842005533"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "2040476704976904410",
+    "created_at": "2026-04-04T17:08:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T18:08:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040476704976904410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1676626940802007040",
+          "start": 3,
+          "username": "cat_redemption"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JP5hZQ6gej",
+          "end": 77,
+          "expanded_url": "https://x.com/cat_redemption/status/2040457322842005533/photo/1",
+          "media_key": "3_2040457288457048064",
+          "start": 54,
+          "url": "https://t.co/JP5hZQ6gej"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040476704976904410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040457322842005533",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cat_redemption: 那个，转赞关评论抽三个52来不来 看情况1k4fo或者四月中旬开💞 https://t.co/JP5hZQ6gej"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040457288457048064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFEpF9HW0AAzqyG.jpg",
+        "width": 1537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040457288457048064"
+          ],
+          "media_source_tweet_id": [
+            "2040457322842005533"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "conversation_id": "2040476704976904410",
+        "created_at": "2026-04-04T17:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T18:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040476704976904410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1676626940802007040",
+              "start": 3,
+              "username": "cat_redemption"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JP5hZQ6gej",
+              "end": 77,
+              "expanded_url": "https://x.com/cat_redemption/status/2040457322842005533/photo/1",
+              "media_key": "3_2040457288457048064",
+              "start": 54,
+              "url": "https://t.co/JP5hZQ6gej"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040476704976904410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040457322842005533",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cat_redemption: 那个，转赞关评论抽三个52来不来 看情况1k4fo或者四月中旬开💞 https://t.co/JP5hZQ6gej"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040457288457048064"
+          ]
+        },
+        "author_id": "1676626940802007040",
+        "conversation_id": "2040457322842005533",
+        "created_at": "2026-04-04T15:51:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T16:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040457322842005533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JP5hZQ6gej",
+              "end": 57,
+              "expanded_url": "https://x.com/cat_redemption/status/2040457322842005533/photo/1",
+              "media_key": "3_2040457288457048064",
+              "start": 34,
+              "url": "https://t.co/JP5hZQ6gej"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040457322842005533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "那个，转赞关评论抽三个52来不来 看情况1k4fo或者四月中旬开💞 https://t.co/JP5hZQ6gej"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "@hongdou_cici的重生号\n\n防炸备用机@Lajitong_l",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "hongdou_cici"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "Lajitong_l"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2039663142012325929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 158,
+          "like_count": 1042,
+          "listed_count": 3,
+          "media_count": 50,
+          "tweet_count": 510
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T16:20:02.000Z",
+        "description": "=あみ   中国人｜病み垢/自撮り垢🙇‍♀️",
+        "id": "1676626940802007040",
+        "name": "aminano_da",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855274958412226560/1_zCS5Lm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1300,
+          "following_count": 663,
+          "like_count": 16284,
+          "listed_count": 3,
+          "media_count": 210,
+          "tweet_count": 1941
+        },
+        "username": "cat_redemption",
+        "verified": false
+      }
+    ]
+  }
+}

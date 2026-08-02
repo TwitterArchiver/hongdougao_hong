@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926633398010863616"
+      ],
+      "media_source_tweet_id": [
+        "1926633447734252010"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "1926857690707275926",
+    "created_at": "2025-05-26T04:27:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T05:27:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926857690707275926"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 17,
+          "tag": "自残"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1790742740495712256",
+          "start": 3,
+          "username": "xi_pian2278"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6nj2eP4p3l",
+          "end": 58,
+          "expanded_url": "https://x.com/xi_pian2278/status/1926633447734252010/photo/1",
+          "media_key": "3_1926633398010863616",
+          "start": 35,
+          "url": "https://t.co/6nj2eP4p3l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926857690707275926",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926633447734252010",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xi_pian2278: #自残\n割完基本快睡著了sorry https://t.co/6nj2eP4p3l"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1926857690707275926].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1926857690707275926",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1926857690707275926"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1926633398010863616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrzG3iTXYAA2cti.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926633398010863616"
+          ]
+        },
+        "author_id": "1790742740495712256",
+        "conversation_id": "1926633447734252010",
+        "created_at": "2025-05-25T13:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T14:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926633447734252010"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "自残"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6nj2eP4p3l",
+              "end": 41,
+              "expanded_url": "https://x.com/xi_pian2278/status/1926633447734252010/photo/1",
+              "media_key": "3_1926633398010863616",
+              "start": 18,
+              "url": "https://t.co/6nj2eP4p3l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926633447734252010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 380,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "#自残\n割完基本快睡著了sorry https://t.co/6nj2eP4p3l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "@cecilia_cici_ 的备用机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "cecilia_cici_"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "垃圾桶里的红豆糕",
+        "pinned_tweet_id": "1835690499442876760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830526708291956736/0mYmK6JI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 140,
+          "like_count": 782,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 332
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-15T13:55:25.000Z",
+        "description": "小号发发血图和碎碎念啦，大号搞同人！\n大号@daleth27700019\n无言直fo抱歉我没有恶意\n关注我我会查一下如果没有相关内容我可能会移出",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 21,
+                "username": "daleth27700019"
+              }
+            ]
+          }
+        },
+        "id": "1790742740495712256",
+        "name": "岩片希英",
+        "pinned_tweet_id": "1926635411121524747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926633877793128449/8pfLu8Ta_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 60,
+          "like_count": 512,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 250
+        },
+        "username": "xi_pian2278",
+        "verified": false
+      }
+    ]
+  }
+}

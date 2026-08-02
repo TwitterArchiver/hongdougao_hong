@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2043597334291071424",
+    "created_at": "2026-04-13T07:49:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T08:49:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043597334291071424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1416555533411098629",
+          "start": 3,
+          "username": "females_db_park"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043597334291071424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 297
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043485433234100363",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @females_db_park: 「忮忌」？ってなんだと調べたら\n女偏があてられた「嫉妬」の代わりにこれを使おう〜って動きがあるらしい\n漢語で「しき」と読む\n\n単なるやきもちより、強い悪意や猜疑心を含んだ感情で「心に害を抱えて憎む」という意味\n\n確かに女偏より心部のほう…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1131,
+        "media_key": "3_2043485428226154496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFvrK40bYAA0nXq.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1517,
+        "media_key": "3_2043485428230356992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFvrK41bgAAhKqM.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2043597334291071424",
+        "created_at": "2026-04-13T07:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T08:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043597334291071424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1416555533411098629",
+              "start": 3,
+              "username": "females_db_park"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043597334291071424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 297
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043485433234100363",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @females_db_park: 「忮忌」？ってなんだと調べたら\n女偏があてられた「嫉妬」の代わりにこれを使おう〜って動きがあるらしい\n漢語で「しき」と読む\n\n単なるやきもちより、強い悪意や猜疑心を含んだ感情で「心に害を抱えて憎む」という意味\n\n確かに女偏より心部のほう…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043485428226154496",
+            "3_2043485428230356992"
+          ]
+        },
+        "author_id": "1416555533411098629",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043485433234100363",
+        "created_at": "2026-04-13T00:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T01:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043485433234100363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EauPOIsD5t",
+              "end": 166,
+              "expanded_url": "https://x.com/females_db_park/status/2043485433234100363/photo/1",
+              "media_key": "3_2043485428226154496",
+              "start": 143,
+              "url": "https://t.co/EauPOIsD5t"
+            },
+            {
+              "display_url": "pic.x.com/EauPOIsD5t",
+              "end": 166,
+              "expanded_url": "https://x.com/females_db_park/status/2043485433234100363/photo/1",
+              "media_key": "3_2043485428230356992",
+              "start": 143,
+              "url": "https://t.co/EauPOIsD5t"
+            },
+            {
+              "display_url": "x.com/wormhole_0628/…",
+              "end": 190,
+              "expanded_url": "https://twitter.com/wormhole_0628/status/2043444949581217814",
+              "start": 167,
+              "url": "https://t.co/W5Yqk5pyBX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043485433234100363",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 186,
+          "impression_count": 45817,
+          "like_count": 1336,
+          "quote_count": 12,
+          "reply_count": 1,
+          "retweet_count": 297
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043444949581217814",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "「忮忌」？ってなんだと調べたら\n女偏があてられた「嫉妬」の代わりにこれを使おう〜って動きがあるらしい\n漢語で「しき」と読む\n\n単なるやきもちより、強い悪意や猜疑心を含んだ感情で「心に害を抱えて憎む」という意味\n\n確かに女偏より心部のほうが合ってる\n「しっと」は女特有の感情じゃないから https://t.co/EauPOIsD5t https://t.co/W5Yqk5pyBX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "@hongdou_cici的重生号\n\n防炸备用机@Lajitong_l",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "hongdou_cici"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "Lajitong_l"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2039663142012325929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 165,
+          "like_count": 1126,
+          "listed_count": 3,
+          "media_count": 57,
+          "tweet_count": 599
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-18T00:29:29.000Z",
+        "description": "女たちの情報収集場です。固定ツイートにあるように「女たちのデータベース広場」改装中です。いろんなURLを載せる都合上どうしても警告が出てしまうのと検索しづらさがあるので作り直してます。量が膨大でお披露目は未定ですが年内に完成させたい/Amazonアソシエイトでおすすめ本紹介/避難用サブ垢→@fdbp_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 145,
+                "username": "fdbp_sub"
+              }
+            ]
+          }
+        },
+        "id": "1416555533411098629",
+        "location": "2021/09/05より、女たちのDB広場公開",
+        "name": "女たちのデータベース広場",
+        "pinned_tweet_id": "1961699028653212079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1451192120182599697/8pTx6X2d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111827,
+          "following_count": 16,
+          "like_count": 14249,
+          "listed_count": 615,
+          "media_count": 5726,
+          "tweet_count": 25695
+        },
+        "username": "females_db_park",
+        "verified": true
+      }
+    ]
+  }
+}

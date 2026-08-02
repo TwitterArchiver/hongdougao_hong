@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2058078306956963912",
+    "created_at": "2026-05-23T18:49:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T19:49:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058259114497884637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1077906424661856257",
+          "start": 0,
+          "username": "nf0RvF9qLpjzOpv"
+        },
+        {
+          "end": 26,
+          "id": "3070273405",
+          "start": 17,
+          "username": "5389_852"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058259114497884637",
+    "in_reply_to_user_id": "1077906424661856257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058254856197120287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nf0RvF9qLpjzOpv @5389_852 噫妈呀已拉黑，我都怀疑他是机器人了一天到晚在这儿追着回复。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2058078306956963912",
+        "created_at": "2026-05-23T18:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T19:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058259114497884637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1077906424661856257",
+              "start": 0,
+              "username": "nf0RvF9qLpjzOpv"
+            },
+            {
+              "end": 26,
+              "id": "3070273405",
+              "start": 17,
+              "username": "5389_852"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058259114497884637",
+        "in_reply_to_user_id": "1077906424661856257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058254856197120287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nf0RvF9qLpjzOpv @5389_852 噫妈呀已拉黑，我都怀疑他是机器人了一天到晚在这儿追着回复。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1077906424661856257",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2058078306956963912",
+        "created_at": "2026-05-23T18:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T19:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058254856197120287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790756114700640256",
+              "start": 0,
+              "username": "hongdougao_hong"
+            },
+            {
+              "end": 26,
+              "id": "3070273405",
+              "start": 17,
+              "username": "5389_852"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058254856197120287",
+        "in_reply_to_user_id": "1790756114700640256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058170258922549418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdougao_hong @5389_852 这个劳保很相信maga 直接拉黑吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 197,
+          "like_count": 1780,
+          "listed_count": 3,
+          "media_count": 44,
+          "tweet_count": 922
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-26T12:38:12.000Z",
+        "description": "",
+        "id": "1077906424661856257",
+        "name": "2501_0",
+        "pinned_tweet_id": "1177544367357100034",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 77,
+          "like_count": 424559,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 186086
+        },
+        "username": "nf0RvF9qLpjzOpv",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-09T20:10:38.000Z",
+        "description": "",
+        "id": "3070273405",
+        "name": "Vitas",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/575028270577528832/-wLAcFHw_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 1081,
+          "like_count": 15452,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 941
+        },
+        "username": "5389_852",
+        "verified": false
+      }
+    ]
+  }
+}

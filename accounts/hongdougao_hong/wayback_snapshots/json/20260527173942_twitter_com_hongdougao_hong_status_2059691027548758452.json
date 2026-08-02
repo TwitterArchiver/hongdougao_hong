@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059691018526838784"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "2059691027548758452",
+    "created_at": "2026-05-27T17:39:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T18:39:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059691027548758452"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OjVq4hrzca",
+          "end": 89,
+          "expanded_url": "https://x.com/hongdougao_hong/status/2059691027548758452/photo/1",
+          "media_key": "3_2059691018526838784",
+          "start": 66,
+          "url": "https://t.co/OjVq4hrzca"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059691027548758452",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "卧槽谁能告诉我这是咋回事。我一个纯搞同人也不碎碎念的号突然被整了。\n\n一个星期了一直没好，我试着申诉也显示我的号没被封所以不让申请 https://t.co/OjVq4hrzca"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059691018526838784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJV-EZJa0AAODXJ.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059691018526838784"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "conversation_id": "2059691027548758452",
+        "created_at": "2026-05-27T17:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059691027548758452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OjVq4hrzca",
+              "end": 89,
+              "expanded_url": "https://x.com/hongdougao_hong/status/2059691027548758452/photo/1",
+              "media_key": "3_2059691018526838784",
+              "start": 66,
+              "url": "https://t.co/OjVq4hrzca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059691027548758452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽谁能告诉我这是咋回事。我一个纯搞同人也不碎碎念的号突然被整了。\n\n一个星期了一直没好，我试着申诉也显示我的号没被封所以不让申请 https://t.co/OjVq4hrzca"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 195,
+          "like_count": 1838,
+          "listed_count": 3,
+          "media_count": 46,
+          "tweet_count": 953
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      }
+    ]
+  }
+}

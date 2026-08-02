@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2070419653667803234",
+    "created_at": "2026-06-28T23:59:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T00:59:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071383016916865239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2056046929252073472",
+          "start": 0,
+          "username": "Tyygwn"
+        },
+        {
+          "end": 17,
+          "id": "2069346949497769984",
+          "start": 8,
+          "username": "Rikky7on"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071383016916865239",
+    "in_reply_to_user_id": "2056046929252073472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071311381841031176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tyygwn @Rikky7on 她们的价值观我真的搞不懂，牛逼坏了给"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2070419653667803234",
+        "created_at": "2026-06-28T23:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T00:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071383016916865239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2056046929252073472",
+              "start": 0,
+              "username": "Tyygwn"
+            },
+            {
+              "end": 17,
+              "id": "2069346949497769984",
+              "start": 8,
+              "username": "Rikky7on"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071383016916865239",
+        "in_reply_to_user_id": "2056046929252073472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071311381841031176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tyygwn @Rikky7on 她们的价值观我真的搞不懂，牛逼坏了给"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056046929252073472",
+        "conversation_id": "2070419653667803234",
+        "created_at": "2026-06-28T19:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T20:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071311381841031176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790756114700640256",
+              "start": 0,
+              "username": "hongdougao_hong"
+            },
+            {
+              "end": 26,
+              "id": "2069346949497769984",
+              "start": 17,
+              "username": "Rikky7on"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071311381841031176",
+        "in_reply_to_user_id": "1790756114700640256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070741479237280228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdougao_hong @Rikky7on 我靠，别理她们了，我靠，我还看有卖的呢，吓死人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 210,
+          "like_count": 2312,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1181
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T16:20:22.000Z",
+        "description": "爱",
+        "id": "2056046929252073472",
+        "name": "Ty",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056057756457795584/WZdScGOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 79,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "Tyygwn",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-23T09:10:56.000Z",
+        "description": "",
+        "id": "2069346949497769984",
+        "name": "煎煎吃了没",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069356033630408704/jDNHX7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 11,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "Rikky7on",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080988695470239745"
+      ],
+      "media_source_tweet_id": [
+        "2080988706308259880"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "2081199398793736325",
+    "created_at": "2026-07-26T02:06:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T03:06:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081199398793736325"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 103,
+          "start": 94,
+          "tag": "ふぁんとむらんど"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1801132423603953664",
+          "start": 3,
+          "username": "PhantomSiita"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XxUvz79iMI",
+          "end": 127,
+          "expanded_url": "https://x.com/PhantomSiita/status/2080988706308259880/photo/1",
+          "media_key": "3_2080988695470239745",
+          "start": 104,
+          "url": "https://t.co/XxUvz79iMI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081199398793736325",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 665
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080988706308259880",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PhantomSiita: 💖🫧ふぁんとむ❤︎らんど🫧💘\n\n🍭2026.07.25 Zepp Osaka Bayside🍭\n\nNext Stop... Zepp Nagoya🩷\n\n#ふぁんとむらんど https://t.co/XxUvz79iMI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2080988695470239745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEoMWcbcAE24pg.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080988695470239745"
+          ]
+        },
+        "author_id": "1801132423603953664",
+        "conversation_id": "2080988706308259880",
+        "created_at": "2026-07-25T12:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T13:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080988706308259880"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 85,
+              "start": 76,
+              "tag": "ふぁんとむらんど"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XxUvz79iMI",
+              "end": 109,
+              "expanded_url": "https://x.com/PhantomSiita/status/2080988706308259880/photo/1",
+              "media_key": "3_2080988695470239745",
+              "start": 86,
+              "url": "https://t.co/XxUvz79iMI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080988706308259880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 110,
+          "impression_count": 65629,
+          "like_count": 4640,
+          "quote_count": 56,
+          "reply_count": 76,
+          "retweet_count": 665
+        },
+        "reply_settings": "everyone",
+        "text": "💖🫧ふぁんとむ❤︎らんど🫧💘\n\n🍭2026.07.25 Zepp Osaka Bayside🍭\n\nNext Stop... Zepp Nagoya🩷\n\n#ふぁんとむらんど https://t.co/XxUvz79iMI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080988695470239745"
+          ],
+          "media_source_tweet_id": [
+            "2080988706308259880"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "conversation_id": "2081199398793736325",
+        "created_at": "2026-07-26T02:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T03:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081199398793736325"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 103,
+              "start": 94,
+              "tag": "ふぁんとむらんど"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1801132423603953664",
+              "start": 3,
+              "username": "PhantomSiita"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XxUvz79iMI",
+              "end": 127,
+              "expanded_url": "https://x.com/PhantomSiita/status/2080988706308259880/photo/1",
+              "media_key": "3_2080988695470239745",
+              "start": 104,
+              "url": "https://t.co/XxUvz79iMI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081199398793736325",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 665
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080988706308259880",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PhantomSiita: 💖🫧ふぁんとむ❤︎らんど🫧💘\n\n🍭2026.07.25 Zepp Osaka Bayside🍭\n\nNext Stop... Zepp Nagoya🩷\n\n#ふぁんとむらんど https://t.co/XxUvz79iMI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 209,
+          "like_count": 2654,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 1370
+        },
+        "url": "",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T06:00:19.000Z",
+        "description": "スタッフによる公式Xです（気まぐれでメンバーも出現）/ もな・美雨(みう)・凛花(りんか)・百花(もか) / https://t.co/3s0BmYtvIz / Contact🦋https://t.co/nmR74lgOjW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/Phantomsiita",
+                "end": 78,
+                "expanded_url": "https://lit.link/Phantomsiita",
+                "start": 55,
+                "url": "https://t.co/3s0BmYtvIz"
+              },
+              {
+                "display_url": "cloud9pro.co.jp/contact/",
+                "end": 112,
+                "expanded_url": "https://cloud9pro.co.jp/contact/",
+                "start": 89,
+                "url": "https://t.co/nmR74lgOjW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "phantom-siita.lnk.to/mo-ii-kaiTP",
+                "end": 23,
+                "expanded_url": "http://phantom-siita.lnk.to/mo-ii-kaiTP",
+                "start": 0,
+                "url": "https://t.co/ZFT40uylF7"
+              }
+            ]
+          }
+        },
+        "id": "1801132423603953664",
+        "location": "6.24 『ホラークイーン』Release🐍",
+        "name": "ファントムシータ",
+        "pinned_tweet_id": "2075520655768817959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803714131687874560/gs64oehU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107897,
+          "following_count": 9,
+          "like_count": 278,
+          "listed_count": 275,
+          "media_count": 1278,
+          "tweet_count": 2953
+        },
+        "url": "https://t.co/ZFT40uylF7",
+        "username": "PhantomSiita",
+        "verified": true
+      }
+    ]
+  }
+}

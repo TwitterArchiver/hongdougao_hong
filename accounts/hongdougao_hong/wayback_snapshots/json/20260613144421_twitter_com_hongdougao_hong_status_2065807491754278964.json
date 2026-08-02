@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2065807491754278964",
+    "created_at": "2026-06-13T14:44:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T15:44:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065807491754278964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2042655089228128256",
+          "start": 3,
+          "username": "privwendley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065807491754278964",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065492615311577186",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @privwendley: Se você tem Twitter eu tenho certeza que você é drogado, lgbt ou depressivo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2065807491754278964",
+        "created_at": "2026-06-13T14:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065807491754278964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042655089228128256",
+              "start": 3,
+              "username": "privwendley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065807491754278964",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065492615311577186",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @privwendley: Se você tem Twitter eu tenho certeza que você é drogado, lgbt ou depressivo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042655089228128256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2065492615311577186",
+        "created_at": "2026-06-12T17:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065492615311577186"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065492615311577186",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7401,
+          "like_count": 306,
+          "quote_count": 29,
+          "reply_count": 61,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "Se você tem Twitter eu tenho certeza que você é drogado, lgbt ou depressivo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994,
+          "following_count": 207,
+          "like_count": 2060,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 1061
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T17:26:54.000Z",
+        "description": "🚬•☕️•🎱",
+        "id": "2042655089228128256",
+        "name": "ؘ 𝖂",
+        "pinned_tweet_id": "2060834750017700114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065767916398624768/a--XLUtQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2821,
+          "following_count": 593,
+          "like_count": 9123,
+          "listed_count": 0,
+          "media_count": 295,
+          "tweet_count": 694
+        },
+        "username": "privwendley",
+        "verified": false
+      }
+    ]
+  }
+}

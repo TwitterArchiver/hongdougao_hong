@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2070754243276132589",
+    "created_at": "2026-06-27T06:20:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T07:20:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070754243276132589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2049877364763676672",
+          "start": 3,
+          "username": "4_hui916768"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070754243276132589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070752457224065028",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4_hui916768: 笑別人自殘是改花刀的賤全逼都死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2070754243276132589",
+        "created_at": "2026-06-27T06:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070754243276132589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2049877364763676672",
+              "start": 3,
+              "username": "4_hui916768"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070754243276132589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070752457224065028",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4_hui916768: 笑別人自殘是改花刀的賤全逼都死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049877364763676672",
+        "conversation_id": "2070752457224065028",
+        "created_at": "2026-06-27T06:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070752457224065028"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070752457224065028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "笑別人自殘是改花刀的賤全逼都死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 209,
+          "like_count": 2285,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1176
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-30T15:44:02.000Z",
+        "description": "馬斯克你無敵了",
+        "id": "2049877364763676672",
+        "name": "遺灰5.0",
+        "pinned_tweet_id": "2056669593033482458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050163297123725312/Nrt1FqWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 287,
+          "like_count": 198,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 109
+        },
+        "url": "",
+        "username": "4_hui916768",
+        "verified": false
+      }
+    ]
+  }
+}

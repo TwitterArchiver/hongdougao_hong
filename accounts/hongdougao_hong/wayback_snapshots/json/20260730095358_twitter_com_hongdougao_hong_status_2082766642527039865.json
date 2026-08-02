@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082766631420514304"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "2082766642527039865",
+    "created_at": "2026-07-30T09:53:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T10:53:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082766642527039865"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/732YemonmF",
+          "end": 46,
+          "expanded_url": "https://x.com/hongdougao_hong/status/2082766642527039865/photo/1",
+          "media_key": "3_2082766631420514304",
+          "start": 23,
+          "url": "https://t.co/732YemonmF"
+        },
+        {
+          "display_url": "x.com/hongdougao_hon…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/hongdougao_hong/status/2082659847787724815",
+          "start": 47,
+          "url": "https://t.co/ybVXlVlS8p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082766642527039865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082659847787724815",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "诶呀我真的好喜欢这个质感\n\n特效化妆细节展示 https://t.co/732YemonmF https://t.co/ybVXlVlS8p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2500,
+        "media_key": "3_2082766631420514304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOd5N1_bUAAL4Gq.jpg",
+        "width": 1206
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2082659825662808064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOcYE7ib0AAW7k5.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2082659825666985984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOcYE7jbkAA9Hsl.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082766631420514304"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "conversation_id": "2082766642527039865",
+        "created_at": "2026-07-30T09:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082766642527039865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/732YemonmF",
+              "end": 46,
+              "expanded_url": "https://x.com/hongdougao_hong/status/2082766642527039865/photo/1",
+              "media_key": "3_2082766631420514304",
+              "start": 23,
+              "url": "https://t.co/732YemonmF"
+            },
+            {
+              "display_url": "x.com/hongdougao_hon…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/hongdougao_hong/status/2082659847787724815",
+              "start": 47,
+              "url": "https://t.co/ybVXlVlS8p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082766642527039865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082659847787724815",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "诶呀我真的好喜欢这个质感\n\n特效化妆细节展示 https://t.co/732YemonmF https://t.co/ybVXlVlS8p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082659825662808064",
+            "3_2082659825666985984"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "conversation_id": "2082659847787724815",
+        "created_at": "2026-07-30T02:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T03:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082659847787724815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X0w6pNTMTG",
+              "end": 39,
+              "expanded_url": "https://x.com/hongdougao_hong/status/2082659847787724815/photo/1",
+              "media_key": "3_2082659825662808064",
+              "start": 16,
+              "url": "https://t.co/X0w6pNTMTG"
+            },
+            {
+              "display_url": "pic.x.com/X0w6pNTMTG",
+              "end": 39,
+              "expanded_url": "https://x.com/hongdougao_hong/status/2082659847787724815/photo/1",
+              "media_key": "3_2082659825666985984",
+              "start": 16,
+              "url": "https://t.co/X0w6pNTMTG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082659847787724815",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 952,
+          "like_count": 120,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "减速带\n\n用橡皮泥捏的特效化妆 https://t.co/X0w6pNTMTG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 209,
+          "like_count": 2701,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 1407
+        },
+        "url": "",
+        "username": "hongdougao_hong",
+        "verified": false
+      }
+    ]
+  }
+}

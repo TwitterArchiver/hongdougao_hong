@@ -1,0 +1,131 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976883161339449344"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1976883165106257989",
+    "created_at": "2025-10-11T05:30:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T06:30:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976883165106257989"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 10,
+          "start": 4,
+          "tag": "shtwt"
+        },
+        {
+          "end": 14,
+          "start": 11,
+          "tag": "自傷"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/52ZhndaH0C",
+          "end": 38,
+          "expanded_url": "https://x.com/hongdougao_hong/status/1976883165106257989/photo/1",
+          "media_key": "3_1976883161339449344",
+          "start": 15,
+          "url": "https://t.co/52ZhndaH0C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976883165106257989",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "浴室🛀\n#shtwt #自傷 https://t.co/52ZhndaH0C"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1976883165106257989].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1976883165106257989",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1976883165106257989"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976883161339449344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G29MwuIW0AA_wo6.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "@hongdou_cici的备用机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "垃圾桶里的红豆糕",
+        "pinned_tweet_id": "1835690499442876760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976881981129371648/W0XsGfSq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 145,
+          "like_count": 879,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 371
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      }
+    ]
+  }
+}

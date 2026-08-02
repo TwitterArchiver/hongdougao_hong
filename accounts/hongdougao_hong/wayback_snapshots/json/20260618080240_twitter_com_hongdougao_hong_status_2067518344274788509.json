@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2067518344274788509",
+    "created_at": "2026-06-18T08:02:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T09:02:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067518344274788509"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067518344274788509",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果一个人或宠物的死亡既不破坏我的生存状态也不是我极度依附的对象，我觉得我很难说去崩溃。\n比如我家老鼠死了是我很早就预料到的，我一直觉得它们就活不久，死掉不会对我的生活造成巨大改变，活着则是我可以继续和他们玩乐的快乐生活。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2067518344274788509",
+        "created_at": "2026-06-18T08:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067518344274788509"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067518344274788509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果一个人或宠物的死亡既不破坏我的生存状态也不是我极度依附的对象，我觉得我很难说去崩溃。\n比如我家老鼠死了是我很早就预料到的，我一直觉得它们就活不久，死掉不会对我的生活造成巨大改变，活着则是我可以继续和他们玩乐的快乐生活。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 209,
+          "like_count": 2125,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 1091
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      }
+    ]
+  }
+}

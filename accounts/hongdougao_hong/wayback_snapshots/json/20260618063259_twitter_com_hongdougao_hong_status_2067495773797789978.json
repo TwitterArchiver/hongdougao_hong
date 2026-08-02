@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2067247194231677365",
+    "created_at": "2026-06-18T06:32:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T07:32:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067495773797789978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1804669156383772672",
+          "start": 0,
+          "username": "SaiYan28405"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067495773797789978",
+    "in_reply_to_user_id": "1804669156383772672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067482718322168208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SaiYan28405 谢谢🐁💤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2067247194231677365",
+        "created_at": "2026-06-18T06:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067495773797789978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1804669156383772672",
+              "start": 0,
+              "username": "SaiYan28405"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067495773797789978",
+        "in_reply_to_user_id": "1804669156383772672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067482718322168208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SaiYan28405 谢谢🐁💤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804669156383772672",
+        "conversation_id": "2067247194231677365",
+        "created_at": "2026-06-18T05:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067482718322168208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790756114700640256",
+              "start": 0,
+              "username": "hongdougao_hong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067482718322168208",
+        "in_reply_to_user_id": "1790756114700640256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067247194231677365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdougao_hong 晚安小鼠🐁💤节哀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 209,
+          "like_count": 2120,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 1088
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T00:14:06.000Z",
+        "description": "十分无趣的无聊的人",
+        "id": "1804669156383772672",
+        "location": "灣仔, 香港",
+        "name": "无聊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820977258560991232/50KrbQrC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 16,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 44
+        },
+        "url": "",
+        "username": "SaiYan28405",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044820790391234560"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2044820799161598012",
+    "created_at": "2026-04-16T16:50:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T17:50:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044820799161598012"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QIFjUFEGLO",
+          "end": 33,
+          "expanded_url": "https://x.com/hongdougao_hong/status/2044820799161598012/photo/1",
+          "media_key": "3_2044820790391234560",
+          "start": 10,
+          "url": "https://t.co/QIFjUFEGLO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044820799161598012",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "deepcuts👄 https://t.co/QIFjUFEGLO"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2044820799161598012].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2044820799161598012",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2044820799161598012"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1605,
+        "media_key": "3_2044820790391234560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGCprMiaYAAHL_s.jpg",
+        "width": 1206
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2039663142012325929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 167,
+          "like_count": 1228,
+          "listed_count": 3,
+          "media_count": 62,
+          "tweet_count": 641
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      }
+    ]
+  }
+}

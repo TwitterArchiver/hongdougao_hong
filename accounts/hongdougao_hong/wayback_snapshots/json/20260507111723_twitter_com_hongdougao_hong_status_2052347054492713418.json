@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2052347054492713418",
+    "created_at": "2026-05-07T11:17:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T12:17:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052347054492713418"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chocotaco8019/…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/chocotaco8019/status/2051459460598514169",
+          "start": 20,
+          "url": "https://t.co/b7AdMoIluP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052347054492713418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051459460598514169",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Gen Z 比起创造生命更喜欢结束生命 https://t.co/b7AdMoIluP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 183,
+        "media_key": "3_2051459452822245376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHg_gNSWUAA4Zq-.png",
+        "width": 275
+      },
+      {
+        "height": 360,
+        "media_key": "3_2051459444970516480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHg_fwCWcAAmhOo.png",
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2052347054492713418",
+        "created_at": "2026-05-07T11:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T12:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052347054492713418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chocotaco8019/…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/chocotaco8019/status/2051459460598514169",
+              "start": 20,
+              "url": "https://t.co/b7AdMoIluP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052347054492713418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051459460598514169",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Gen Z 比起创造生命更喜欢结束生命 https://t.co/b7AdMoIluP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051459452822245376",
+            "3_2051459444970516480"
+          ]
+        },
+        "author_id": "1636500530083110912",
+        "conversation_id": "2051459460598514169",
+        "created_at": "2026-05-05T00:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T01:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051459460598514169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4sCtASvDyV",
+              "end": 79,
+              "expanded_url": "https://x.com/chocotaco8019/status/2051459460598514169/photo/1",
+              "media_key": "3_2051459452822245376",
+              "start": 56,
+              "url": "https://t.co/4sCtASvDyV"
+            },
+            {
+              "display_url": "pic.x.com/4sCtASvDyV",
+              "end": 79,
+              "expanded_url": "https://x.com/chocotaco8019/status/2051459460598514169/photo/1",
+              "media_key": "3_2051459444970516480",
+              "start": 56,
+              "url": "https://t.co/4sCtASvDyV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051459460598514169",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5505,
+          "impression_count": 3293587,
+          "like_count": 155693,
+          "quote_count": 2118,
+          "reply_count": 1060,
+          "retweet_count": 27616
+        },
+        "reply_settings": "everyone",
+        "text": "Gen Z is preferring killing themselves over having sex. https://t.co/4sCtASvDyV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 184,
+          "like_count": 1444,
+          "listed_count": 3,
+          "media_count": 69,
+          "tweet_count": 785
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-16T22:52:01.000Z",
+        "description": "Being kind is not wasted, no matter how it is returned. \nAlt: @Vtillidieorsmth \nhttps://t.co/jqBMhSHCuF\nhe/they 17\nDC: chocotaco8019.\n#moetwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 141,
+                "start": 134,
+                "tag": "moetwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "Vtillidieorsmth"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "i-eat-dirt-lol.straw.page",
+                "end": 103,
+                "expanded_url": "https://i-eat-dirt-lol.straw.page",
+                "start": 80,
+                "url": "https://t.co/jqBMhSHCuF"
+              }
+            ]
+          }
+        },
+        "id": "1636500530083110912",
+        "location": "I live regardless of location",
+        "name": "chocotaco8019 | #owtwt 🇵🇸",
+        "pinned_tweet_id": "2049240886513438749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966236915797020672/XCiJG3sE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 380,
+          "like_count": 30097,
+          "listed_count": 2,
+          "media_count": 183,
+          "tweet_count": 3207
+        },
+        "username": "chocotaco8019",
+        "verified": false
+      }
+    ]
+  }
+}

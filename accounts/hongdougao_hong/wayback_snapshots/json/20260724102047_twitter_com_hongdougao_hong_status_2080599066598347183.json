@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2080598057834705033",
+    "created_at": "2026-07-24T10:20:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T11:20:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080599066598347183"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080599066598347183",
+    "in_reply_to_user_id": "1790756114700640256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080598057834705033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "高一还是高二退的来着，反正不是高一下学期就是高二上学期，整体玩贴吧还参与了个虐猫群组，这群人前段时间还去网暴一个家里猫去世了的女生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2080598057834705033",
+        "created_at": "2026-07-24T10:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T11:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080599066598347183"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080599066598347183",
+        "in_reply_to_user_id": "1790756114700640256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080598057834705033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "高一还是高二退的来着，反正不是高一下学期就是高二上学期，整体玩贴吧还参与了个虐猫群组，这群人前段时间还去网暴一个家里猫去世了的女生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2080598057834705033",
+        "created_at": "2026-07-24T10:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T11:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080598057834705033"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080598057834705033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前学校的男同学高一就退学现在家里人托关系给他送派出所里去工作了😅😅\n\n顺带一提此人有虐猫前科、有网暴他人前看科、露阴癖、多次打架斗殴前科、反lgbtq+人类至上主义+无敌厌女"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 211,
+          "like_count": 2628,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 1353
+        },
+        "url": "",
+        "username": "hongdougao_hong",
+        "verified": false
+      }
+    ]
+  }
+}

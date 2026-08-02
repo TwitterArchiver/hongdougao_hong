@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075966947846701056"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "2075966964204491038",
+    "created_at": "2026-07-11T15:34:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T16:34:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075966964204491038"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LepmJgav5Q",
+          "end": 39,
+          "expanded_url": "https://x.com/hongdougao_hong/status/2075966964204491038/photo/1",
+          "media_key": "3_2075966947846701056",
+          "start": 16,
+          "url": "https://t.co/LepmJgav5Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075966964204491038",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🟦🔷🔵💙\nALL MAKEUP https://t.co/LepmJgav5Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3519,
+        "media_key": "3_2075966947846701056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9Q8KvawAAuX1t.jpg",
+        "width": 2642
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075966947846701056"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "conversation_id": "2075966964204491038",
+        "created_at": "2026-07-11T15:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075966964204491038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LepmJgav5Q",
+              "end": 39,
+              "expanded_url": "https://x.com/hongdougao_hong/status/2075966964204491038/photo/1",
+              "media_key": "3_2075966947846701056",
+              "start": 16,
+              "url": "https://t.co/LepmJgav5Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075966964204491038",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🟦🔷🔵💙\nALL MAKEUP https://t.co/LepmJgav5Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 210,
+          "like_count": 2485,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 1271
+        },
+        "url": "",
+        "username": "hongdougao_hong",
+        "verified": false
+      }
+    ]
+  }
+}

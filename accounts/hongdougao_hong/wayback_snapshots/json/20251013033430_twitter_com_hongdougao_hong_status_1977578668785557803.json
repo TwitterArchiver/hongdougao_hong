@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "1977578668785557803",
+    "created_at": "2025-10-13T03:34:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T04:34:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977578668785557803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684492249416323072",
+          "start": 3,
+          "username": "hongdou_cici"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977578668785557803",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977578613517296039",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hongdou_cici: ╭◜◝ ͡ ◜ ͡ ╮ \n(      嗯....   ) \n╰◟◞ ͜ ╭◜◝ ͡ ◜◝ ͡ ◝ ͡ ╮\n　     (    是猫抓伤的  ）\n　　 ╰◟◞ ͜ ◟◞ ͜ ◟◞ ╯\n    ∧__∧ ᐝ\n(   T ^ T)  \n /…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1977578668785557803].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1977578668785557803",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1977578668785557803"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1977578602427256832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3HFQuEXEAAmNJ0.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1977578602423042048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3HFQuDWwAAqsWR.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977578602427256832",
+            "3_1977578602423042048"
+          ]
+        },
+        "author_id": "1684492249416323072",
+        "conversation_id": "1977578613517296039",
+        "created_at": "2025-10-13T03:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T04:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977578613517296039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KKakTAUSyU",
+              "end": 150,
+              "expanded_url": "https://x.com/hongdou_cici/status/1977578613517296039/photo/1",
+              "media_key": "3_1977578602427256832",
+              "start": 127,
+              "url": "https://t.co/KKakTAUSyU"
+            },
+            {
+              "display_url": "pic.x.com/KKakTAUSyU",
+              "end": 150,
+              "expanded_url": "https://x.com/hongdou_cici/status/1977578613517296039/photo/1",
+              "media_key": "3_1977578602423042048",
+              "start": 127,
+              "url": "https://t.co/KKakTAUSyU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977578613517296039",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "╭◜◝ ͡ ◜ ͡ ╮ \n(      嗯....   ) \n╰◟◞ ͜ ╭◜◝ ͡ ◜◝ ͡ ◝ ͡ ╮\n　     (    是猫抓伤的  ）\n　　 ╰◟◞ ͜ ◟◞ ͜ ◟◞ ╯\n    ∧__∧ ᐝ\n(   T ^ T)  \n /　　Ｏ\nしーＪ https://t.co/KKakTAUSyU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "@hongdou_cici的备用机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "垃圾桶里的红豆糕",
+        "pinned_tweet_id": "1835690499442876760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976881981129371648/W0XsGfSq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 144,
+          "like_count": 884,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 376
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T09:13:54.000Z",
+        "description": "･̆⍛･̆| feel free to block me if my pics sacared u❌不喜欢我请自避雷❗️｜备用机@hongdougao_hong｜我宝💗@Unrestrained000｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "hongdougao_hong"
+              },
+              {
+                "end": 100,
+                "start": 84,
+                "username": "Unrestrained000"
+              }
+            ]
+          }
+        },
+        "id": "1684492249416323072",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "1967678530684399788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857343047714983936/slLcQZH8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1789,
+          "following_count": 227,
+          "like_count": 4748,
+          "listed_count": 7,
+          "media_count": 352,
+          "tweet_count": 2385
+        },
+        "username": "hongdou_cici",
+        "verified": false
+      }
+    ]
+  }
+}

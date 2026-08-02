@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2053095564145988019",
+    "created_at": "2026-05-09T13:13:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T14:13:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053101128192238017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1889000242118619136",
+          "start": 0,
+          "username": "mimixiaomi8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053101128192238017",
+    "in_reply_to_user_id": "1889000242118619136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053095564145988019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mimixiaomi8964 马斯克干啥。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 445,
+        "media_key": "3_2053095561415602176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4PiQwbsAAoI5c.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2053095564145988019",
+        "created_at": "2026-05-09T13:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T14:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053101128192238017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1889000242118619136",
+              "start": 0,
+              "username": "mimixiaomi8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053101128192238017",
+        "in_reply_to_user_id": "1889000242118619136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053095564145988019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mimixiaomi8964 马斯克干啥。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053095561415602176"
+          ]
+        },
+        "author_id": "1889000242118619136",
+        "conversation_id": "2053095564145988019",
+        "created_at": "2026-05-09T12:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T13:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053095564145988019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ezxo9yqSbc",
+              "end": 31,
+              "expanded_url": "https://x.com/mimixiaomi8964/status/2053095564145988019/photo/1",
+              "media_key": "3_2053095561415602176",
+              "start": 8,
+              "url": "https://t.co/Ezxo9yqSbc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053095564145988019",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "msk你啥意思 https://t.co/Ezxo9yqSbc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 183,
+          "like_count": 1499,
+          "listed_count": 3,
+          "media_count": 57,
+          "tweet_count": 796
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-10T17:15:38.000Z",
+        "description": "逃难型依恋｜自说自话处｜钱性恋",
+        "id": "1889000242118619136",
+        "location": "🚪5201314",
+        "name": "咪咪小咪",
+        "pinned_tweet_id": "2017905534176031202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889000533010292736/uNL19HIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 183,
+          "like_count": 1601,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 1376
+        },
+        "username": "mimixiaomi8964",
+        "verified": false
+      }
+    ]
+  }
+}

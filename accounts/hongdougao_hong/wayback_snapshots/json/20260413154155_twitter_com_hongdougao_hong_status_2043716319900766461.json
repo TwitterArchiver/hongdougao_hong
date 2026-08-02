@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2043716319900766461",
+    "created_at": "2026-04-13T15:41:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T16:41:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043716319900766461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1885962788113416192",
+          "start": 3,
+          "username": "stjkttkx365"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043716319900766461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043521602806247613",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @stjkttkx365: 帮我屏蔽喜欢虐女辱女的账户"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2043716319900766461",
+        "created_at": "2026-04-13T15:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043716319900766461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1885962788113416192",
+              "start": 3,
+              "username": "stjkttkx365"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043716319900766461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043521602806247613",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @stjkttkx365: 帮我屏蔽喜欢虐女辱女的账户"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885962788113416192",
+        "conversation_id": "2043521602806247613",
+        "created_at": "2026-04-13T02:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T03:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043521602806247613"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043521602806247613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4076,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "帮我屏蔽喜欢虐女辱女的账户"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "@hongdou_cici的重生号\n\n防炸备用机@Lajitong_l",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "hongdou_cici"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "Lajitong_l"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2039663142012325929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 165,
+          "like_count": 1138,
+          "listed_count": 3,
+          "media_count": 57,
+          "tweet_count": 604
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-02T08:05:56.000Z",
+        "description": "本来开开心心追星怎么突然掉进4i大米缸߹ ߹\nDom",
+        "id": "1885962788113416192",
+        "location": "Wuhan",
+        "name": "浆果",
+        "pinned_tweet_id": "2041091577377132853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041022166133768192/UiJPhJtT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 10,
+          "like_count": 452,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 554
+        },
+        "username": "stjkttkx365",
+        "verified": false
+      }
+    ]
+  }
+}

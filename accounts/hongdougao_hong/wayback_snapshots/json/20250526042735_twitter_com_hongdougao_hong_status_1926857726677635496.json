@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926345275678863360"
+      ],
+      "media_source_tweet_id": [
+        "1926345305546518734"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "1926857726677635496",
+    "created_at": "2025-05-26T04:27:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T05:27:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926857726677635496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1771807384266301440",
+          "start": 3,
+          "username": "Unrestrained000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OPPdvpZ2sY",
+          "end": 58,
+          "expanded_url": "https://x.com/Unrestrained000/status/1926345305546518734/photo/1",
+          "media_key": "3_1926345275678863360",
+          "start": 35,
+          "url": "https://t.co/OPPdvpZ2sY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926857726677635496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926345305546518734",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Unrestrained000: 好久不🈹痛感都變強烈了…， https://t.co/OPPdvpZ2sY"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1926857726677635496].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1926857726677635496",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1926857726677635496"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1926345275678863360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrvA0m-XMAAWDuk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926345275678863360"
+          ]
+        },
+        "author_id": "1771807384266301440",
+        "conversation_id": "1926345305546518734",
+        "created_at": "2025-05-24T18:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T19:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926345305546518734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OPPdvpZ2sY",
+              "end": 37,
+              "expanded_url": "https://x.com/Unrestrained000/status/1926345305546518734/photo/1",
+              "media_key": "3_1926345275678863360",
+              "start": 14,
+              "url": "https://t.co/OPPdvpZ2sY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926345305546518734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 65,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好久不🈹痛感都變強烈了…， https://t.co/OPPdvpZ2sY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "@cecilia_cici_ 的备用机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "cecilia_cici_"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "垃圾桶里的红豆糕",
+        "pinned_tweet_id": "1835690499442876760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830526708291956736/0mYmK6JI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 140,
+          "like_count": 783,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 333
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-24T07:53:03.000Z",
+        "description": "我會定期取一些不太眼熟的互望周知/我寶😚@cecilia_cici_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 20,
+                "username": "cecilia_cici_"
+              }
+            ]
+          }
+        },
+        "id": "1771807384266301440",
+        "location": "蟲.",
+        "name": "蟲.",
+        "pinned_tweet_id": "1926538583650763213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857349631778164736/Up1HIf4__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 138,
+          "like_count": 911,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 894
+        },
+        "username": "Unrestrained000",
+        "verified": false
+      }
+    ]
+  }
+}

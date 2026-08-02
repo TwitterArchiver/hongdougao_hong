@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2069268429526417621",
+    "created_at": "2026-06-23T04:07:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T05:07:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069271163159937486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2054829279762935809",
+          "start": 0,
+          "username": "nemunemu_son"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069271163159937486",
+    "in_reply_to_user_id": "2054829279762935809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069270392376828371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nemunemu_son 啊！！我家正好有速食的味增汤，我去试一下🫶🫶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2069268429526417621",
+        "created_at": "2026-06-23T04:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T05:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069271163159937486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2054829279762935809",
+              "start": 0,
+              "username": "nemunemu_son"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069271163159937486",
+        "in_reply_to_user_id": "2054829279762935809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069270392376828371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nemunemu_son 啊！！我家正好有速食的味增汤，我去试一下🫶🫶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054829279762935809",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drink Experience",
+              "id": "1006278636842782720",
+              "name": "Drink Experience"
+            }
+          }
+        ],
+        "conversation_id": "2069268429526417621",
+        "created_at": "2026-06-23T04:04:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T05:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069270392376828371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790756114700640256",
+              "start": 0,
+              "username": "hongdougao_hong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069270392376828371",
+        "in_reply_to_user_id": "1790756114700640256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069268429526417621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdougao_hong 喝【味噌汁】！！\n日本では【しじみ汁】などの味噌汁をお酒を飲んで寝たら、起きた時に飲むよ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1002,
+          "following_count": 210,
+          "like_count": 2157,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 1118
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T07:41:07.000Z",
+        "description": "皆愛してる！！\n\n我目前正在學習繁體中文。\n隨時歡迎你跟我聊天！我們交朋友吧！",
+        "id": "2054829279762935809",
+        "name": "あ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054838465087565824/EmKTOjyo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 15,
+          "like_count": 449,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 185
+        },
+        "url": "",
+        "username": "nemunemu_son",
+        "verified": false
+      }
+    ]
+  }
+}

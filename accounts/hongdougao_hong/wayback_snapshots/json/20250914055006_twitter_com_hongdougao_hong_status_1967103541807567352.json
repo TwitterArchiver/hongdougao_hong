@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967103535494922240",
+        "3_1967103535486541824"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1967103541807567352",
+    "created_at": "2025-09-14T05:50:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T06:50:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967103541807567352"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 18,
+          "tag": "shtwt"
+        },
+        {
+          "end": 30,
+          "start": 26,
+          "tag": "リスカ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fCmgxB2o6M",
+          "end": 54,
+          "expanded_url": "https://x.com/hongdougao_hong/status/1967103541807567352/photo/1",
+          "media_key": "3_1967103535494922240",
+          "start": 31,
+          "url": "https://t.co/fCmgxB2o6M"
+        },
+        {
+          "display_url": "pic.x.com/fCmgxB2o6M",
+          "end": 54,
+          "expanded_url": "https://x.com/hongdougao_hong/status/1967103541807567352/photo/1",
+          "media_key": "3_1967103535486541824",
+          "start": 31,
+          "url": "https://t.co/fCmgxB2o6M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967103541807567352",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "its like a gorge\n\n#shtwt \n#リスカ https://t.co/fCmgxB2o6M"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1967103541807567352].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1967103541807567352",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1967103541807567352"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 611,
+        "media_key": "3_1967103535494922240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0yOPk2XAAANM2X.jpg",
+        "width": 1116
+      },
+      {
+        "height": 1604,
+        "media_key": "3_1967103535486541824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0yOPk0XIAA2coN.jpg",
+        "width": 1206
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "@hongdou_cici的备用机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "垃圾桶里的红豆糕",
+        "pinned_tweet_id": "1835690499442876760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830526708291956736/0mYmK6JI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 138,
+          "like_count": 864,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 359
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2070419653667803234",
+    "created_at": "2026-07-03T03:25:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T04:25:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072884322089279767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1732021375232315392",
+          "start": 0,
+          "username": "lijnqiu1205"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072884322089279767",
+    "in_reply_to_user_id": "1732021375232315392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072792107677286420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lijnqiu1205 我觉得都很丑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2070419653667803234",
+        "created_at": "2026-07-03T03:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T04:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072884322089279767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1732021375232315392",
+              "start": 0,
+              "username": "lijnqiu1205"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072884322089279767",
+        "in_reply_to_user_id": "1732021375232315392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072792107677286420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lijnqiu1205 我觉得都很丑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732021375232315392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2070419653667803234",
+        "created_at": "2026-07-02T21:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T22:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072792107677286420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790756114700640256",
+              "start": 0,
+              "username": "hongdougao_hong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072792107677286420",
+        "in_reply_to_user_id": "1790756114700640256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070419653667803234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdougao_hong 我觉得动图挺好看的，静态图不行，国漫3d不怎么好看没这个好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1009,
+          "following_count": 209,
+          "like_count": 2389,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 1210
+        },
+        "url": "",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-05T12:57:54.000Z",
+        "description": "",
+        "id": "1732021375232315392",
+        "name": "鹅鹅鹅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732021639246659584/T1xAK3Gz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 27,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "lijnqiu1205",
+        "verified": false
+      }
+    ]
+  }
+}

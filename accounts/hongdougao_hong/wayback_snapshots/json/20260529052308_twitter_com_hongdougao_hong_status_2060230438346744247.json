@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2060230438346744247",
+    "created_at": "2026-05-29T05:23:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T06:23:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060230438346744247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1824438937634607109",
+          "start": 3,
+          "username": "batimixdefresa"
+        },
+        {
+          "end": 33,
+          "id": "1287055153",
+          "start": 20,
+          "username": "allfadirluis"
+        },
+        {
+          "end": 48,
+          "id": "1482921241791111171",
+          "start": 34,
+          "username": "takisloverxcc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060230438346744247",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059887840633167951",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @batimixdefresa: @allfadirluis @takisloverxcc Lo que no te mata te hace atrasarte un semestre"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2060230438346744247",
+        "created_at": "2026-05-29T05:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060230438346744247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1824438937634607109",
+              "start": 3,
+              "username": "batimixdefresa"
+            },
+            {
+              "end": 33,
+              "id": "1287055153",
+              "start": 20,
+              "username": "allfadirluis"
+            },
+            {
+              "end": 48,
+              "id": "1482921241791111171",
+              "start": 34,
+              "username": "takisloverxcc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060230438346744247",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059887840633167951",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @batimixdefresa: @allfadirluis @takisloverxcc Lo que no te mata te hace atrasarte un semestre"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824438937634607109",
+        "conversation_id": "2059786734167011391",
+        "created_at": "2026-05-28T06:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059887840633167951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1287055153",
+              "start": 0,
+              "username": "allfadirluis"
+            },
+            {
+              "end": 28,
+              "id": "1482921241791111171",
+              "start": 14,
+              "username": "takisloverxcc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059887840633167951",
+        "in_reply_to_user_id": "1287055153",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 23618,
+          "like_count": 853,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059786734167011391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allfadirluis @takisloverxcc Lo que no te mata te hace atrasarte un semestre"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 194,
+          "like_count": 1853,
+          "listed_count": 3,
+          "media_count": 46,
+          "tweet_count": 964
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T13:32:39.000Z",
+        "description": "sesbian lex\n23 yo\nVI A MCR EN VIVO\nhombres desnudos buscar\n🇵🇪\nMCR 25/01/26",
+        "id": "1824438937634607109",
+        "location": "tu poto gaa",
+        "name": "EL OLLUQUITO CIRCUNCIDADO DE ALIAGA",
+        "pinned_tweet_id": "1920912772914667839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826130623347539968/PVeIkPcR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 599,
+          "like_count": 70520,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 5343
+        },
+        "username": "batimixdefresa",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-21T21:46:49.000Z",
+        "description": "🇲🇽🇪🇸 I'm the friend of intrusive thoughts | Social media at the link | Colabs for DM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/luisallfadir",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/luisallfadir",
+                "start": 0,
+                "url": "https://t.co/tQu8jSQSeT"
+              }
+            ]
+          }
+        },
+        "id": "1287055153",
+        "location": "Monterrey, Nuevo León",
+        "name": "Luis Allfadir",
+        "pinned_tweet_id": "1938401900367372413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043929503424983040/CkD83jwe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66434,
+          "following_count": 19245,
+          "like_count": 86049,
+          "listed_count": 92,
+          "media_count": 2342,
+          "tweet_count": 37159
+        },
+        "url": "https://t.co/tQu8jSQSeT",
+        "username": "allfadirluis",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-17T03:43:20.000Z",
+        "description": "",
+        "id": "1482921241791111171",
+        "name": "quieroSushi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719196236778004480/hwu_sn8p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 110,
+          "like_count": 14656,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 5029
+        },
+        "username": "takisloverxcc",
+        "verified": false
+      }
+    ]
+  }
+}

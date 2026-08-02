@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2044417055022293464",
+    "created_at": "2026-04-15T14:06:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T15:06:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044417055022293464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1933114395854610432",
+          "start": 3,
+          "username": "eweisi32"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044417055022293464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 191
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044104538496610540",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eweisi32: 为什么有些人能理解自杀却不能理解自残呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2044417055022293464",
+        "created_at": "2026-04-15T14:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T15:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044417055022293464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1933114395854610432",
+              "start": 3,
+              "username": "eweisi32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044417055022293464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 191
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044104538496610540",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eweisi32: 为什么有些人能理解自杀却不能理解自残呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933114395854610432",
+        "conversation_id": "2044104538496610540",
+        "created_at": "2026-04-14T17:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T18:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044104538496610540"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044104538496610540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 16887,
+          "like_count": 973,
+          "quote_count": 13,
+          "reply_count": 26,
+          "retweet_count": 191
+        },
+        "reply_settings": "everyone",
+        "text": "为什么有些人能理解自杀却不能理解自残呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2039663142012325929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 166,
+          "like_count": 1208,
+          "listed_count": 3,
+          "media_count": 60,
+          "tweet_count": 626
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T10:49:36.000Z",
+        "description": "叫我蚀蚀就好 我有精神疾病别骂我 | 🔮占卜可以找我 | 餐劵od | 互fo私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mvrtin98341",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mvrtin98341",
+                "start": 0,
+                "url": "https://t.co/tYaSleRHaZ"
+              }
+            ]
+          }
+        },
+        "id": "1933114395854610432",
+        "name": "蚀蛊",
+        "pinned_tweet_id": "2043435688889315415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026791231880368129/j4ztiHVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 458,
+          "like_count": 1395,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 544
+        },
+        "url": "https://t.co/tYaSleRHaZ",
+        "username": "eweisi32",
+        "verified": false
+      }
+    ]
+  }
+}

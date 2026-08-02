@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2057637972481282323",
+    "created_at": "2026-05-22T07:32:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T08:32:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057726342964326810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3070273405",
+          "start": 0,
+          "username": "5389_852"
+        },
+        {
+          "end": 22,
+          "id": "2049877364763676672",
+          "start": 10,
+          "username": "4_hui916768"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057726342964326810",
+    "in_reply_to_user_id": "3070273405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057688066937204851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5389_852 @4_hui916768 这次确实不是马斯克的问题，这次是我bluesky被封，x这边我已经放弃抵抗了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2057637972481282323",
+        "created_at": "2026-05-22T07:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T08:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057726342964326810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3070273405",
+              "start": 0,
+              "username": "5389_852"
+            },
+            {
+              "end": 22,
+              "id": "2049877364763676672",
+              "start": 10,
+              "username": "4_hui916768"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057726342964326810",
+        "in_reply_to_user_id": "3070273405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057688066937204851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5389_852 @4_hui916768 这次确实不是马斯克的问题，这次是我bluesky被封，x这边我已经放弃抵抗了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3070273405",
+        "conversation_id": "2057637972481282323",
+        "created_at": "2026-05-22T05:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057688066937204851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2049877364763676672",
+              "start": 0,
+              "username": "4_hui916768"
+            },
+            {
+              "end": 29,
+              "id": "1790756114700640256",
+              "start": 13,
+              "username": "hongdougao_hong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057688066937204851",
+        "in_reply_to_user_id": "2049877364763676672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057661162012201448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4_hui916768 @hongdougao_hong 突然多轉生了3次~\n不是馬斯克問題，絕大可能是歐盟想這平台違規罰款， 更主要的是政治降低影響力~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 198,
+          "like_count": 1727,
+          "listed_count": 3,
+          "media_count": 44,
+          "tweet_count": 894
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-09T20:10:38.000Z",
+        "description": "",
+        "id": "3070273405",
+        "name": "Vitas",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/575028270577528832/-wLAcFHw_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 1077,
+          "like_count": 15404,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 924
+        },
+        "username": "5389_852",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-30T15:44:02.000Z",
+        "description": "馬斯克你無敵了",
+        "id": "2049877364763676672",
+        "name": "遺灰5.0",
+        "pinned_tweet_id": "2056322753977024777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050163297123725312/Nrt1FqWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 280,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 24
+        },
+        "username": "4_hui916768",
+        "verified": false
+      }
+    ]
+  }
+}

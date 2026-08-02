@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2052449152882344263",
+    "created_at": "2026-05-07T18:03:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T19:03:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052449152882344263"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/me_0923814/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/me_0923814/status/2052405300603535515",
+          "start": 9,
+          "url": "https://t.co/iauMrYGZxa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052449152882344263",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052405300603535515",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "助力这个瓜瓜回家 https://t.co/iauMrYGZxa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2052449152882344263",
+        "created_at": "2026-05-07T18:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T19:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052449152882344263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/me_0923814/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/me_0923814/status/2052405300603535515",
+              "start": 9,
+              "url": "https://t.co/iauMrYGZxa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052449152882344263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052405300603535515",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "助力这个瓜瓜回家 https://t.co/iauMrYGZxa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894760369153085440",
+        "conversation_id": "2052405300603535515",
+        "created_at": "2026-05-07T15:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052405300603535515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/me_0923814/sta…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/me_0923814/status/2052392824495329528",
+              "start": 41,
+              "url": "https://t.co/2u4wtVEovm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052405300603535515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 919,
+          "like_count": 14,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052392824495329528",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老公們我是小瓜瓜😭😭我上一個號被歹人陷害\n互關回家門檻回家粉絲寶寶回家好嗎😭😭😭 https://t.co/2u4wtVEovm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 183,
+          "like_count": 1460,
+          "listed_count": 3,
+          "media_count": 69,
+          "tweet_count": 792
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T14:44:21.000Z",
+        "description": "",
+        "id": "1894760369153085440",
+        "name": "並非我",
+        "pinned_tweet_id": "2049711821863694395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000576211203035136/pWKAS1a2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 6,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 11
+        },
+        "username": "Me_0923814",
+        "verified": false
+      }
+    ]
+  }
+}

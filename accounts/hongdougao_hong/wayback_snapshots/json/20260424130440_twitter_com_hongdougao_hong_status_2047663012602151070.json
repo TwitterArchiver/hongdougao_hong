@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2047663012602151070",
+    "created_at": "2026-04-24T13:04:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T14:04:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047663012602151070"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047663012602151070",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "xhs刷到顺直男穿女装去印度看到底女生处境有多危险。\n这不是扯呢么这帮人被印度男骚扰之后完全不反抗还附和，你这不就是纯去给女生添乱让大家处境更危险了。\n有病吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2047663012602151070",
+        "created_at": "2026-04-24T13:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T14:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047663012602151070"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047663012602151070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "xhs刷到顺直男穿女装去印度看到底女生处境有多危险。\n这不是扯呢么这帮人被印度男骚扰之后完全不反抗还附和，你这不就是纯去给女生添乱让大家处境更危险了。\n有病吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2032120281691799571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 178,
+          "like_count": 1364,
+          "listed_count": 3,
+          "media_count": 68,
+          "tweet_count": 737
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      }
+    ]
+  }
+}

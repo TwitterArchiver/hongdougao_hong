@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2072689720237396410",
+    "created_at": "2026-07-02T14:31:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T15:31:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072689720237396410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1904502396602241024",
+          "start": 3,
+          "username": "ChangS69585"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072689720237396410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072684328165970052",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChangS69585: 恭喜韩国姐妹，这是她们努力的结果，让我们为她们献上祝福。❤️🌹🌹🌹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2072689720237396410",
+        "created_at": "2026-07-02T14:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072689720237396410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1904502396602241024",
+              "start": 3,
+              "username": "ChangS69585"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072689720237396410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072684328165970052",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChangS69585: 恭喜韩国姐妹，这是她们努力的结果，让我们为她们献上祝福。❤️🌹🌹🌹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904502396602241024",
+        "conversation_id": "2072684328165970052",
+        "created_at": "2026-07-02T14:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072684328165970052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/89youlaika8964…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/89youlaika8964/status/2072305287281905684",
+              "start": 34,
+              "url": "https://t.co/3zT1KxJa4u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072684328165970052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 609,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072305287281905684",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恭喜韩国姐妹，这是她们努力的结果，让我们为她们献上祝福。❤️🌹🌹🌹 https://t.co/3zT1KxJa4u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1010,
+          "following_count": 209,
+          "like_count": 2385,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 1204
+        },
+        "url": "",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-25T11:55:52.000Z",
+        "description": "Feminist 👩🏻 ♀",
+        "id": "1904502396602241024",
+        "name": "常赛",
+        "pinned_tweet_id": "2049683274285621369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988202966852268032/EbfwrNHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42331,
+          "following_count": 245,
+          "like_count": 5310,
+          "listed_count": 38,
+          "media_count": 223,
+          "tweet_count": 7442
+        },
+        "url": "",
+        "username": "ChangS69585",
+        "verified": false
+      }
+    ]
+  }
+}

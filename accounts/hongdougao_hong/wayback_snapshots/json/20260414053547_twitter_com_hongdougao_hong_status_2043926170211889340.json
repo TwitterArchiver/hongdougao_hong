@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Hospitality",
+          "id": "864938653063159808",
+          "name": "Hospitality"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Hotel/Motel",
+          "id": "864939492947275776",
+          "name": "Hotel/Motel"
+        }
+      }
+    ],
+    "conversation_id": "2043926170211889340",
+    "created_at": "2026-04-14T05:35:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T06:35:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043926170211889340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1994399064390332416",
+          "start": 3,
+          "username": "maxinethrice"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043926170211889340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27267
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043248150278983719",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maxinethrice: 女孩子们，不要觉得自己国家的男人不好就去喜欢外国的男人，这跟觉得自己家的屎臭于是去公共厕所结果发现还是很臭一样，屎就是屎，换了个地方还是屎🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Hospitality",
+              "id": "864938653063159808",
+              "name": "Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Hotel/Motel",
+              "id": "864939492947275776",
+              "name": "Hotel/Motel"
+            }
+          }
+        ],
+        "conversation_id": "2043926170211889340",
+        "created_at": "2026-04-14T05:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T06:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043926170211889340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1994399064390332416",
+              "start": 3,
+              "username": "maxinethrice"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043926170211889340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27267
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043248150278983719",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maxinethrice: 女孩子们，不要觉得自己国家的男人不好就去喜欢外国的男人，这跟觉得自己家的屎臭于是去公共厕所结果发现还是很臭一样，屎就是屎，换了个地方还是屎🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994399064390332416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Hospitality",
+              "id": "864938653063159808",
+              "name": "Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Hotel/Motel",
+              "id": "864939492947275776",
+              "name": "Hotel/Motel"
+            }
+          }
+        ],
+        "conversation_id": "2043248150278983719",
+        "created_at": "2026-04-12T08:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T09:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043248150278983719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_xoxo_xxxxx/st…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/_xoxo_xxxxx/status/2043198826572562697",
+              "start": 71,
+              "url": "https://t.co/7aVXeTBrT0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043248150278983719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6329,
+          "impression_count": 5406435,
+          "like_count": 125500,
+          "quote_count": 2273,
+          "reply_count": 446,
+          "retweet_count": 27267
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043198826572562697",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "女孩子们，不要觉得自己国家的男人不好就去喜欢外国的男人，这跟觉得自己家的屎臭于是去公共厕所结果发现还是很臭一样，屎就是屎，换了个地方还是屎🫡 https://t.co/7aVXeTBrT0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2039663142012325929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 165,
+          "like_count": 1158,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 611
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-28T13:33:00.000Z",
+        "description": "看热闹不嫌事大",
+        "id": "1994399064390332416",
+        "location": "上班",
+        "name": "Mollythrice",
+        "pinned_tweet_id": "2004459702151991722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035588072008810496/ldQbD1S7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 11,
+          "like_count": 1177,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 243
+        },
+        "username": "maxinethrice",
+        "verified": false
+      }
+    ]
+  }
+}

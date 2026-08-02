@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1856253719819751424"
+      ],
+      "media_source_tweet_id": [
+        "1856253747128873446"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1986667845845958908",
+    "created_at": "2025-11-07T05:31:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T06:31:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986667845845958908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1790756114700640256",
+          "start": 3,
+          "username": "hongdougao_hong"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qvxXs7GV3Q",
+          "end": 64,
+          "expanded_url": "https://x.com/hongdougaocici/status/1856253747128873446/photo/1",
+          "media_key": "3_1856253719819751424",
+          "start": 41,
+          "url": "https://t.co/qvxXs7GV3Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986667845845958908",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856253747128873446",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @hongdougao_hong: 谁在大号举报我，这是我的嘴巴我狠狠咬你 https://t.co/qvxXs7GV3Q"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1986667845845958908].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1986667845845958908",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1986667845845958908"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1856253719819751424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcK87F7akAAukus.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1856253719819751424"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1856253747128873446",
+        "created_at": "2024-11-12T08:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-12T09:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856253747128873446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qvxXs7GV3Q",
+              "end": 43,
+              "expanded_url": "https://x.com/hongdougaocici/status/1856253747128873446/photo/1",
+              "media_key": "3_1856253719819751424",
+              "start": 20,
+              "url": "https://t.co/qvxXs7GV3Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856253747128873446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 10007,
+          "like_count": 855,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 66
+        },
+        "reply_settings": "following",
+        "text": "谁在大号举报我，这是我的嘴巴我狠狠咬你 https://t.co/qvxXs7GV3Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "@hongdou_cici的备用机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "垃圾桶里的红豆糕",
+        "pinned_tweet_id": "1835690499442876760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976881981129371648/W0XsGfSq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 145,
+          "like_count": 897,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 382
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      }
+    ]
+  }
+}

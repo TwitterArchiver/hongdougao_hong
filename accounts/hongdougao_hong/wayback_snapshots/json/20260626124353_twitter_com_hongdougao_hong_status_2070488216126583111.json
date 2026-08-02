@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2070419653667803234",
+    "created_at": "2026-06-26T12:43:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T13:43:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070488216126583111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2043043365705662464",
+          "start": 0,
+          "username": "life4dead1127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070488216126583111",
+    "in_reply_to_user_id": "2043043365705662464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070470415030657033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@life4dead1127 他们丑的独具一格。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2070419653667803234",
+        "created_at": "2026-06-26T12:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T13:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070488216126583111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2043043365705662464",
+              "start": 0,
+              "username": "life4dead1127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070488216126583111",
+        "in_reply_to_user_id": "2043043365705662464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070470415030657033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@life4dead1127 他们丑的独具一格。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043043365705662464",
+        "conversation_id": "2070419653667803234",
+        "created_at": "2026-06-26T11:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T12:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070470415030657033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790756114700640256",
+              "start": 0,
+              "username": "hongdougao_hong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070470415030657033",
+        "in_reply_to_user_id": "1790756114700640256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070419653667803234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdougao_hong 每个都有不一样丑法。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 209,
+          "like_count": 2219,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1136
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T19:08:50.000Z",
+        "description": "Ruri/小璃=只互fo同类/餐券/自伤/LGBT友好\n～随时都会消失 欢迎和我交朋友\n男的只有腹肌年上长发男富二代可以私信我",
+        "id": "2043043365705662464",
+        "location": "现在",
+        "name": "RUriri",
+        "pinned_tweet_id": "2066061328632951203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069410470822547456/FoOUdTD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 125,
+          "like_count": 3337,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 242
+        },
+        "url": "",
+        "username": "life4dead1127",
+        "verified": false
+      }
+    ]
+  }
+}

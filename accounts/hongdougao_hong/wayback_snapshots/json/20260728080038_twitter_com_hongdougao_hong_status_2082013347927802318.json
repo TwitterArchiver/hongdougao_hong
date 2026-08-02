@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2081741057293791328",
+    "created_at": "2026-07-28T08:00:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T09:00:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082013347927802318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2043043365705662464",
+          "start": 0,
+          "username": "life4dead1127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082013347927802318",
+    "in_reply_to_user_id": "2043043365705662464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081741057293791328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@life4dead1127 和正常皮肤的感觉一样但是愈合的时候会变得格外的痒然后让旧增生变形😵‍💫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2081741057293791328",
+        "created_at": "2026-07-28T08:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082013347927802318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2043043365705662464",
+              "start": 0,
+              "username": "life4dead1127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082013347927802318",
+        "in_reply_to_user_id": "2043043365705662464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081741057293791328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@life4dead1127 和正常皮肤的感觉一样但是愈合的时候会变得格外的痒然后让旧增生变形😵‍💫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043043365705662464",
+        "conversation_id": "2081741057293791328",
+        "created_at": "2026-07-27T13:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T14:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081741057293791328"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081741057293791328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 371,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "增生割开啥感觉呀，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 208,
+          "like_count": 2672,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 1379
+        },
+        "url": "",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T19:08:50.000Z",
+        "description": "Ruri/小璃=只互fo同类/餐券/自伤/LGBT友好/吃播\n～随时都会消失 欢迎和我交朋友\n我很温良可以找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruriri1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruriri1",
+                "start": 0,
+                "url": "https://t.co/XTSFP4qSBk"
+              }
+            ]
+          }
+        },
+        "id": "2043043365705662464",
+        "location": "现在",
+        "name": "RUriri",
+        "pinned_tweet_id": "2066061328632951203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081301174557220865/ucYBOIjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 158,
+          "like_count": 4896,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 497
+        },
+        "url": "https://t.co/XTSFP4qSBk",
+        "username": "life4dead1127",
+        "verified": false
+      }
+    ]
+  }
+}

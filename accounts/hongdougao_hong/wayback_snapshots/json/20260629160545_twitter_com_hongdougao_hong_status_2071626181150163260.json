@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2071626181150163260",
+    "created_at": "2026-06-29T16:05:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T17:05:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071626181150163260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "155303540",
+          "start": 3,
+          "username": "sorejhvi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071626181150163260",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2523
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071251193876333031",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sorejhvi: Laki-laki melecehkan perempuan, banyak banget.\nLaki-laki melecehkan laki-laki, banyak juga.\nBahkan laki-laki melecehkan hewan…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2071626181150163260",
+        "created_at": "2026-06-29T16:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T17:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071626181150163260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "155303540",
+              "start": 3,
+              "username": "sorejhvi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071626181150163260",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2523
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071251193876333031",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sorejhvi: Laki-laki melecehkan perempuan, banyak banget.\nLaki-laki melecehkan laki-laki, banyak juga.\nBahkan laki-laki melecehkan hewan…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "155303540",
+        "conversation_id": "2071251193876333031",
+        "created_at": "2026-06-28T15:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T16:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071251193876333031"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071251193876333031",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 238,
+          "impression_count": 161570,
+          "like_count": 12224,
+          "quote_count": 89,
+          "reply_count": 85,
+          "retweet_count": 2523
+        },
+        "reply_settings": "everyone",
+        "text": "Laki-laki melecehkan perempuan, banyak banget.\nLaki-laki melecehkan laki-laki, banyak juga.\nBahkan laki-laki melecehkan hewan pun juga banyak.\n\nJadi, pelecehan tuh ngga tentang orientasi seksual, tapi krn ada laki-laki😌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 210,
+          "like_count": 2325,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1185
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-13T19:14:16.000Z",
+        "description": "",
+        "id": "155303540",
+        "name": "Kaiソラ",
+        "pinned_tweet_id": "2067926734226493637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032025823537221632/iUmmx6a7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1451,
+          "following_count": 421,
+          "like_count": 4836,
+          "listed_count": 1,
+          "media_count": 219,
+          "tweet_count": 3901
+        },
+        "url": "",
+        "username": "sorejhvi",
+        "verified": false
+      }
+    ]
+  }
+}

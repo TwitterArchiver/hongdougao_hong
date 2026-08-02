@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2061715760742064243",
+    "created_at": "2026-06-02T07:45:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T08:45:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061715760742064243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "315697648",
+          "start": 3,
+          "username": "katievelazqz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061715760742064243",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 236
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061479949857386960",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @katievelazqz: Los hombres me dan tanto asco, todo lo sexualizan"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2061715760742064243",
+        "created_at": "2026-06-02T07:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T08:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061715760742064243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "315697648",
+              "start": 3,
+              "username": "katievelazqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061715760742064243",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 236
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061479949857386960",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @katievelazqz: Los hombres me dan tanto asco, todo lo sexualizan"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "315697648",
+        "conversation_id": "2061479949857386960",
+        "created_at": "2026-06-01T16:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T17:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061479949857386960"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061479949857386960",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 25153,
+          "like_count": 2235,
+          "quote_count": 24,
+          "reply_count": 14,
+          "retweet_count": 236
+        },
+        "reply_settings": "following",
+        "text": "Los hombres me dan tanto asco, todo lo sexualizan"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 194,
+          "like_count": 1909,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 998
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2011-06-12T09:06:49.000Z",
+        "description": "𝐵𝑒 𝑡ℎ𝑒 𝑟𝑒𝑎𝑠𝑜𝑛 𝑤ℎ𝑦 𝑝𝑒𝑜𝑝𝑙𝑒 𝑏𝑒𝑙𝑖𝑒𝑣𝑒 𝑖𝑛 𝑏𝑒𝑎𝑢𝑡𝑖𝑓𝑢𝑙 𝑠𝑜𝑢𝑙𝑠, 𝑘𝑖𝑛𝑑 ℎ𝑒𝑎𝑟𝑡𝑠, 𝑎𝑛𝑑 𝑔𝑜𝑜𝑑 𝑒𝑛𝑒𝑟𝑔𝑦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/katievelazqz?i…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/katievelazqz?igsh=MTVzZTV1Y2JkNHh0dw%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/EmDbTuFbGn"
+              }
+            ]
+          }
+        },
+        "id": "315697648",
+        "name": "Katie",
+        "pinned_tweet_id": "2015976624521425047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057667509495451648/ixUGTw1t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9624,
+          "following_count": 638,
+          "like_count": 15539,
+          "listed_count": 13,
+          "media_count": 4790,
+          "tweet_count": 72079
+        },
+        "url": "https://t.co/EmDbTuFbGn",
+        "username": "katievelazqz",
+        "verified": false
+      }
+    ]
+  }
+}

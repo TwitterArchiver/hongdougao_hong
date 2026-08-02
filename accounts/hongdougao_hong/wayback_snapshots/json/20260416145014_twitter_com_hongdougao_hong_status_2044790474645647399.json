@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2044642904564740544",
+    "created_at": "2026-04-16T14:50:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T15:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044790474645647399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1762399735644921856",
+          "start": 0,
+          "username": "Serotonin716"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044790474645647399",
+    "in_reply_to_user_id": "1762399735644921856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044789505077789141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Serotonin716 之前也老有顺女在我吐槽神奇顺直男的帖子底下骂说要那个男的被黑哥们儿怎么怎么样...还说要gay去弄他\n但和gay和黑人有什么关系...."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2044642904564740544",
+        "created_at": "2026-04-16T14:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T15:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044790474645647399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1762399735644921856",
+              "start": 0,
+              "username": "Serotonin716"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044790474645647399",
+        "in_reply_to_user_id": "1762399735644921856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044789505077789141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Serotonin716 之前也老有顺女在我吐槽神奇顺直男的帖子底下骂说要那个男的被黑哥们儿怎么怎么样...还说要gay去弄他\n但和gay和黑人有什么关系...."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762399735644921856",
+        "conversation_id": "2044642904564740544",
+        "created_at": "2026-04-16T14:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T15:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044789505077789141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790756114700640256",
+              "start": 0,
+              "username": "hongdougao_hong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044789505077789141",
+        "in_reply_to_user_id": "1790756114700640256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044642904564740544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdougao_hong 确实呀，之前和我的顺直女朋友吐槽一个顺直男她就这样骂那个男的，我感觉出现在这个语境里的黑人好无辜😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2039663142012325929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 167,
+          "like_count": 1227,
+          "listed_count": 3,
+          "media_count": 60,
+          "tweet_count": 638
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T08:50:30.000Z",
+        "description": "很温良除非遇到贱人/键政给老娘死开/脑部肛裂综合症/喜欢各种艺术作品/板绘学习ing/anti-AIart/欢迎交朋友/沉迷互联网之毒电波中。。。",
+        "id": "1762399735644921856",
+        "location": "在无爱之森呐喊",
+        "name": "肌肉阵挛",
+        "pinned_tweet_id": "1935890736362500245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040636212218830848/-4Bq_qwI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 707,
+          "like_count": 58239,
+          "listed_count": 0,
+          "media_count": 284,
+          "tweet_count": 2974
+        },
+        "username": "Serotonin716",
+        "verified": false
+      }
+    ]
+  }
+}

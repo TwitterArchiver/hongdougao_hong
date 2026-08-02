@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2059677788156702722"
+      ],
+      "media_source_tweet_id": [
+        "2059677883472252985"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2059857813875425337",
+    "created_at": "2026-05-28T04:42:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T05:42:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059857813875425337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1651236380859682817",
+          "start": 3,
+          "username": "justdavenow89"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pFE8aL5Zop",
+          "end": 125,
+          "expanded_url": "https://x.com/justdavenow89/status/2059677883472252985/video/1",
+          "media_key": "13_2059677788156702722",
+          "start": 102,
+          "url": "https://t.co/pFE8aL5Zop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059857813875425337",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 490
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059677883472252985",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @justdavenow89: Man avoids “gay stairs” by dry humping a pole and bouncing up and down on it 🤷🏻‍♂️ https://t.co/pFE8aL5Zop"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25920,
+        "height": 1280,
+        "media_key": "13_2059677788156702722",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059677788156702722/img/SsHzDdheDaRxUP8X.jpg",
+        "public_metrics": {
+          "view_count": 43448
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059677788156702722/vid/avc1/320x710/AXPinoZO-6DnPLJs.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059677788156702722/vid/avc1/480x1066/crtDKxrCjY7TdzhT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059677788156702722/vid/avc1/576x1280/bC8IKlWizxjAGWFL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059677788156702722/pl/G69VvSdMPvggDsgv.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059677788156702722"
+          ],
+          "media_source_tweet_id": [
+            "2059677883472252985"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059857813875425337",
+        "created_at": "2026-05-28T04:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059857813875425337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1651236380859682817",
+              "start": 3,
+              "username": "justdavenow89"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pFE8aL5Zop",
+              "end": 125,
+              "expanded_url": "https://x.com/justdavenow89/status/2059677883472252985/video/1",
+              "media_key": "13_2059677788156702722",
+              "start": 102,
+              "url": "https://t.co/pFE8aL5Zop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059857813875425337",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 490
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059677883472252985",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @justdavenow89: Man avoids “gay stairs” by dry humping a pole and bouncing up and down on it 🤷🏻‍♂️ https://t.co/pFE8aL5Zop"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059677788156702722"
+          ]
+        },
+        "author_id": "1651236380859682817",
+        "conversation_id": "2059677883472252985",
+        "created_at": "2026-05-27T16:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T17:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059677883472252985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pFE8aL5Zop",
+              "end": 106,
+              "expanded_url": "https://x.com/justdavenow89/status/2059677883472252985/video/1",
+              "media_key": "13_2059677788156702722",
+              "start": 83,
+              "url": "https://t.co/pFE8aL5Zop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059677883472252985",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 151,
+          "impression_count": 93223,
+          "like_count": 3741,
+          "quote_count": 79,
+          "reply_count": 314,
+          "retweet_count": 490
+        },
+        "reply_settings": "everyone",
+        "text": "Man avoids “gay stairs” by dry humping a pole and bouncing up and down on it 🤷🏻‍♂️ https://t.co/pFE8aL5Zop"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 194,
+          "like_count": 1845,
+          "listed_count": 3,
+          "media_count": 46,
+          "tweet_count": 957
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-26T14:46:59.000Z",
+        "description": "just dave",
+        "id": "1651236380859682817",
+        "location": "Newcastle Upon Tyne, England",
+        "name": "Just Dave now",
+        "pinned_tweet_id": "1802601406991315365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1693947907760586752/95t-0VnG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29498,
+          "following_count": 26045,
+          "like_count": 47945,
+          "listed_count": 224,
+          "media_count": 6706,
+          "tweet_count": 54430
+        },
+        "username": "justdavenow89",
+        "verified": true
+      }
+    ]
+  }
+}

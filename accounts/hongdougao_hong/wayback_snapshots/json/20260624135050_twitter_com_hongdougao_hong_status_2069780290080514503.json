@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069780262284603392"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "2069780290080514503",
+    "created_at": "2026-06-24T13:50:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T14:50:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069780290080514503"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9bLkvuzW3e",
+          "end": 34,
+          "expanded_url": "https://x.com/hongdougao_hong/status/2069780290080514503/photo/1",
+          "media_key": "3_2069780262284603392",
+          "start": 11,
+          "url": "https://t.co/9bLkvuzW3e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069780290080514503",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每日疤痕check✅ https://t.co/9bLkvuzW3e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2069780262284603392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLlWLrCWsAA_M99.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069780262284603392"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "conversation_id": "2069780290080514503",
+        "created_at": "2026-06-24T13:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T14:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069780290080514503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9bLkvuzW3e",
+              "end": 34,
+              "expanded_url": "https://x.com/hongdougao_hong/status/2069780290080514503/photo/1",
+              "media_key": "3_2069780262284603392",
+              "start": 11,
+              "url": "https://t.co/9bLkvuzW3e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069780290080514503",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每日疤痕check✅ https://t.co/9bLkvuzW3e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 207,
+          "like_count": 2173,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 1122
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      }
+    ]
+  }
+}

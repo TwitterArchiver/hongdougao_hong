@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2070486957722108229",
+    "created_at": "2026-06-26T12:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T13:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070486957722108229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1937441644892307456",
+          "start": 3,
+          "username": "ps_moka1020"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070486957722108229",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 402
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070443593601556574",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ps_moka1020: 今日で2周年だね⭐︎\n改めて、私たちを見つけてくれて、\nいつも応援してくれてありがとう🥹\n\nみんなの一つ一つの応援、言葉が私の力になっていて、落ち込んだ時・逃げたくなる時にもっと頑張ろうって思えてるよ！！\nみんなからパワーをたくさんもらってます…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1477,
+        "media_key": "3_2070443589176619008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLuxeYRbcAA64ez.jpg",
+        "width": 1108
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2070486957722108229",
+        "created_at": "2026-06-26T12:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T13:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070486957722108229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1937441644892307456",
+              "start": 3,
+              "username": "ps_moka1020"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070486957722108229",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 402
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070443593601556574",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ps_moka1020: 今日で2周年だね⭐︎\n改めて、私たちを見つけてくれて、\nいつも応援してくれてありがとう🥹\n\nみんなの一つ一つの応援、言葉が私の力になっていて、落ち込んだ時・逃げたくなる時にもっと頑張ろうって思えてるよ！！\nみんなからパワーをたくさんもらってます…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070443589176619008"
+          ]
+        },
+        "author_id": "1937441644892307456",
+        "conversation_id": "2070443593601556574",
+        "created_at": "2026-06-26T09:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T10:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070443593601556574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tRMo0IqG2t",
+              "end": 150,
+              "expanded_url": "https://x.com/ps_moka1020/status/2070443593601556574/photo/1",
+              "media_key": "3_2070443589176619008",
+              "start": 127,
+              "url": "https://t.co/tRMo0IqG2t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070443593601556574",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "今日で2周年だね⭐︎\n改めて、私たちを見つけてくれて、\nいつも応援してくれてありがとう🥹\n\nみんなの一つ一つの応援、言葉が私の力になっていて、落ち込んだ時・逃げたくなる時にもっと頑張ろうって思えてるよ！！\nみんなからパワーをたくさんもらってます❤️‍🔥\n私もステージからパワー送るね(՞˶･⩊･˶՞)\nこれからよろしくね🩵"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 39559,
+          "like_count": 3299,
+          "quote_count": 24,
+          "reply_count": 159,
+          "retweet_count": 402
+        },
+        "reply_settings": "everyone",
+        "text": "今日で2周年だね⭐︎\n改めて、私たちを見つけてくれて、\nいつも応援してくれてありがとう🥹\n\nみんなの一つ一つの応援、言葉が私の力になっていて、落ち込んだ時・逃げたくなる時にもっと頑張ろうって思えてるよ！！\nみんなからパワーをたくさんもらってます❤️‍🔥 https://t.co/tRMo0IqG2t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 209,
+          "like_count": 2218,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1135
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-24T09:24:54.000Z",
+        "description": "ファントムシータ（@PhantomSiita） \n水色担当の百花（もか）です🎶🩵\n\n⭐︎Contact（https://t.co/nxfBpsgHVt）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "PhantomSiita"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "cloud9pro.co.jp/contact/",
+                "end": 75,
+                "expanded_url": "https://cloud9pro.co.jp/contact/",
+                "start": 52,
+                "url": "https://t.co/nxfBpsgHVt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/psmoka",
+                "end": 23,
+                "expanded_url": "https://lit.link/psmoka",
+                "start": 0,
+                "url": "https://t.co/GmnNLsLVIZ"
+              }
+            ]
+          }
+        },
+        "id": "1937441644892307456",
+        "name": "百花（ファントムシータ）",
+        "pinned_tweet_id": "2063224603594666113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049866651051732992/ai2J5NrO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30197,
+          "following_count": 25,
+          "like_count": 592,
+          "listed_count": 122,
+          "media_count": 145,
+          "tweet_count": 651
+        },
+        "url": "https://t.co/GmnNLsLVIZ",
+        "username": "ps_moka1020",
+        "verified": true
+      }
+    ]
+  }
+}

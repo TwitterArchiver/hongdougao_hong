@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2047927157096423590",
+    "created_at": "2026-04-25T06:48:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T07:48:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047930722695131157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1550188270495027200",
+          "start": 0,
+          "username": "Hushlog_"
+        },
+        {
+          "end": 20,
+          "id": "1771545564892811264",
+          "start": 10,
+          "username": "hushlog35"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047930722695131157",
+    "in_reply_to_user_id": "1550188270495027200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047927157096423590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hushlog_ @hushlog35 我的老天你也被封了我前几天也是"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047927147743100928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGuy4_cbQAA1duQ.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2047927157096423590",
+        "created_at": "2026-04-25T06:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T07:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047930722695131157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1550188270495027200",
+              "start": 0,
+              "username": "Hushlog_"
+            },
+            {
+              "end": 20,
+              "id": "1771545564892811264",
+              "start": 10,
+              "username": "hushlog35"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047930722695131157",
+        "in_reply_to_user_id": "1550188270495027200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047927157096423590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hushlog_ @hushlog35 我的老天你也被封了我前几天也是"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047927147743100928"
+          ]
+        },
+        "author_id": "1550188270495027200",
+        "conversation_id": "2047927157096423590",
+        "created_at": "2026-04-25T06:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T07:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047927157096423590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 29,
+              "id": "1771545564892811264",
+              "start": 19,
+              "username": "hushlog35"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hl6PY0EhpQ",
+              "end": 164,
+              "expanded_url": "https://x.com/Hushlog_/status/2047927157096423590/photo/1",
+              "media_key": "3_2047927147743100928",
+              "start": 141,
+              "url": "https://t.co/hl6PY0EhpQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047927157096423590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我解封了 防炸号还请互关们来关注我小号@hushlog35 （本来我是打算二三次分号的……）我不知道是谁一下举报了我五条自伤相关帖子（里面可能只有一张是没打预警的 不记得了）估计和上次是同一个人吧 我不知道你为什么那么讨厌我 只敢在背后偷偷干这种事 没什么好说的 祝你死妈吧 谢谢 https://t.co/hl6PY0EhpQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2032120281691799571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 179,
+          "like_count": 1379,
+          "listed_count": 3,
+          "media_count": 71,
+          "tweet_count": 744
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-21T18:38:02.000Z",
+        "description": "| 双相 | 负能自残🈶 | cn阿树/黄瓜 | 互fo请私信 | 小号 @hushlog35 | 骂我的人都傻逼。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "hushlog35"
+              }
+            ]
+          }
+        },
+        "id": "1550188270495027200",
+        "location": "不幸人间强制收容所",
+        "name": "黄瓜🥒",
+        "pinned_tweet_id": "2004470717052866989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010233524029403136/ue3UJ87A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1392,
+          "following_count": 141,
+          "like_count": 22335,
+          "listed_count": 5,
+          "media_count": 723,
+          "tweet_count": 6967
+        },
+        "username": "Hushlog_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T14:33:06.000Z",
+        "description": "你好这里是黄瓜用来看二次元相关（同人/画作/推し）和各种帅哥美女的小号 请和我做朋友吧 大号@Hushlog_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "Hushlog_"
+              }
+            ]
+          }
+        },
+        "id": "1771545564892811264",
+        "name": "瓜瓜",
+        "pinned_tweet_id": "2031027642779205857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997920510865506305/uP0R5d6j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 175,
+          "like_count": 7386,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 801
+        },
+        "username": "hushlog35",
+        "verified": false
+      }
+    ]
+  }
+}

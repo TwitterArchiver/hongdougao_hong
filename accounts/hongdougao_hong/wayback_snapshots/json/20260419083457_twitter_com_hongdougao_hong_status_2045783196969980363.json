@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2045783196969980363",
+    "created_at": "2026-04-19T08:34:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T09:34:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045783196969980363"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045783196969980363",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "可以不用“黑哥们儿”作为侮辱词吗\n我能理解很多女性主义者是在反击不尊重女性的顺直男，但我真的很反感把“黑人”当作侮辱工具。\n“你被黑人××了”“你是不是喜欢黑人”这种说法，本质是在把皮肤颜色和族裔当成肮脏羞辱的象征。即使这类词汇被顺直男用来侮辱女性，也不代表我们就要复制这种歧视逻辑。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2045783196969980363",
+        "created_at": "2026-04-19T08:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T09:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045783196969980363"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045783196969980363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可以不用“黑哥们儿”作为侮辱词吗\n我能理解很多女性主义者是在反击不尊重女性的顺直男，但我真的很反感把“黑人”当作侮辱工具。\n“你被黑人××了”“你是不是喜欢黑人”这种说法，本质是在把皮肤颜色和族裔当成肮脏羞辱的象征。即使这类词汇被顺直男用来侮辱女性，也不代表我们就要复制这种歧视逻辑。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2039663142012325929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 171,
+          "like_count": 1268,
+          "listed_count": 3,
+          "media_count": 63,
+          "tweet_count": 673
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2032454665884123600",
+    "created_at": "2026-03-13T13:52:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T14:52:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032454665884123600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1977588436375629824",
+          "start": 8,
+          "username": "Lajitong_l"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/hongdougao_hon…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/hongdougao_hong/status/2032120281691799571",
+          "start": 20,
+          "url": "https://t.co/9WZcmjunhx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032454665884123600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032120281691799571",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "新的防炸备用机：@Lajitong_l https://t.co/9WZcmjunhx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1142,
+        "media_key": "3_2032120264897748992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDOKnUIaYAAnSCJ.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2032120264910389250",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDOKnULbQAI_h-m.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2032454665884123600",
+        "created_at": "2026-03-13T13:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T14:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032454665884123600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1977588436375629824",
+              "start": 8,
+              "username": "Lajitong_l"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/hongdougao_hon…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/hongdougao_hong/status/2032120281691799571",
+              "start": 20,
+              "url": "https://t.co/9WZcmjunhx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032454665884123600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032120281691799571",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "新的防炸备用机：@Lajitong_l https://t.co/9WZcmjunhx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032120264897748992",
+            "3_2032120264910389250"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032120281691799571",
+        "created_at": "2026-03-12T15:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032120281691799571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GANOi1VYC9",
+              "end": 74,
+              "expanded_url": "https://x.com/hongdougao_hong/status/2032120281691799571/photo/1",
+              "media_key": "3_2032120264897748992",
+              "start": 51,
+              "url": "https://t.co/GANOi1VYC9"
+            },
+            {
+              "display_url": "pic.x.com/GANOi1VYC9",
+              "end": 74,
+              "expanded_url": "https://x.com/hongdougao_hong/status/2032120281691799571/photo/1",
+              "media_key": "3_2032120264910389250",
+              "start": 51,
+              "url": "https://t.co/GANOi1VYC9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032120281691799571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1867,
+          "like_count": 36,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "互关们可以帮我转发一下吗，我这个号被永久封禁了现在用这个备用机\n\n好像还有很多互关不知道我备用机👽🥲 https://t.co/GANOi1VYC9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "@hongdou_cici的重生号\n\n防炸备用机@Lajitong_l",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "hongdou_cici"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "Lajitong_l"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "1835690499442876760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 171,
+          "like_count": 934,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 414
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-13T04:13:30.000Z",
+        "description": "🗑️🚮",
+        "id": "1977588436375629824",
+        "name": "｡✰⋆ ｡:ﾟ･*",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024076730315816960/JEFm2-Qx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "Lajitong_l",
+        "verified": false
+      }
+    ]
+  }
+}

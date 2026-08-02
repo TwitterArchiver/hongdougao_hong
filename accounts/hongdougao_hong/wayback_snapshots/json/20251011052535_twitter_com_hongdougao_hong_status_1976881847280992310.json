@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976881843057176576"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "1976881847280992310",
+    "created_at": "2025-10-11T05:25:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T06:25:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976881847280992310"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "新头像"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uzi0IDQbuD",
+          "end": 28,
+          "expanded_url": "https://x.com/hongdougao_hong/status/1976881847280992310/photo/1",
+          "media_key": "3_1976881843057176576",
+          "start": 5,
+          "url": "https://t.co/uzi0IDQbuD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976881847280992310",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#新头像 https://t.co/uzi0IDQbuD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 309,
+        "media_key": "3_1976881843057176576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G29Lj_JXsAAKyKG.jpg",
+        "width": 309
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976881843057176576"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "conversation_id": "1976881847280992310",
+        "created_at": "2025-10-11T05:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T06:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976881847280992310"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uzi0IDQbuD",
+              "end": 28,
+              "expanded_url": "https://x.com/hongdougao_hong/status/1976881847280992310/photo/1",
+              "media_key": "3_1976881843057176576",
+              "start": 5,
+              "url": "https://t.co/uzi0IDQbuD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976881847280992310",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 https://t.co/uzi0IDQbuD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "@hongdou_cici的备用机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "垃圾桶里的红豆糕",
+        "pinned_tweet_id": "1835690499442876760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976881826242207744/z1qq5tcr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 145,
+          "like_count": 879,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 370
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      }
+    ]
+  }
+}

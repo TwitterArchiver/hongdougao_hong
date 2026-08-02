@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2072571416214716853",
+    "created_at": "2026-07-02T06:41:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T07:41:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072571416214716853"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyaiu_/status…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/whyaiu_/status/2072265795183505909",
+          "start": 24,
+          "url": "https://t.co/9ydm2Vmd7x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072571416214716853",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072265795183505909",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "日本大叔能不能去死啊，我真的恨透这帮超雄老头了 https://t.co/9ydm2Vmd7x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2072571416214716853",
+        "created_at": "2026-07-02T06:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T07:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072571416214716853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyaiu_/status…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/whyaiu_/status/2072265795183505909",
+              "start": 24,
+              "url": "https://t.co/9ydm2Vmd7x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072571416214716853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072265795183505909",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "日本大叔能不能去死啊，我真的恨透这帮超雄老头了 https://t.co/9ydm2Vmd7x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066323895972777984",
+        "conversation_id": "2072265795183505909",
+        "created_at": "2026-07-01T10:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T11:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072265795183505909"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072265795183505909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 230910,
+          "like_count": 1181,
+          "quote_count": 3,
+          "reply_count": 400,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "日本大叔好恶心 恶心死了 骚扰我 还摸我手 操你妈 操你妈日本人大叔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1009,
+          "following_count": 209,
+          "like_count": 2375,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 1201
+        },
+        "url": "",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T00:57:15.000Z",
+        "description": "=威士忌（三代目\n♀/高校生/海外/OD/自傷/病み垢/自発苦手\n無言fo失礼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tenshi00",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tenshi00",
+                "start": 0,
+                "url": "https://t.co/6fJhGi3ZZ3"
+              }
+            ]
+          }
+        },
+        "id": "2066323895972777984",
+        "location": "浅尝辄止 是命运轻轻放过我",
+        "name": "病名は愛だった",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066324785001381888/dV5cly_f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 141,
+          "like_count": 170,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 156
+        },
+        "url": "https://t.co/6fJhGi3ZZ3",
+        "username": "whyaiu_",
+        "verified": false
+      }
+    ]
+  }
+}

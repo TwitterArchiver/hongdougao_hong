@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2075178104268754965",
+    "created_at": "2026-07-09T11:25:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T12:25:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075179632828240320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "350105834",
+          "start": 0,
+          "username": "aromarie_esko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075179632828240320",
+    "in_reply_to_user_id": "350105834",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075178104268754965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aromarie_esko 天海鏡子さんのもお願いします🙇‍♀️🙇‍♀️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2075178104268754965",
+        "created_at": "2026-07-09T11:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075179632828240320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "350105834",
+              "start": 0,
+              "username": "aromarie_esko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075179632828240320",
+        "in_reply_to_user_id": "350105834",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075178104268754965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aromarie_esko 天海鏡子さんのもお願いします🙇‍♀️🙇‍♀️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2075178103622807552"
+          ]
+        },
+        "author_id": "350105834",
+        "conversation_id": "2075178104268754965",
+        "created_at": "2026-07-09T11:19:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:19:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075178104268754965"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075178104268754965",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 742,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "蝶毒グッズ「旧立ち絵・腰から上のアクスタ」発売しましたら、購入予定の方はどれくらいいらっしゃいますでしょうか？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 211,
+          "like_count": 2459,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 1259
+        },
+        "url": "",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-07T06:23:32.000Z",
+        "description": "黒い乙女ゲームのアロマリエです。お知らせや更新情報など。【公式グッズ販売についてこちらのアカウントをフォローしてお待ちください・７/8受付開始(ちっちゃぬい7/20まで)】公式グッズ販売予定ページリンク",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ec-russell.jp/aro/rating/",
+                "end": 23,
+                "expanded_url": "https://ec-russell.jp/aro/rating/",
+                "start": 0,
+                "url": "https://t.co/X6DKv8Yx6U"
+              }
+            ]
+          }
+        },
+        "id": "350105834",
+        "location": "東京",
+        "name": "aromarie(アロマリエ)",
+        "pinned_tweet_id": "2074689952819171335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/421268802714607616/gf2bxNWJ_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7935,
+          "following_count": 5,
+          "like_count": 177,
+          "listed_count": 70,
+          "media_count": 13,
+          "tweet_count": 169
+        },
+        "url": "https://t.co/X6DKv8Yx6U",
+        "username": "aromarie_esko",
+        "verified": false
+      }
+    ]
+  }
+}

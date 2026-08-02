@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2047916456088891437",
+    "created_at": "2026-04-25T11:28:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T12:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048001092160725346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1701591779999612928",
+          "start": 0,
+          "username": "yi30744"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048001092160725346",
+    "in_reply_to_user_id": "1701591779999612928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047995119467696415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yi30744 我受不了了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2047916456088891437",
+        "created_at": "2026-04-25T11:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048001092160725346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1701591779999612928",
+              "start": 0,
+              "username": "yi30744"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048001092160725346",
+        "in_reply_to_user_id": "1701591779999612928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047995119467696415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yi30744 我受不了了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701591779999612928",
+        "conversation_id": "2047916456088891437",
+        "created_at": "2026-04-25T11:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047995119467696415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790756114700640256",
+              "start": 0,
+              "username": "hongdougao_hong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047995119467696415",
+        "in_reply_to_user_id": "1790756114700640256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047916456088891437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdougao_hong msk壞死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2032120281691799571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 180,
+          "like_count": 1389,
+          "listed_count": 3,
+          "media_count": 71,
+          "tweet_count": 754
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T13:41:20.000Z",
+        "description": "是的我3.0了，想尋回互關……上一世 @bai347312，備用@hui04210524",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 19,
+                "username": "bai347312"
+              },
+              {
+                "end": 44,
+                "start": 32,
+                "username": "hui04210524"
+              }
+            ]
+          }
+        },
+        "id": "1701591779999612928",
+        "name": "遺灰3.0",
+        "pinned_tweet_id": "2043603677022474310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042452792657494016/M34MuTiD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 357,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 91
+        },
+        "username": "yi30744",
+        "verified": false
+      }
+    ]
+  }
+}

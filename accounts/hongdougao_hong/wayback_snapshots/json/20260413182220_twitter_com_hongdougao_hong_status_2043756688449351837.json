@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043566591628234752"
+      ],
+      "media_source_tweet_id": [
+        "2043566598447825112"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "2043756688449351837",
+    "created_at": "2026-04-13T18:22:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T19:22:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043756688449351837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1424779836938022913",
+          "start": 3,
+          "username": "amber_toffee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XvhUEXlAnG",
+          "end": 67,
+          "expanded_url": "https://x.com/amber_toffee/status/2043566598447825112/photo/1",
+          "media_key": "3_2043566591628234752",
+          "start": 44,
+          "url": "https://t.co/XvhUEXlAnG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043756688449351837",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043566598447825112",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_toffee: 那我一定要推荐一下这位，小红书女权博主中的一股清流 https://t.co/XvhUEXlAnG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043566591628234752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFw0_ODbUAAZcjf.jpg",
+        "width": 1112
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043566591628234752"
+          ],
+          "media_source_tweet_id": [
+            "2043566598447825112"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "conversation_id": "2043756688449351837",
+        "created_at": "2026-04-13T18:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T19:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043756688449351837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1424779836938022913",
+              "start": 3,
+              "username": "amber_toffee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XvhUEXlAnG",
+              "end": 67,
+              "expanded_url": "https://x.com/amber_toffee/status/2043566598447825112/photo/1",
+              "media_key": "3_2043566591628234752",
+              "start": 44,
+              "url": "https://t.co/XvhUEXlAnG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043756688449351837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043566598447825112",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_toffee: 那我一定要推荐一下这位，小红书女权博主中的一股清流 https://t.co/XvhUEXlAnG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043566591628234752"
+          ]
+        },
+        "author_id": "1424779836938022913",
+        "conversation_id": "2043566598447825112",
+        "created_at": "2026-04-13T05:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T06:44:54.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043566072876421246",
+          "2043566598447825112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XvhUEXlAnG",
+              "end": 49,
+              "expanded_url": "https://x.com/amber_toffee/status/2043566598447825112/photo/1",
+              "media_key": "3_2043566591628234752",
+              "start": 26,
+              "url": "https://t.co/XvhUEXlAnG"
+            },
+            {
+              "display_url": "x.com/noname2095_/st…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/noname2095_/status/2043554235246395517",
+              "start": 50,
+              "url": "https://t.co/7TwXR67B61"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043566598447825112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 9176,
+          "like_count": 186,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043554235246395517",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那我一定要推荐一下这位，小红书女权博主中的一股清流 https://t.co/XvhUEXlAnG https://t.co/7TwXR67B61"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2039663142012325929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 166,
+          "like_count": 1146,
+          "listed_count": 3,
+          "media_count": 57,
+          "tweet_count": 607
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "❤︎ @noaayoyaoaya / ✦ @amber_medusozoa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 37,
+                "start": 21,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/P9msNZnPLs"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "☭ 🏳️‍⚧️ ⚢ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2040939467280674867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24224,
+          "following_count": 2728,
+          "like_count": 40581,
+          "listed_count": 12,
+          "media_count": 595,
+          "tweet_count": 21674
+        },
+        "url": "https://t.co/P9msNZnPLs",
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

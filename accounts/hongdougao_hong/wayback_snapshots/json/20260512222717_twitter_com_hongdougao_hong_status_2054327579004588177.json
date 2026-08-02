@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2054324625732219335",
+    "created_at": "2026-05-12T22:27:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T23:27:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054327579004588177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1898003698800115716",
+          "start": 0,
+          "username": "MS_DCnemunemu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054327579004588177",
+    "in_reply_to_user_id": "1898003698800115716",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054326422500790300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MS_DCnemunemu 所有平台都在以不同理由封禁我😔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2054324625732219335",
+        "created_at": "2026-05-12T22:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T23:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054327579004588177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1898003698800115716",
+              "start": 0,
+              "username": "MS_DCnemunemu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054327579004588177",
+        "in_reply_to_user_id": "1898003698800115716",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054326422500790300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MS_DCnemunemu 所有平台都在以不同理由封禁我😔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898003698800115716",
+        "conversation_id": "2054324625732219335",
+        "created_at": "2026-05-12T22:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T23:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054326422500790300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790756114700640256",
+              "start": 0,
+              "username": "hongdougao_hong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054326422500790300",
+        "in_reply_to_user_id": "1790756114700640256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054324625732219335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdougao_hong 你在開玩笑吧?求你告訴 我這是假的…\n好難過🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 189,
+          "like_count": 1565,
+          "listed_count": 3,
+          "media_count": 59,
+          "tweet_count": 844
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T13:32:31.000Z",
+        "description": "あ",
+        "id": "1898003698800115716",
+        "name": "あ",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 16,
+          "like_count": 1002,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 186
+        },
+        "username": "MS_DCnemunemu",
+        "verified": false
+      }
+    ]
+  }
+}

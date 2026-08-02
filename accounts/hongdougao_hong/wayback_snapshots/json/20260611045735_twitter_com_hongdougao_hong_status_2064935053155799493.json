@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064758415596175360"
+      ],
+      "media_source_tweet_id": [
+        "2064758444461375832"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "2064935053155799493",
+    "created_at": "2026-06-11T04:57:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T05:57:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064935053155799493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1973758924445855744",
+          "start": 3,
+          "username": "ssooiiiooo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UH9QhRGhn3",
+          "end": 39,
+          "expanded_url": "https://x.com/ssooiiiooo/status/2064758444461375832/photo/1",
+          "media_key": "3_2064758415596175360",
+          "start": 16,
+          "url": "https://t.co/UH9QhRGhn3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064935053155799493",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064758444461375832",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ssooiiiooo: https://t.co/UH9QhRGhn3"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2064935053155799493].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2064935053155799493",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2064935053155799493"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3300,
+        "media_key": "3_2064758415596175360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKd-1uSbwAAhDGV.jpg",
+        "width": 2325
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064758415596175360"
+          ]
+        },
+        "author_id": "1973758924445855744",
+        "conversation_id": "2064758444461375832",
+        "created_at": "2026-06-10T17:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T18:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064758444461375832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UH9QhRGhn3",
+              "end": 23,
+              "expanded_url": "https://x.com/ssooiiiooo/status/2064758444461375832/photo/1",
+              "media_key": "3_2064758415596175360",
+              "start": 0,
+              "url": "https://t.co/UH9QhRGhn3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064758444461375832",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 1270,
+          "like_count": 359,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UH9QhRGhn3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 200,
+          "like_count": 2019,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 1040
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T14:36:37.000Z",
+        "description": "いいこ　いいこ　とってもいいこ\nずーっといいこでおねんねしてね\n@maichongsheng",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 32,
+                "username": "maichongsheng"
+              }
+            ]
+          }
+        },
+        "id": "1973758924445855744",
+        "name": "霾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036895685308743680/gDzqhxdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 4,
+          "like_count": 315,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 21
+        },
+        "username": "ssooiiiooo",
+        "verified": false
+      }
+    ]
+  }
+}

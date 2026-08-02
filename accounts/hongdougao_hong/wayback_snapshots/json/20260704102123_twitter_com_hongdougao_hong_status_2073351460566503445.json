@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2072648302441714162",
+    "created_at": "2026-07-04T10:21:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T11:21:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073351460566503445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1645857818808025090",
+          "start": 0,
+          "username": "choco_030_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073351460566503445",
+    "in_reply_to_user_id": "1645857818808025090",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073329221003608526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@choco_030_ovo 加油！！！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2072648302441714162",
+        "created_at": "2026-07-04T10:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T11:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073351460566503445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1645857818808025090",
+              "start": 0,
+              "username": "choco_030_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073351460566503445",
+        "in_reply_to_user_id": "1645857818808025090",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073329221003608526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@choco_030_ovo 加油！！！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1645857818808025090",
+        "conversation_id": "2072648302441714162",
+        "created_at": "2026-07-04T08:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T09:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073329221003608526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790756114700640256",
+              "start": 0,
+              "username": "hongdougao_hong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073329221003608526",
+        "in_reply_to_user_id": "1790756114700640256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073099416618291387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdougao_hong 啊啊啊啊啊啊我要上班攢錢去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1006,
+          "following_count": 208,
+          "like_count": 2403,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 1214
+        },
+        "url": "",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-11T18:34:54.000Z",
+        "description": "可可🍫🍫 陰暗b一隻 經常發癲 萌新考蛇 地雷系女子    想和女孩子貼貼 成分複雜 雜食cp 死宅女 偶爾紫餐 \nweeeee(=｀ω´=) 夢想可以冬眠100年",
+        "id": "1645857818808025090",
+        "location": "香港",
+        "name": "🉑🉑ᐠ( ᑒ )ᐟ",
+        "pinned_tweet_id": "2048716811362054430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047031662714966016/2OkPQEVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 36,
+          "like_count": 12366,
+          "listed_count": 0,
+          "media_count": 254,
+          "tweet_count": 1570
+        },
+        "url": "",
+        "username": "choco_030_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

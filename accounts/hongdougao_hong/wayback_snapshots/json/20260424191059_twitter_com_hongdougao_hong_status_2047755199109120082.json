@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2047753955380236578",
+    "created_at": "2026-04-24T19:10:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T20:10:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047755199109120082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1709874299530604544",
+          "start": 0,
+          "username": "heydika5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047755199109120082",
+    "in_reply_to_user_id": "1709874299530604544",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047753955380236578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heydika5 true…have no idea what x chat for, I’m just getting double notifications now…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 588,
+        "media_key": "3_2047753945599090688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGsVXTLWoAA9ERb.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2047753955380236578",
+        "created_at": "2026-04-24T19:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T20:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047755199109120082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1709874299530604544",
+              "start": 0,
+              "username": "heydika5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047755199109120082",
+        "in_reply_to_user_id": "1709874299530604544",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047753955380236578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heydika5 true…have no idea what x chat for, I’m just getting double notifications now…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047753945599090688"
+          ]
+        },
+        "author_id": "1709874299530604544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "2047753955380236578",
+        "created_at": "2026-04-24T19:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T20:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047753955380236578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S4mBjDgZ5x",
+              "end": 302,
+              "expanded_url": "https://x.com/heydika5/status/2047753955380236578/photo/1",
+              "media_key": "3_2047753945599090688",
+              "start": 279,
+              "url": "https://t.co/S4mBjDgZ5x"
+            },
+            {
+              "display_url": "x.com/nikitabier/sta…",
+              "end": 326,
+              "expanded_url": "https://twitter.com/nikitabier/status/2047747631624183889",
+              "start": 303,
+              "url": "https://t.co/VMMnzCkMPB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047753955380236578",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047747631624183889",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "i just downloaded the Xchat app, and i truly don’t understand the concept behind it. \n\nwe already have a chat feature on the X app, so why do we still need to download a different app to chat?\n\nand the fact that there’s nothing different on the Xchat app makes it so ridiculous. https://t.co/S4mBjDgZ5x https://t.co/VMMnzCkMPB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2032120281691799571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 179,
+          "like_count": 1377,
+          "listed_count": 3,
+          "media_count": 69,
+          "tweet_count": 742
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-05T10:13:08.000Z",
+        "description": "Wish i could bat you in your face | A Slime | 5",
+        "id": "1709874299530604544",
+        "location": "Bikni bottom",
+        "name": ".5🎀",
+        "pinned_tweet_id": "2046867392131743908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017176190637768705/7CIkWMje_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1221,
+          "following_count": 1133,
+          "like_count": 5315,
+          "listed_count": 0,
+          "media_count": 544,
+          "tweet_count": 3672
+        },
+        "username": "heydika5",
+        "verified": true
+      }
+    ]
+  }
+}

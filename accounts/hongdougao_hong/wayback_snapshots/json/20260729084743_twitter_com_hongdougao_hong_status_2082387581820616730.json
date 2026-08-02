@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2081994584679412151",
+    "created_at": "2026-07-29T08:47:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T09:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082387581820616730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1520390483998310400",
+          "start": 0,
+          "username": "melonsakana_00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082387581820616730",
+    "in_reply_to_user_id": "1520390483998310400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082333274949787779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@melonsakana_00 当然是不只有这一种也不是所有人带着这种目的穿这些衣服\n但总体来看这个衣服就是日本对女性的框架刻板印象和期待"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2081994584679412151",
+        "created_at": "2026-07-29T08:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082387581820616730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1520390483998310400",
+              "start": 0,
+              "username": "melonsakana_00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082387581820616730",
+        "in_reply_to_user_id": "1520390483998310400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082333274949787779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@melonsakana_00 当然是不只有这一种也不是所有人带着这种目的穿这些衣服\n但总体来看这个衣服就是日本对女性的框架刻板印象和期待"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520390483998310400",
+        "conversation_id": "2081994584679412151",
+        "created_at": "2026-07-29T05:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T06:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082333274949787779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790756114700640256",
+              "start": 0,
+              "username": "hongdougao_hong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082333274949787779",
+        "in_reply_to_user_id": "1790756114700640256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081994584679412151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdougao_hong 因为原产地很多做爸爸活的人穿这个风格嗯。不过细分也挺多的，不完全只有单一的一种。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1026,
+          "following_count": 208,
+          "like_count": 2680,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 1386
+        },
+        "url": "",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-30T13:12:28.000Z",
+        "description": "無言フォロー失礼します \n不要害怕孤独\n#fetish #illustration #acgn #latex\n终末地和舟本家/玩点胶衣和别的但是不混圈/20代♀bisexual/021活动/\n欢迎同好找我聊天扩列",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 20,
+                "tag": "fetish"
+              },
+              {
+                "end": 41,
+                "start": 28,
+                "tag": "illustration"
+              },
+              {
+                "end": 47,
+                "start": 42,
+                "tag": "acgn"
+              },
+              {
+                "end": 54,
+                "start": 48,
+                "tag": "latex"
+              }
+            ]
+          }
+        },
+        "id": "1520390483998310400",
+        "location": " end  of  the world",
+        "name": "玫什么鱼🍈-🍈",
+        "pinned_tweet_id": "2063251310712090669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920761646567301120/w8mT_Gwo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2562,
+          "following_count": 2747,
+          "like_count": 17633,
+          "listed_count": 9,
+          "media_count": 49,
+          "tweet_count": 2017
+        },
+        "url": "",
+        "username": "melonsakana_00",
+        "verified": false
+      }
+    ]
+  }
+}

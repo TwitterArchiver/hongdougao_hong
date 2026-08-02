@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2058258810419179998",
+    "created_at": "2026-05-23T18:48:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T19:48:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058258810419179998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2039252048546234368",
+          "start": 3,
+          "username": "__xjkx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058258810419179998",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 102
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058125179625316499",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__xjkx: 性加害者を全員殺したいです"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2058258810419179998",
+        "created_at": "2026-05-23T18:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T19:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058258810419179998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2039252048546234368",
+              "start": 3,
+              "username": "__xjkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058258810419179998",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 102
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058125179625316499",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__xjkx: 性加害者を全員殺したいです"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039252048546234368",
+        "conversation_id": "2058125179625316499",
+        "created_at": "2026-05-23T09:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T10:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058125179625316499"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058125179625316499",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 16371,
+          "like_count": 2270,
+          "quote_count": 7,
+          "reply_count": 13,
+          "retweet_count": 102
+        },
+        "reply_settings": "everyone",
+        "text": "性加害者を全員殺したいです"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 197,
+          "like_count": 1780,
+          "listed_count": 3,
+          "media_count": 44,
+          "tweet_count": 921
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T08:03:21.000Z",
+        "description": "sjk / 顔面・🇹🇭 コンプ/ 👊🩸/ 希死念慮",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/mlnyfk2mf9y0jg…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/mlnyfk2mf9y0jgx?t=Vy73Ew&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/JLde3WJSFZ"
+              }
+            ]
+          }
+        },
+        "id": "2039252048546234368",
+        "location": "全部自分に向けての言葉",
+        "name": "倫理",
+        "pinned_tweet_id": "2052595536981885205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052397330041851905/GeqA1pV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2333,
+          "following_count": 335,
+          "like_count": 5607,
+          "listed_count": 4,
+          "media_count": 102,
+          "tweet_count": 1391
+        },
+        "url": "https://t.co/JLde3WJSFZ",
+        "username": "__xjkx",
+        "verified": false
+      }
+    ]
+  }
+}

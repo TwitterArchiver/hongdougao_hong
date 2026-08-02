@@ -1,0 +1,112 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977568602334040064"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "1977568607669502044",
+    "created_at": "2025-10-13T02:54:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T03:54:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977568607669502044"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 14,
+          "tag": "リスカ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DU6aTRBGEu",
+          "end": 42,
+          "expanded_url": "https://x.com/hongdougao_hong/status/1977568607669502044/photo/1",
+          "media_key": "3_1977568602334040064",
+          "start": 19,
+          "url": "https://t.co/DU6aTRBGEu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977568607669502044",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "cat scratch？\n #リスカ https://t.co/DU6aTRBGEu"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1977568607669502044].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1977568607669502044",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1977568607669502044"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1977568602334040064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3G8Ko0WEAAFdyd.jpg",
+        "width": 1463
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "@hongdou_cici的备用机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "垃圾桶里的红豆糕",
+        "pinned_tweet_id": "1835690499442876760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976881981129371648/W0XsGfSq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 144,
+          "like_count": 882,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 375
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      }
+    ]
+  }
+}

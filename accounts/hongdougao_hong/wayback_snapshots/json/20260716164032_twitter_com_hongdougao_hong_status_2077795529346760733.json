@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2075267343920640178",
+    "created_at": "2026-07-16T16:40:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T17:40:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077795529346760733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1949132969723240449",
+          "start": 0,
+          "username": "Ninini1204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077795529346760733",
+    "in_reply_to_user_id": "1949132969723240449",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077795107131261418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ninini1204 我的也是😔早知道不自己漂了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2075267343920640178",
+        "created_at": "2026-07-16T16:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T17:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077795529346760733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1949132969723240449",
+              "start": 0,
+              "username": "Ninini1204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077795529346760733",
+        "in_reply_to_user_id": "1949132969723240449",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077795107131261418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ninini1204 我的也是😔早知道不自己漂了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949132969723240449",
+        "conversation_id": "2075267343920640178",
+        "created_at": "2026-07-16T16:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T17:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077795107131261418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790756114700640256",
+              "start": 0,
+              "username": "hongdougao_hong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077795107131261418",
+        "in_reply_to_user_id": "1790756114700640256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075911185057325423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdougao_hong 我的头发已经都离家出走了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1002,
+          "following_count": 210,
+          "like_count": 2537,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 1299
+        },
+        "url": "",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-26T15:41:42.000Z",
+        "description": "栗爪/爪爪 中國語 | 日本語ok",
+        "id": "1949132969723240449",
+        "name": "🌰🐾",
+        "pinned_tweet_id": "2023843881490805216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949134735193899008/TnKQ0wf1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 113,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 185
+        },
+        "url": "",
+        "username": "Ninini1204",
+        "verified": false
+      }
+    ]
+  }
+}

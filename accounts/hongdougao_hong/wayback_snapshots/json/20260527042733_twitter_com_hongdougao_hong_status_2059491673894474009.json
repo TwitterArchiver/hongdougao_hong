@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2059469642163450285",
+    "created_at": "2026-05-27T04:27:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T05:27:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059491673894474009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "350105834",
+          "start": 0,
+          "username": "aromarie_esko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059491673894474009",
+    "in_reply_to_user_id": "350105834",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059469642163450285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aromarie_esko 天海鏡子のグッズは出ますか……？；；\n本当に本当に欲しいです……！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2059469642163450285",
+        "created_at": "2026-05-27T04:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059491673894474009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "350105834",
+              "start": 0,
+              "username": "aromarie_esko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059491673894474009",
+        "in_reply_to_user_id": "350105834",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059469642163450285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aromarie_esko 天海鏡子のグッズは出ますか……？；；\n本当に本当に欲しいです……！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "350105834",
+        "conversation_id": "2059469642163450285",
+        "created_at": "2026-05-27T03:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T04:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059469642163450285"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059469642163450285",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 12323,
+          "like_count": 395,
+          "quote_count": 27,
+          "reply_count": 5,
+          "retweet_count": 192
+        },
+        "reply_settings": "everyone",
+        "text": "「蝶の毒華の鎖」発売15周年を迎えました。\n15年もの長い間、作品を愛し応援してくださった皆様へ、心より感謝申し上げます。\n15周年を記念したグッズの発売も予定しております。\nぜひ続報とラインナップを楽しみにお待ちください。\nこれからも「蝶の毒華の鎖」をよろしくお願いいたします。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 196,
+          "like_count": 1823,
+          "listed_count": 3,
+          "media_count": 45,
+          "tweet_count": 950
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-07T06:23:32.000Z",
+        "description": "黒い乙女ゲームのアロマリエです。お知らせや更新情報など。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aromarie.com",
+                "end": 22,
+                "expanded_url": "http://aromarie.com/",
+                "start": 0,
+                "url": "http://t.co/6h0rxFxvCj"
+              }
+            ]
+          }
+        },
+        "id": "350105834",
+        "location": "東京",
+        "name": "aromarie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/421268802714607616/gf2bxNWJ_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6535,
+          "following_count": 4,
+          "like_count": 87,
+          "listed_count": 70,
+          "media_count": 8,
+          "tweet_count": 138
+        },
+        "url": "http://t.co/6h0rxFxvCj",
+        "username": "aromarie_esko",
+        "verified": false
+      }
+    ]
+  }
+}

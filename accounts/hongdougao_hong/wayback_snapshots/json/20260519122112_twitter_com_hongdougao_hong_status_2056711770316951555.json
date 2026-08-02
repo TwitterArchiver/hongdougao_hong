@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2056711770316951555",
+    "created_at": "2026-05-19T12:21:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T13:21:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056711770316951555"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hongdougao_hon…",
+          "end": 103,
+          "expanded_url": "https://twitter.com/hongdougao_hong/status/2056710142331375649",
+          "start": 80,
+          "url": "https://t.co/WnB5Buxncx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056711770316951555",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056710142331375649",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这些人的共情能力理解能力也都不太好，自己明明也是普通人却还打压着更弱势的群体\n最后还要来我们这种人面前找优越感，卖惨、求安慰、炫耀\n没了我们这些人还怎么活啊！ https://t.co/WnB5Buxncx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2056711770316951555",
+        "created_at": "2026-05-19T12:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056711770316951555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hongdougao_hon…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/hongdougao_hong/status/2056710142331375649",
+              "start": 80,
+              "url": "https://t.co/WnB5Buxncx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056711770316951555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056710142331375649",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这些人的共情能力理解能力也都不太好，自己明明也是普通人却还打压着更弱势的群体\n最后还要来我们这种人面前找优越感，卖惨、求安慰、炫耀\n没了我们这些人还怎么活啊！ https://t.co/WnB5Buxncx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2056710142331375649",
+        "created_at": "2026-05-19T12:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056710142331375649"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056710142331375649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不能理解为什么那些生活常识和自理能力为0的人能够成为社会上的‘主流人’。\n明明特点不多，工作能力也不强，行动力更是弱。这样的人除了能看起来体面一些到底对社会有什么帮助呢？\n\n真的不如把机会让给我们这些真心努力生活还愿意付出的边缘人...."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 198,
+          "like_count": 1710,
+          "listed_count": 3,
+          "media_count": 42,
+          "tweet_count": 874
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      }
+    ]
+  }
+}

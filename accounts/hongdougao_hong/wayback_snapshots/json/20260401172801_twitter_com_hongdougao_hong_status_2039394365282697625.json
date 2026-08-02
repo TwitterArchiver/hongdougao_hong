@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1900518119581581312"
+      ],
+      "media_source_tweet_id": [
+        "1900518214796275879"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "2039394365282697625",
+    "created_at": "2026-04-01T17:28:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T18:28:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039394365282697625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1790756114700640256",
+          "start": 3,
+          "username": "hongdougao_hong"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/L1Ri8SMDss",
+          "end": 57,
+          "expanded_url": "https://x.com/hongdougaocici/status/1900518214796275879/video/1",
+          "media_key": "13_1900518119581581312",
+          "start": 34,
+          "url": "https://t.co/L1Ri8SMDss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039394365282697625",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900518214796275879",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hongdougao_hong: ⚠️自傷不止🩸🔪☁️☁️ https://t.co/L1Ri8SMDss"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8800,
+        "height": 718,
+        "media_key": "13_1900518119581581312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1900518119581581312/img/Ww_sMvNDO0LB5hba.jpg",
+        "public_metrics": {
+          "view_count": 5169
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1900518119581581312/vid/avc1/480x270/mKdMvptBvtGlnnHL.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1900518119581581312/vid/avc1/640x360/6RbwlKabKbHlkhEt.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1900518119581581312/vid/avc1/1280x718/hx-eP_Hgei3ZAMk9.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1900518119581581312/pl/4dO10wn56qDwD_NQ.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1900518119581581312"
+          ],
+          "media_source_tweet_id": [
+            "1900518214796275879"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "conversation_id": "2039394365282697625",
+        "created_at": "2026-04-01T17:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T18:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039394365282697625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1790756114700640256",
+              "start": 3,
+              "username": "hongdougao_hong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L1Ri8SMDss",
+              "end": 57,
+              "expanded_url": "https://x.com/hongdougaocici/status/1900518214796275879/video/1",
+              "media_key": "13_1900518119581581312",
+              "start": 34,
+              "url": "https://t.co/L1Ri8SMDss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039394365282697625",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900518214796275879",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hongdougao_hong: ⚠️自傷不止🩸🔪☁️☁️ https://t.co/L1Ri8SMDss"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1900518119581581312"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "conversation_id": "1900518214796275879",
+        "created_at": "2025-03-14T12:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T13:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900518214796275879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L1Ri8SMDss",
+              "end": 36,
+              "expanded_url": "https://x.com/hongdougaocici/status/1900518214796275879/video/1",
+              "media_key": "13_1900518119581581312",
+              "start": 13,
+              "url": "https://t.co/L1Ri8SMDss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900518214796275879",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 12634,
+          "like_count": 322,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️自傷不止🩸🔪☁️☁️ https://t.co/L1Ri8SMDss"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "@hongdou_cici的重生号\n\n防炸备用机@Lajitong_l",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "hongdou_cici"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "Lajitong_l"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "1835690499442876760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 180,
+          "like_count": 1005,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 476
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      }
+    ]
+  }
+}

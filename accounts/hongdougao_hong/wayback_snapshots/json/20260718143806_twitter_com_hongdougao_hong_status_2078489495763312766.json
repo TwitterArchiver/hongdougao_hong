@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2078489495763312766",
+    "created_at": "2026-07-18T14:38:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T15:38:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078489495763312766"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xuanzai12138/s…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/xuanzai12138/status/2078209102618960172",
+          "start": 25,
+          "url": "https://t.co/DG4ET2JOIZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078489495763312766",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078209102618960172",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "世界上最愚蠢的群体就是天天自称女大男大女高男高的 https://t.co/DG4ET2JOIZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2078489495763312766",
+        "created_at": "2026-07-18T14:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T15:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078489495763312766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xuanzai12138/s…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/xuanzai12138/status/2078209102618960172",
+              "start": 25,
+              "url": "https://t.co/DG4ET2JOIZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078489495763312766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078209102618960172",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "世界上最愚蠢的群体就是天天自称女大男大女高男高的 https://t.co/DG4ET2JOIZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1553278286796451840",
+        "conversation_id": "2078209102618960172",
+        "created_at": "2026-07-17T20:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T21:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078209102618960172"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078209102618960172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3755,
+          "like_count": 124,
+          "quote_count": 4,
+          "reply_count": 18,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "说一个暴论就是。我认识很多喜欢穿孔和染五颜六色头发，看起来一点都不乖的人都是很善良很亲人的人，可能是因为被动防御心理才驱使自己想成为看起来不好惹的人...一些看起来丑商很高像老师和大人眼里好学生的人反而很自私，喜欢对无害的人发泄自己的恶意（爱自称男大女大）。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 209,
+          "like_count": 2587,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 1333
+        },
+        "url": "",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-30T07:16:29.000Z",
+        "description": "此账号皮下是一个有躯体化的活珠子丨性别男 取向男 接占卜烧香点蜡法事 塔罗师从龙女 家是出马的\n⬆️广告营业发在：@LeviCha61174973",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 57,
+                "username": "LeviCha61174973"
+              }
+            ]
+          }
+        },
+        "id": "1553278286796451840",
+        "location": "碎碎念的地方 别骂我",
+        "name": "十九岁帅到邻居想报警",
+        "pinned_tweet_id": "2039733988387139754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078208157902311424/UNpTmSDt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1931,
+          "following_count": 114,
+          "like_count": 12384,
+          "listed_count": 7,
+          "media_count": 418,
+          "tweet_count": 5000
+        },
+        "url": "",
+        "username": "XuanZai12138",
+        "verified": false
+      }
+    ]
+  }
+}

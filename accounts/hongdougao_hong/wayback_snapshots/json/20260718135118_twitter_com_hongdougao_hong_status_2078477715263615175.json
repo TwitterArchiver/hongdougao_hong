@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2077731996453781504"
+      ],
+      "media_source_tweet_id": [
+        "2077822573245596120"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "2078477715263615175",
+    "created_at": "2026-07-18T13:51:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T14:51:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078477715263615175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1974961744595369984",
+          "start": 3,
+          "username": "ifartgIitter"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JI8IVj1kx3",
+          "end": 96,
+          "expanded_url": "https://x.com/ifartgIitter/status/2077822573245596120/video/1",
+          "media_key": "13_2077731996453781504",
+          "start": 73,
+          "url": "https://t.co/JI8IVj1kx3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078477715263615175",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28060
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077822573245596120",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ifartgIitter: me haaveing a good time but i remember im fat and ugly https://t.co/JI8IVj1kx3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10216,
+        "height": 640,
+        "media_key": "13_2077731996453781504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077731996453781504/img/xJA6-uf4cl_oInju.jpg",
+        "public_metrics": {
+          "view_count": 457347
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077731996453781504/vid/avc1/320x320/od5WmhtM0QL0B0CL.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077731996453781504/vid/avc1/540x540/0_50MUtZFTqqY9HB.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077731996453781504/vid/avc1/640x640/WgSxYVbmEiZcKHWr.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077731996453781504/pl/FK9Cj5lyYhR6zdmP.m3u8?tag=14"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077731996453781504"
+          ]
+        },
+        "author_id": "1974961744595369984",
+        "conversation_id": "2077822573245596120",
+        "created_at": "2026-07-16T18:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T19:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077822573245596120"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JI8IVj1kx3",
+              "end": 78,
+              "expanded_url": "https://x.com/ifartgIitter/status/2077822573245596120/video/1",
+              "media_key": "13_2077731996453781504",
+              "start": 55,
+              "url": "https://t.co/JI8IVj1kx3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077822573245596120",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4445,
+          "impression_count": 1142171,
+          "like_count": 123016,
+          "quote_count": 337,
+          "reply_count": 75,
+          "retweet_count": 28060
+        },
+        "reply_settings": "everyone",
+        "text": "me haaveing a good time but i remember im fat and ugly https://t.co/JI8IVj1kx3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077731996453781504"
+          ],
+          "media_source_tweet_id": [
+            "2077822573245596120"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "conversation_id": "2078477715263615175",
+        "created_at": "2026-07-18T13:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T14:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078477715263615175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1974961744595369984",
+              "start": 3,
+              "username": "ifartgIitter"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JI8IVj1kx3",
+              "end": 96,
+              "expanded_url": "https://x.com/ifartgIitter/status/2077822573245596120/video/1",
+              "media_key": "13_2077731996453781504",
+              "start": 73,
+              "url": "https://t.co/JI8IVj1kx3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078477715263615175",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28060
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077822573245596120",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ifartgIitter: me haaveing a good time but i remember im fat and ugly https://t.co/JI8IVj1kx3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 209,
+          "like_count": 2585,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 1331
+        },
+        "url": "",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T22:16:12.000Z",
+        "description": "larping my way through twitter\nnot me in pfp 😭",
+        "id": "1974961744595369984",
+        "name": "yeva ⋆ ° ꩜.ᐟ",
+        "pinned_tweet_id": "2077822573245596120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051462225966014465/EzMRrgj8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 17,
+          "like_count": 5077,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1057
+        },
+        "url": "",
+        "username": "ifartgIitter",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2070419653667803234",
+    "created_at": "2026-06-27T05:47:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T06:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070745874578432374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1553010314504859651",
+          "start": 0,
+          "username": "Lll68999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070745874578432374",
+    "in_reply_to_user_id": "1553010314504859651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070743432902156557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lll68999 甚至还要冲几千才可以得到这些卡面，虽说成年人会更富裕但是孩子们的消费欲望和消费观都还没成熟.....完全是灰色产业一条龙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2070419653667803234",
+        "created_at": "2026-06-27T05:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T06:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070745874578432374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1553010314504859651",
+              "start": 0,
+              "username": "Lll68999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070745874578432374",
+        "in_reply_to_user_id": "1553010314504859651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070743432902156557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lll68999 甚至还要冲几千才可以得到这些卡面，虽说成年人会更富裕但是孩子们的消费欲望和消费观都还没成熟.....完全是灰色产业一条龙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1553010314504859651",
+        "conversation_id": "2070419653667803234",
+        "created_at": "2026-06-27T05:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T06:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070743432902156557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790756114700640256",
+              "start": 0,
+              "username": "hongdougao_hong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070743432902156557",
+        "in_reply_to_user_id": "1790756114700640256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070738032836345989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdougao_hong 是的，这太抽象了，它就像一个淫秽物品一样谁都能被观看。甚至连一个成年认证都没有，我从来没见过在应用商店里拥有如此大尺度的游戏，我看到那一幕的时候我甚至还在想这是不是哪个黄油里面的cg结果是任何人都能下的游戏？我真的不能理解"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 209,
+          "like_count": 2284,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1175
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T13:31:45.000Z",
+        "description": "1",
+        "id": "1553010314504859651",
+        "name": "Linini",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680896659654598659/TkGujoJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 47,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 134
+        },
+        "url": "",
+        "username": "Lll68999",
+        "verified": false
+      }
+    ]
+  }
+}

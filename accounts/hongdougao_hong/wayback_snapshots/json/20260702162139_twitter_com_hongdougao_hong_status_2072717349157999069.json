@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2070419653667803234",
+    "created_at": "2026-07-02T16:21:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T17:21:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072717349157999069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1509543132890730502",
+          "start": 0,
+          "username": "gunierenhuang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072717349157999069",
+    "in_reply_to_user_id": "1509543132890730502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072703585637593527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gunierenhuang 别叫我兄弟我是女的😓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2070419653667803234",
+        "created_at": "2026-07-02T16:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T17:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072717349157999069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1509543132890730502",
+              "start": 0,
+              "username": "gunierenhuang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072717349157999069",
+        "in_reply_to_user_id": "1509543132890730502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072703585637593527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gunierenhuang 别叫我兄弟我是女的😓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1509543132890730502",
+        "conversation_id": "2070419653667803234",
+        "created_at": "2026-07-02T15:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072703585637593527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790756114700640256",
+              "start": 0,
+              "username": "hongdougao_hong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072703585637593527",
+        "in_reply_to_user_id": "1790756114700640256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070419653667803234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdougao_hong 兄弟，我支持你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1010,
+          "following_count": 209,
+          "like_count": 2386,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 1206
+        },
+        "url": "",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-31T14:48:41.000Z",
+        "description": "",
+        "id": "1509543132890730502",
+        "name": "孤涅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509543207641657352/LrrIB8c7_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 48,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "gunierenhuang",
+        "verified": false
+      }
+    ]
+  }
+}

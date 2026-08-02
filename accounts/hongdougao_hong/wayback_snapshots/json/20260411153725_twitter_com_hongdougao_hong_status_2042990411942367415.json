@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2042990411942367415",
+    "created_at": "2026-04-11T15:37:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T16:37:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042990411942367415"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042990411942367415",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我为什么说我讨厌sbti\nmbti就已经是一群人沉迷然后像算卦一样见一个人就问。完全不管别人性格本身是什么，在知道你的mbti后就刷新印象把你的性格想成刻板mbti印象。\n\nsbti更不用说了，从用词和那些问题/叙述方式上就能看出来这个是纯以男性视角来写的，我真的不知道为什么有女的玩这个，还是玩mbti吧.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2042990411942367415",
+        "created_at": "2026-04-11T15:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T16:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042990411942367415"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042990411942367415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我为什么说我讨厌sbti\nmbti就已经是一群人沉迷然后像算卦一样见一个人就问。完全不管别人性格本身是什么，在知道你的mbti后就刷新印象把你的性格想成刻板mbti印象。\n\nsbti更不用说了，从用词和那些问题/叙述方式上就能看出来这个是纯以男性视角来写的，我真的不知道为什么有女的玩这个，还是玩mbti吧.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "@hongdou_cici的重生号\n\n防炸备用机@Lajitong_l",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "hongdou_cici"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "Lajitong_l"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2039663142012325929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 160,
+          "like_count": 1097,
+          "listed_count": 3,
+          "media_count": 57,
+          "tweet_count": 581
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      }
+    ]
+  }
+}

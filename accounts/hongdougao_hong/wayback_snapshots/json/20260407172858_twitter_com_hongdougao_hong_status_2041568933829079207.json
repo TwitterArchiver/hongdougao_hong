@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2041568933829079207",
+    "created_at": "2026-04-07T17:28:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T18:28:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041568933829079207"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/iiilanyi/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/iiilanyi/status/2041399083575976405",
+          "start": 4,
+          "url": "https://t.co/BmUOKiJhmN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041568933829079207",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041399083575976405",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "救命吧 https://t.co/BmUOKiJhmN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2041568933829079207",
+        "created_at": "2026-04-07T17:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T18:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041568933829079207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iiilanyi/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/iiilanyi/status/2041399083575976405",
+              "start": 4,
+              "url": "https://t.co/BmUOKiJhmN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041568933829079207",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041399083575976405",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "救命吧 https://t.co/BmUOKiJhmN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730181663869788160",
+        "conversation_id": "2041399083575976405",
+        "created_at": "2026-04-07T06:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T07:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041399083575976405"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041399083575976405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 33116,
+          "like_count": 2061,
+          "quote_count": 9,
+          "reply_count": 36,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "无论什么样的男人火了都有梦女\n无论什么样的女人火了都有黄谣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "@hongdou_cici的重生号\n\n防炸备用机@Lajitong_l",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "hongdou_cici"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "Lajitong_l"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2039663142012325929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 157,
+          "like_count": 1070,
+          "listed_count": 3,
+          "media_count": 53,
+          "tweet_count": 543
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-30T11:07:41.000Z",
+        "description": "不接合作/骂我的接所有女性的霉运",
+        "id": "1730181663869788160",
+        "name": "叶澜依",
+        "pinned_tweet_id": "1806756200685678702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749107215586435072/mZngb4JH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14629,
+          "following_count": 1,
+          "like_count": 3781,
+          "listed_count": 15,
+          "media_count": 355,
+          "tweet_count": 2491
+        },
+        "username": "IIILanyi",
+        "verified": false
+      }
+    ]
+  }
+}

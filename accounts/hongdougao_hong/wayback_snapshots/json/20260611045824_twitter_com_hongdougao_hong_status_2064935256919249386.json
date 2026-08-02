@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064729939996463104"
+      ],
+      "media_source_tweet_id": [
+        "2064729957885259860"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "2064935256919249386",
+    "created_at": "2026-06-11T04:58:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T05:58:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064935256919249386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1790756114700640256",
+          "start": 3,
+          "username": "hongdougao_hong"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Tuzhs8TrDy",
+          "end": 49,
+          "expanded_url": "https://x.com/hongdougao_hong/status/2064729957885259860/photo/1",
+          "media_key": "3_2064729939996463104",
+          "start": 26,
+          "url": "https://t.co/Tuzhs8TrDy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064935256919249386",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064729957885259860",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hongdougao_hong: 特效化妆 https://t.co/Tuzhs8TrDy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2064729939996463104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdk8OaaUAA5w_u.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064729939996463104"
+          ],
+          "media_source_tweet_id": [
+            "2064729957885259860"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "conversation_id": "2064935256919249386",
+        "created_at": "2026-06-11T04:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064935256919249386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1790756114700640256",
+              "start": 3,
+              "username": "hongdougao_hong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tuzhs8TrDy",
+              "end": 49,
+              "expanded_url": "https://x.com/hongdougao_hong/status/2064729957885259860/photo/1",
+              "media_key": "3_2064729939996463104",
+              "start": 26,
+              "url": "https://t.co/Tuzhs8TrDy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064935256919249386",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064729957885259860",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hongdougao_hong: 特效化妆 https://t.co/Tuzhs8TrDy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064729939996463104"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "conversation_id": "2064729957885259860",
+        "created_at": "2026-06-10T15:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064729957885259860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tuzhs8TrDy",
+              "end": 28,
+              "expanded_url": "https://x.com/hongdougao_hong/status/2064729957885259860/photo/1",
+              "media_key": "3_2064729939996463104",
+              "start": 5,
+              "url": "https://t.co/Tuzhs8TrDy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064729957885259860",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 205,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "特效化妆 https://t.co/Tuzhs8TrDy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 200,
+          "like_count": 2020,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 1041
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      }
+    ]
+  }
+}

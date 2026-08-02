@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2068723745997643776"
+      ],
+      "media_source_tweet_id": [
+        "2068723811730813012"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "2068745070388678943",
+    "created_at": "2026-06-21T17:17:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T18:17:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068745070388678943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2033626107698937856",
+          "start": 3,
+          "username": "xxxinTxT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/b57tyl3tfO",
+          "end": 37,
+          "expanded_url": "https://x.com/xxxinTxT/status/2068723811730813012/photo/1",
+          "media_key": "16_2068723745997643776",
+          "start": 14,
+          "url": "https://t.co/b57tyl3tfO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068745070388678943",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068723811730813012",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxxinTxT: https://t.co/b57tyl3tfO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 298,
+        "media_key": "16_2068723745997643776",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HLWVSVKa4AAuiiw.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HLWVSVKa4AAuiiw.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2068723745997643776"
+          ],
+          "media_source_tweet_id": [
+            "2068723811730813012"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "conversation_id": "2068745070388678943",
+        "created_at": "2026-06-21T17:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T18:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068745070388678943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2033626107698937856",
+              "start": 3,
+              "username": "xxxinTxT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b57tyl3tfO",
+              "end": 37,
+              "expanded_url": "https://x.com/xxxinTxT/status/2068723811730813012/photo/1",
+              "media_key": "16_2068723745997643776",
+              "start": 14,
+              "url": "https://t.co/b57tyl3tfO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068745070388678943",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068723811730813012",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xxxinTxT: https://t.co/b57tyl3tfO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2068723745997643776"
+          ]
+        },
+        "author_id": "2033626107698937856",
+        "conversation_id": "2068723811730813012",
+        "created_at": "2026-06-21T15:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068723811730813012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b57tyl3tfO",
+              "end": 23,
+              "expanded_url": "https://x.com/xxxinTxT/status/2068723811730813012/photo/1",
+              "media_key": "16_2068723745997643776",
+              "start": 0,
+              "url": "https://t.co/b57tyl3tfO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068723811730813012",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/b57tyl3tfO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 209,
+          "like_count": 2150,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 1111
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T19:27:52.000Z",
+        "description": "",
+        "id": "2033626107698937856",
+        "name": "x",
+        "pinned_tweet_id": "2067589764979802452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067057240679550976/jyX_gASf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 18,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "xxxinTxT",
+        "verified": false
+      }
+    ]
+  }
+}

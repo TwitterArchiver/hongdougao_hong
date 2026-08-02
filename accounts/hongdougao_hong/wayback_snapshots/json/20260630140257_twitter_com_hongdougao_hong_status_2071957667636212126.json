@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2071850787039531461",
+    "created_at": "2026-06-30T14:02:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T15:02:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071957667636212126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2056606522889699328",
+          "start": 0,
+          "username": "lose_kgs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071957667636212126",
+    "in_reply_to_user_id": "2056606522889699328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071954220429754470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lose_kgs 谢谢(･༥･´) ̑̑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2071850787039531461",
+        "created_at": "2026-06-30T14:02:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T15:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071957667636212126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2056606522889699328",
+              "start": 0,
+              "username": "lose_kgs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071957667636212126",
+        "in_reply_to_user_id": "2056606522889699328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071954220429754470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lose_kgs 谢谢(･༥･´) ̑̑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056606522889699328",
+        "conversation_id": "2071850787039531461",
+        "created_at": "2026-06-30T13:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T14:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071954220429754470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790756114700640256",
+              "start": 0,
+              "username": "hongdougao_hong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071954220429754470",
+        "in_reply_to_user_id": "1790756114700640256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071850787039531461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdougao_hong 可爱🤏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 210,
+          "like_count": 2352,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 1196
+        },
+        "url": "",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-19T05:26:17.000Z",
+        "description": "-16 dnf | ifb | 新号老居民. 混血拉子",
+        "id": "2056606522889699328",
+        "location": "23y/o",
+        "name": "Lili ౨ৎ",
+        "pinned_tweet_id": "2067829693856768239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056607751472615424/-ew3WJx-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 249,
+          "like_count": 1363,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 401
+        },
+        "url": "",
+        "username": "lose_kgs",
+        "verified": false
+      }
+    ]
+  }
+}

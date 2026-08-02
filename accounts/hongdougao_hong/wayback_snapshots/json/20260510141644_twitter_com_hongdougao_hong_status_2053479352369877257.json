@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053479341695397888",
+        "3_2053479341686923265",
+        "3_2053479341674332160",
+        "3_2053479341682814976"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "2053479352369877257",
+    "created_at": "2026-05-10T14:16:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T15:16:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053479352369877257"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bo6w1i4PwD",
+          "end": 41,
+          "expanded_url": "https://x.com/hongdougao_hong/status/2053479352369877257/photo/1",
+          "media_key": "3_2053479341695397888",
+          "start": 18,
+          "url": "https://t.co/Bo6w1i4PwD"
+        },
+        {
+          "display_url": "pic.x.com/Bo6w1i4PwD",
+          "end": 41,
+          "expanded_url": "https://x.com/hongdougao_hong/status/2053479352369877257/photo/1",
+          "media_key": "3_2053479341686923265",
+          "start": 18,
+          "url": "https://t.co/Bo6w1i4PwD"
+        },
+        {
+          "display_url": "pic.x.com/Bo6w1i4PwD",
+          "end": 41,
+          "expanded_url": "https://x.com/hongdougao_hong/status/2053479352369877257/photo/1",
+          "media_key": "3_2053479341674332160",
+          "start": 18,
+          "url": "https://t.co/Bo6w1i4PwD"
+        },
+        {
+          "display_url": "pic.x.com/Bo6w1i4PwD",
+          "end": 41,
+          "expanded_url": "https://x.com/hongdougao_hong/status/2053479352369877257/photo/1",
+          "media_key": "3_2053479341682814976",
+          "start": 18,
+          "url": "https://t.co/Bo6w1i4PwD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053479352369877257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "怎么这个红豆糕小姐姐又在女扮男装啦 https://t.co/Bo6w1i4PwD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2053479341695397888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9slNtbcAAkQsj.jpg",
+        "width": 678
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2053479341686923265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9slNraIAEFvvk.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2053479341674332160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9slNoaAAAGm6C.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2053479341682814976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9slNqbcAAF-YQ.jpg",
+        "width": 698
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053479341695397888",
+            "3_2053479341686923265",
+            "3_2053479341674332160",
+            "3_2053479341682814976"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "conversation_id": "2053479352369877257",
+        "created_at": "2026-05-10T14:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053479352369877257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bo6w1i4PwD",
+              "end": 41,
+              "expanded_url": "https://x.com/hongdougao_hong/status/2053479352369877257/photo/1",
+              "media_key": "3_2053479341695397888",
+              "start": 18,
+              "url": "https://t.co/Bo6w1i4PwD"
+            },
+            {
+              "display_url": "pic.x.com/Bo6w1i4PwD",
+              "end": 41,
+              "expanded_url": "https://x.com/hongdougao_hong/status/2053479352369877257/photo/1",
+              "media_key": "3_2053479341686923265",
+              "start": 18,
+              "url": "https://t.co/Bo6w1i4PwD"
+            },
+            {
+              "display_url": "pic.x.com/Bo6w1i4PwD",
+              "end": 41,
+              "expanded_url": "https://x.com/hongdougao_hong/status/2053479352369877257/photo/1",
+              "media_key": "3_2053479341674332160",
+              "start": 18,
+              "url": "https://t.co/Bo6w1i4PwD"
+            },
+            {
+              "display_url": "pic.x.com/Bo6w1i4PwD",
+              "end": 41,
+              "expanded_url": "https://x.com/hongdougao_hong/status/2053479352369877257/photo/1",
+              "media_key": "3_2053479341682814976",
+              "start": 18,
+              "url": "https://t.co/Bo6w1i4PwD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053479352369877257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么这个红豆糕小姐姐又在女扮男装啦 https://t.co/Bo6w1i4PwD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 186,
+          "like_count": 1513,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 810
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      }
+    ]
+  }
+}

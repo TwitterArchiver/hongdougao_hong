@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053717746568118272"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "2053717755854217493",
+    "created_at": "2026-05-11T06:04:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T07:04:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053717755854217493"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/J8C50Cr8S1",
+          "end": 47,
+          "expanded_url": "https://x.com/hongdougao_hong/status/2053717755854217493/photo/1",
+          "media_key": "3_2053717746568118272",
+          "start": 24,
+          "url": "https://t.co/J8C50Cr8S1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053717755854217493",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小学弱智男同学发朋友圈一股强烈的文盲感扑面而来 https://t.co/J8C50Cr8S1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1564,
+        "media_key": "3_2053717746568118272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIBFaNEbwAAkp73.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053717746568118272"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "conversation_id": "2053717755854217493",
+        "created_at": "2026-05-11T06:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T07:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053717755854217493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J8C50Cr8S1",
+              "end": 47,
+              "expanded_url": "https://x.com/hongdougao_hong/status/2053717755854217493/photo/1",
+              "media_key": "3_2053717746568118272",
+              "start": 24,
+              "url": "https://t.co/J8C50Cr8S1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053717755854217493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小学弱智男同学发朋友圈一股强烈的文盲感扑面而来 https://t.co/J8C50Cr8S1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 188,
+          "like_count": 1533,
+          "listed_count": 3,
+          "media_count": 59,
+          "tweet_count": 821
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      }
+    ]
+  }
+}

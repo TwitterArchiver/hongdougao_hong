@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062861884655607808",
+        "3_2062861884630487040",
+        "3_2062861884512940032",
+        "3_2062861884613681152"
+      ],
+      "media_source_tweet_id": [
+        "2062861893648142407",
+        "2062861893648142407",
+        "2062861893648142407",
+        "2062861893648142407"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "2065460644426784888",
+    "created_at": "2026-06-12T15:46:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T16:46:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065460644426784888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1511681917329891332",
+          "start": 3,
+          "username": "buggy_rexie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8X0SZKRlnj",
+          "end": 43,
+          "expanded_url": "https://x.com/buggy_rexie/status/2062861893648142407/photo/1",
+          "media_key": "3_2062861884655607808",
+          "start": 20,
+          "url": "https://t.co/8X0SZKRlnj"
+        },
+        {
+          "display_url": "pic.x.com/8X0SZKRlnj",
+          "end": 43,
+          "expanded_url": "https://x.com/buggy_rexie/status/2062861893648142407/photo/1",
+          "media_key": "3_2062861884630487040",
+          "start": 20,
+          "url": "https://t.co/8X0SZKRlnj"
+        },
+        {
+          "display_url": "pic.x.com/8X0SZKRlnj",
+          "end": 43,
+          "expanded_url": "https://x.com/buggy_rexie/status/2062861893648142407/photo/1",
+          "media_key": "3_2062861884512940032",
+          "start": 20,
+          "url": "https://t.co/8X0SZKRlnj"
+        },
+        {
+          "display_url": "pic.x.com/8X0SZKRlnj",
+          "end": 43,
+          "expanded_url": "https://x.com/buggy_rexie/status/2062861893648142407/photo/1",
+          "media_key": "3_2062861884613681152",
+          "start": 20,
+          "url": "https://t.co/8X0SZKRlnj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065460644426784888",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5897
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062861893648142407",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @buggy_rexie: me https://t.co/8X0SZKRlnj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 393,
+        "media_key": "3_2062861884655607808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDB9F-XIAAV8KC.jpg",
+        "width": 640
+      },
+      {
+        "height": 473,
+        "media_key": "3_2062861884630487040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDB9F4X0AAVYzk.jpg",
+        "width": 500
+      },
+      {
+        "height": 240,
+        "media_key": "3_2062861884512940032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDB9FcWMAA6qSm.jpg",
+        "width": 406
+      },
+      {
+        "height": 461,
+        "media_key": "3_2062861884613681152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDB9F0XYAAL3ol.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062861884655607808",
+            "3_2062861884630487040",
+            "3_2062861884512940032",
+            "3_2062861884613681152"
+          ],
+          "media_source_tweet_id": [
+            "2062861893648142407",
+            "2062861893648142407",
+            "2062861893648142407",
+            "2062861893648142407"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "conversation_id": "2065460644426784888",
+        "created_at": "2026-06-12T15:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065460644426784888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1511681917329891332",
+              "start": 3,
+              "username": "buggy_rexie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8X0SZKRlnj",
+              "end": 43,
+              "expanded_url": "https://x.com/buggy_rexie/status/2062861893648142407/photo/1",
+              "media_key": "3_2062861884655607808",
+              "start": 20,
+              "url": "https://t.co/8X0SZKRlnj"
+            },
+            {
+              "display_url": "pic.x.com/8X0SZKRlnj",
+              "end": 43,
+              "expanded_url": "https://x.com/buggy_rexie/status/2062861893648142407/photo/1",
+              "media_key": "3_2062861884630487040",
+              "start": 20,
+              "url": "https://t.co/8X0SZKRlnj"
+            },
+            {
+              "display_url": "pic.x.com/8X0SZKRlnj",
+              "end": 43,
+              "expanded_url": "https://x.com/buggy_rexie/status/2062861893648142407/photo/1",
+              "media_key": "3_2062861884512940032",
+              "start": 20,
+              "url": "https://t.co/8X0SZKRlnj"
+            },
+            {
+              "display_url": "pic.x.com/8X0SZKRlnj",
+              "end": 43,
+              "expanded_url": "https://x.com/buggy_rexie/status/2062861893648142407/photo/1",
+              "media_key": "3_2062861884613681152",
+              "start": 20,
+              "url": "https://t.co/8X0SZKRlnj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065460644426784888",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5897
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062861893648142407",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @buggy_rexie: me https://t.co/8X0SZKRlnj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062861884655607808",
+            "3_2062861884630487040",
+            "3_2062861884512940032",
+            "3_2062861884613681152"
+          ]
+        },
+        "author_id": "1511681917329891332",
+        "conversation_id": "2062861893648142407",
+        "created_at": "2026-06-05T11:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T12:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062861893648142407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8X0SZKRlnj",
+              "end": 26,
+              "expanded_url": "https://x.com/buggy_rexie/status/2062861893648142407/photo/1",
+              "media_key": "3_2062861884655607808",
+              "start": 3,
+              "url": "https://t.co/8X0SZKRlnj"
+            },
+            {
+              "display_url": "pic.x.com/8X0SZKRlnj",
+              "end": 26,
+              "expanded_url": "https://x.com/buggy_rexie/status/2062861893648142407/photo/1",
+              "media_key": "3_2062861884630487040",
+              "start": 3,
+              "url": "https://t.co/8X0SZKRlnj"
+            },
+            {
+              "display_url": "pic.x.com/8X0SZKRlnj",
+              "end": 26,
+              "expanded_url": "https://x.com/buggy_rexie/status/2062861893648142407/photo/1",
+              "media_key": "3_2062861884512940032",
+              "start": 3,
+              "url": "https://t.co/8X0SZKRlnj"
+            },
+            {
+              "display_url": "pic.x.com/8X0SZKRlnj",
+              "end": 26,
+              "expanded_url": "https://x.com/buggy_rexie/status/2062861893648142407/photo/1",
+              "media_key": "3_2062861884613681152",
+              "start": 3,
+              "url": "https://t.co/8X0SZKRlnj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062861893648142407",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1357,
+          "impression_count": 177436,
+          "like_count": 16519,
+          "quote_count": 68,
+          "reply_count": 7,
+          "retweet_count": 5897
+        },
+        "reply_settings": "everyone",
+        "text": "me https://t.co/8X0SZKRlnj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 204,
+          "like_count": 2049,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 1056
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-06T12:27:23.000Z",
+        "description": "🎟️⠀⠀⠀᭥ edtwt⠀⁔⠀diary ⠀⠀. ——⠀⠀‶ messy life ‶ — ♡",
+        "id": "1511681917329891332",
+        "location": "21  |  she  | minors dni",
+        "name": "︴bug 𖤐.ᐟ",
+        "pinned_tweet_id": "2057670161528672507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061020463111847937/dmmZQZ-w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4741,
+          "following_count": 525,
+          "like_count": 15558,
+          "listed_count": 17,
+          "media_count": 2032,
+          "tweet_count": 11126
+        },
+        "username": "buggy_rexie",
+        "verified": false
+      }
+    ]
+  }
+}

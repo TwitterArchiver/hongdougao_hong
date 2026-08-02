@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2057764277235171591",
+    "created_at": "2026-05-22T12:04:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T13:04:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057794810258526394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1873526227979599872",
+          "start": 0,
+          "username": "EvE_ZaKo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057794810258526394",
+    "in_reply_to_user_id": "1873526227979599872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057764277235171591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EvE_ZaKo 救命了夏天能不能放过逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2057764277235171591",
+        "created_at": "2026-05-22T12:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T13:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057794810258526394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1873526227979599872",
+              "start": 0,
+              "username": "EvE_ZaKo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057794810258526394",
+        "in_reply_to_user_id": "1873526227979599872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057764277235171591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EvE_ZaKo 救命了夏天能不能放过逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873526227979599872",
+        "conversation_id": "2057764277235171591",
+        "created_at": "2026-05-22T10:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057764277235171591"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057764277235171591",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我服了逼长痘好想把毛全刮了又怕扎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 199,
+          "like_count": 1731,
+          "listed_count": 3,
+          "media_count": 44,
+          "tweet_count": 898
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T00:27:34.000Z",
+        "description": "同类互fo欢迎 漏fo请私信｜双相｜不爱不恨国｜外貌像门酱｜爸妈未逃出我带来的原生家庭｜💊｜🈹｜嫌贫仇富｜🈚️学历 ｜智商低｜记忆力为0｜恋人@jiajunXiao2 弟弟@jiajunXiao2妹妹@jiajunXiao2 徒弟@jiajunXiao2儿子@jiajunXiao2女儿@jiajunXiao2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 71,
+                "username": "jiajunXiao2"
+              },
+              {
+                "end": 98,
+                "start": 86,
+                "username": "jiajunXiao2"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "jiajunXiao2"
+              },
+              {
+                "end": 127,
+                "start": 115,
+                "username": "jiajunXiao2"
+              },
+              {
+                "end": 141,
+                "start": 129,
+                "username": "jiajunXiao2"
+              },
+              {
+                "end": 155,
+                "start": 143,
+                "username": "jiajunXiao2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yutan11452",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yutan11452",
+                "start": 0,
+                "url": "https://t.co/cRSX1l0hPy"
+              }
+            ]
+          }
+        },
+        "id": "1873526227979599872",
+        "location": "墓地🪦",
+        "name": "再哭大声点",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034049415556583424/-7PVx9b-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 188,
+          "like_count": 1018,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 706
+        },
+        "url": "https://t.co/cRSX1l0hPy",
+        "username": "EvE_ZaKo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972079936325275648"
+      ],
+      "media_source_tweet_id": [
+        "1972079938527547605"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "1972548228798418963",
+    "created_at": "2025-09-29T06:25:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T07:25:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972548228798418963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1831608342893957120",
+          "start": 3,
+          "username": "hammer0l36"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B2b3mdSWyX",
+          "end": 39,
+          "expanded_url": "https://x.com/hammer0l36/status/1972079938527547605/photo/1",
+          "media_key": "3_1972079936325275648",
+          "start": 16,
+          "url": "https://t.co/B2b3mdSWyX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972548228798418963",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1818
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972079938527547605",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hammer0l36: https://t.co/B2b3mdSWyX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 545,
+        "media_key": "3_1972079936325275648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G148QOlX0AAJJUa.jpg",
+        "width": 618
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972079936325275648"
+          ],
+          "media_source_tweet_id": [
+            "1972079938527547605"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "conversation_id": "1972548228798418963",
+        "created_at": "2025-09-29T06:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T07:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972548228798418963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1831608342893957120",
+              "start": 3,
+              "username": "hammer0l36"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B2b3mdSWyX",
+              "end": 39,
+              "expanded_url": "https://x.com/hammer0l36/status/1972079938527547605/photo/1",
+              "media_key": "3_1972079936325275648",
+              "start": 16,
+              "url": "https://t.co/B2b3mdSWyX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972548228798418963",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1818
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972079938527547605",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hammer0l36: https://t.co/B2b3mdSWyX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972079936325275648"
+          ]
+        },
+        "author_id": "1831608342893957120",
+        "conversation_id": "1972079938527547605",
+        "created_at": "2025-09-27T23:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T00:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972079938527547605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B2b3mdSWyX",
+              "end": 23,
+              "expanded_url": "https://x.com/hammer0l36/status/1972079938527547605/photo/1",
+              "media_key": "3_1972079936325275648",
+              "start": 0,
+              "url": "https://t.co/B2b3mdSWyX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972079938527547605",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2214,
+          "impression_count": 124345,
+          "like_count": 18677,
+          "quote_count": 44,
+          "reply_count": 18,
+          "retweet_count": 1818
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/B2b3mdSWyX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "@hongdou_cici的备用机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "垃圾桶里的红豆糕",
+        "pinned_tweet_id": "1835690499442876760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830526708291956736/0mYmK6JI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751,
+          "following_count": 136,
+          "like_count": 876,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 363
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-05T08:20:41.000Z",
+        "description": "i post and draw for my own entertainment, mostly NSFW/suggestive | art only: @hammer0l36art | ic by bichianti",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "hammer0l36art"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/manmadehuman",
+                "end": 23,
+                "expanded_url": "https://ngl.link/manmadehuman",
+                "start": 0,
+                "url": "https://t.co/KjHDORmFU8"
+              }
+            ]
+          }
+        },
+        "id": "1831608342893957120",
+        "location": "🔞 18+ only ",
+        "name": "Öz",
+        "pinned_tweet_id": "1962190067507577007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905649156347084800/DPOMbK0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1565,
+          "following_count": 276,
+          "like_count": 26914,
+          "listed_count": 1,
+          "media_count": 418,
+          "tweet_count": 4946
+        },
+        "url": "https://t.co/KjHDORmFU8",
+        "username": "hammer0l36",
+        "verified": false
+      }
+    ]
+  }
+}

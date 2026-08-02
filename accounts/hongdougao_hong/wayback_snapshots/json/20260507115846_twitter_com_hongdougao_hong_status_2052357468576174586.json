@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2052260311496065126",
+    "created_at": "2026-05-07T11:58:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T12:58:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052357468576174586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1898003698800115716",
+          "start": 0,
+          "username": "MS_DCnemunemu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052357468576174586",
+    "in_reply_to_user_id": "1898003698800115716",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052262054762037358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MS_DCnemunemu 仕事でよく物を運ぶから、すごく力持ちになったよᕙ(ಠ ਊ ಠ)ᕗ\nあ桑、もし持てないものがあったら、日本まで飛んで手伝いに行くね！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2052260311496065126",
+        "created_at": "2026-05-07T11:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T12:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052357468576174586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1898003698800115716",
+              "start": 0,
+              "username": "MS_DCnemunemu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052357468576174586",
+        "in_reply_to_user_id": "1898003698800115716",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052262054762037358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MS_DCnemunemu 仕事でよく物を運ぶから、すごく力持ちになったよᕙ(ಠ ਊ ಠ)ᕗ\nあ桑、もし持てないものがあったら、日本まで飛んで手伝いに行くね！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898003698800115716",
+        "conversation_id": "2052260311496065126",
+        "created_at": "2026-05-07T05:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T06:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052262054762037358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790756114700640256",
+              "start": 0,
+              "username": "hongdougao_hong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052262054762037358",
+        "in_reply_to_user_id": "1790756114700640256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052260311496065126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdougao_hong 红豆糕 さん偉すぎる！\n重いもの持てないから羨ましい過ぎる🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 184,
+          "like_count": 1452,
+          "listed_count": 3,
+          "media_count": 69,
+          "tweet_count": 788
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T13:32:31.000Z",
+        "description": "あ",
+        "id": "1898003698800115716",
+        "name": "あ",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 15,
+          "like_count": 940,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 164
+        },
+        "username": "MS_DCnemunemu",
+        "verified": false
+      }
+    ]
+  }
+}

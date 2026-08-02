@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2061437390691135899",
+    "created_at": "2026-06-01T13:19:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T14:19:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061437390691135899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1897782396994699267",
+          "start": 3,
+          "username": "mahcherrys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061437390691135899",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24618
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061105054203924561",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mahcherrys: Se você é um homem que nunca assobiou, estuprou, tocou e/ou assediou uma mulher, você é um homem normal.\n\nVocê não é bom, v…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2061437390691135899",
+        "created_at": "2026-06-01T13:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T14:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061437390691135899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1897782396994699267",
+              "start": 3,
+              "username": "mahcherrys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061437390691135899",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24618
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061105054203924561",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mahcherrys: Se você é um homem que nunca assobiou, estuprou, tocou e/ou assediou uma mulher, você é um homem normal.\n\nVocê não é bom, v…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897782396994699267",
+        "conversation_id": "2061105054203924561",
+        "created_at": "2026-05-31T15:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T16:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061105054203924561"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061105054203924561",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2489,
+          "impression_count": 1095635,
+          "like_count": 133427,
+          "quote_count": 169,
+          "reply_count": 455,
+          "retweet_count": 24618
+        },
+        "reply_settings": "everyone",
+        "text": "Se você é um homem que nunca assobiou, estuprou, tocou e/ou assediou uma mulher, você é um homem normal.\n\nVocê não é bom, você não é ótimo, você não é perfeito, você não é um cara legal. Você é normal.\n\nIsso é como pessoas normais se comportam, você não merece um parabéns."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 195,
+          "like_count": 1898,
+          "listed_count": 3,
+          "media_count": 46,
+          "tweet_count": 986
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-06T22:52:59.000Z",
+        "description": "𝑺𝒕𝒖𝒅𝒚𝒕𝒘𝒕 / 𝑫𝒊𝒓𝒆𝒊𝒕𝒐 ────────────────────  𝔸𝕣𝕞𝕪 𝕤𝕚𝕟𝕔𝕖 𝟚𝟘𝟙𝟝               FCK NZS          🍒 ⇢ 🜼⋆˚ ⁭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/mahcherrys?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/mahcherrys?igsh=MWI3Mzlta2E3ejBmMg==",
+                "start": 0,
+                "url": "https://t.co/aGGKoIBmfQ"
+              }
+            ]
+          }
+        },
+        "id": "1897782396994699267",
+        "location": " .⋆ᵐᵃᵗ ᵖᵒʳᵗ",
+        "name": "Mah🍒 Ⓐ⋆˚ ⁷",
+        "pinned_tweet_id": "2036550036050313487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042436526252949504/CfgN_ySC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10778,
+          "following_count": 7901,
+          "like_count": 7002,
+          "listed_count": 49,
+          "media_count": 2014,
+          "tweet_count": 25068
+        },
+        "url": "https://t.co/aGGKoIBmfQ",
+        "username": "mahcherrys",
+        "verified": true
+      }
+    ]
+  }
+}

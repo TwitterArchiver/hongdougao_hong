@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042550872564207622"
+      ],
+      "media_source_tweet_id": [
+        "2042550874829172918"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2042612718667206839",
+    "created_at": "2026-04-10T14:36:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T15:36:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042612718667206839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1742525398427267072",
+          "start": 3,
+          "username": "sugar_dash_74"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ToUjU9J3bZ",
+          "end": 44,
+          "expanded_url": "https://x.com/sugar_dash_74/status/2042550874829172918/photo/1",
+          "media_key": "3_2042550872564207622",
+          "start": 21,
+          "url": "https://t.co/ToUjU9J3bZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042612718667206839",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042550874829172918",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sugar_dash_74: 🍄 https://t.co/ToUjU9J3bZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2042550872564207622",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFiZMlrakAYQidU.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042550872564207622"
+          ],
+          "media_source_tweet_id": [
+            "2042550874829172918"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2042612718667206839",
+        "created_at": "2026-04-10T14:36:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042612718667206839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1742525398427267072",
+              "start": 3,
+              "username": "sugar_dash_74"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ToUjU9J3bZ",
+              "end": 44,
+              "expanded_url": "https://x.com/sugar_dash_74/status/2042550874829172918/photo/1",
+              "media_key": "3_2042550872564207622",
+              "start": 21,
+              "url": "https://t.co/ToUjU9J3bZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042612718667206839",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042550874829172918",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sugar_dash_74: 🍄 https://t.co/ToUjU9J3bZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042550872564207622"
+          ]
+        },
+        "author_id": "1742525398427267072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2042550874829172918",
+        "created_at": "2026-04-10T10:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T11:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042550874829172918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ToUjU9J3bZ",
+              "end": 25,
+              "expanded_url": "https://x.com/sugar_dash_74/status/2042550874829172918/photo/1",
+              "media_key": "3_2042550872564207622",
+              "start": 2,
+              "url": "https://t.co/ToUjU9J3bZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042550874829172918",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "🍄 https://t.co/ToUjU9J3bZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "@hongdou_cici的重生号\n\n防炸备用机@Lajitong_l",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "hongdou_cici"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "Lajitong_l"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2039663142012325929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 156,
+          "like_count": 1076,
+          "listed_count": 3,
+          "media_count": 56,
+          "tweet_count": 554
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-03T12:38:43.000Z",
+        "description": "ℑ 𝔡𝔬𝔫’𝔱 𝔢𝔳𝔢𝔫 𝔣𝔢𝔢𝔩 𝔩𝔬𝔳𝔢 𝔞𝔫𝔡 ℑ 𝔥𝔞𝔳𝔢 𝔱𝔬 𝔭𝔞𝔶 𝔣𝔬𝔯 𝔱𝔥𝔢𝔦𝔯 𝔩𝔬𝔳𝔢.\n𝐴𝑉𝐴𝑇𝐴𝑅：@𝑡𝑖𝑟𝑎_27\n@daikirai_74",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "daikirai_74"
+              }
+            ]
+          }
+        },
+        "id": "1742525398427267072",
+        "name": "半糖去冰",
+        "pinned_tweet_id": "1793087379328454880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814649048340856832/6t5cl8lZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 387,
+          "like_count": 6397,
+          "listed_count": 0,
+          "media_count": 241,
+          "tweet_count": 1820
+        },
+        "username": "sugar_dash_74",
+        "verified": false
+      }
+    ]
+  }
+}

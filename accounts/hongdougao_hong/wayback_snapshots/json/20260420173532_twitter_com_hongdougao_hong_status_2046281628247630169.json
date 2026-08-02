@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046281619234025472",
+        "3_2046281619196280832"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2046281628247630169",
+    "created_at": "2026-04-20T17:35:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T18:35:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046281628247630169"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AtMaoTYg6V",
+          "end": 30,
+          "expanded_url": "https://x.com/hongdougao_hong/status/2046281628247630169/photo/1",
+          "media_key": "3_2046281619234025472",
+          "start": 7,
+          "url": "https://t.co/AtMaoTYg6V"
+        },
+        {
+          "display_url": "pic.x.com/AtMaoTYg6V",
+          "end": 30,
+          "expanded_url": "https://x.com/hongdougao_hong/status/2046281628247630169/photo/1",
+          "media_key": "3_2046281619196280832",
+          "start": 7,
+          "url": "https://t.co/AtMaoTYg6V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046281628247630169",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "癒えてきた証 https://t.co/AtMaoTYg6V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046281619234025472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGXaSoDa8AADw_d.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2046281619196280832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGXaSn6bAAAqxiq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046281619234025472",
+            "3_2046281619196280832"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2046281628247630169",
+        "created_at": "2026-04-20T17:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T18:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046281628247630169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AtMaoTYg6V",
+              "end": 30,
+              "expanded_url": "https://x.com/hongdougao_hong/status/2046281628247630169/photo/1",
+              "media_key": "3_2046281619234025472",
+              "start": 7,
+              "url": "https://t.co/AtMaoTYg6V"
+            },
+            {
+              "display_url": "pic.x.com/AtMaoTYg6V",
+              "end": 30,
+              "expanded_url": "https://x.com/hongdougao_hong/status/2046281628247630169/photo/1",
+              "media_key": "3_2046281619196280832",
+              "start": 7,
+              "url": "https://t.co/AtMaoTYg6V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046281628247630169",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "癒えてきた証 https://t.co/AtMaoTYg6V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2032120281691799571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 172,
+          "like_count": 1285,
+          "listed_count": 3,
+          "media_count": 65,
+          "tweet_count": 683
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      }
+    ]
+  }
+}

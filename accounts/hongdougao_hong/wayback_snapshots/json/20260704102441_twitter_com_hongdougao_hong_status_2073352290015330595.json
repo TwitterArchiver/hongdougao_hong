@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2073316026453041610",
+    "created_at": "2026-07-04T10:24:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T11:24:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073352290015330595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1687414558955388928",
+          "start": 0,
+          "username": "Morazaki5397"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073352290015330595",
+    "in_reply_to_user_id": "1687414558955388928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073316026453041610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Morazaki5397 好帅啊！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073315998430859264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMXl6mmbEAA4qWT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2073316026453041610",
+        "created_at": "2026-07-04T10:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T11:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073352290015330595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1687414558955388928",
+              "start": 0,
+              "username": "Morazaki5397"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073352290015330595",
+        "in_reply_to_user_id": "1687414558955388928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073316026453041610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Morazaki5397 好帅啊！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073315998430859264"
+          ]
+        },
+        "author_id": "1687414558955388928",
+        "conversation_id": "2073316026453041610",
+        "created_at": "2026-07-04T08:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T09:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073316026453041610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FIlgjHv3aj",
+              "end": 27,
+              "expanded_url": "https://x.com/Morazaki5397/status/2073316026453041610/photo/1",
+              "media_key": "3_2073315998430859264",
+              "start": 4,
+              "url": "https://t.co/FIlgjHv3aj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073316026453041610",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "usm https://t.co/FIlgjHv3aj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1006,
+          "following_count": 208,
+          "like_count": 2408,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 1216
+        },
+        "url": "",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T10:46:09.000Z",
+        "description": "碎碎念集合处",
+        "id": "1687414558955388928",
+        "location": "北爱尔兰贝尔法斯特",
+        "name": "Morazaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787496479256645633/T_EcQgkJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 85,
+          "like_count": 1337,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 108
+        },
+        "url": "",
+        "username": "Morazaki5397",
+        "verified": false
+      }
+    ]
+  }
+}

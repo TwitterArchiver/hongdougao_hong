@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035309478623760384",
+        "3_2035309486165106689"
+      ],
+      "media_source_tweet_id": [
+        "2035310456861241501",
+        "2035310456861241501"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1334945143208611841",
+          "name": "GL"
+        }
+      }
+    ],
+    "conversation_id": "2077710080343191816",
+    "created_at": "2026-07-16T11:00:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T12:00:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077710080343191816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3001124928",
+          "start": 3,
+          "username": "Aoto_Hibiki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yTDkmZpw4N",
+          "end": 53,
+          "expanded_url": "https://x.com/Aoto_Hibiki/status/2035310456861241501/photo/1",
+          "media_key": "3_2035309478623760384",
+          "start": 30,
+          "url": "https://t.co/yTDkmZpw4N"
+        },
+        {
+          "display_url": "pic.x.com/yTDkmZpw4N",
+          "end": 53,
+          "expanded_url": "https://x.com/Aoto_Hibiki/status/2035310456861241501/photo/1",
+          "media_key": "3_2035309486165106689",
+          "start": 30,
+          "url": "https://t.co/yTDkmZpw4N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077710080343191816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 924
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035310456861241501",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aoto_Hibiki: こういう主従百合が好き🌹 https://t.co/yTDkmZpw4N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1194,
+        "media_key": "3_2035309478623760384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD7fL_Fa0AABPYl.jpg",
+        "width": 900
+      },
+      {
+        "height": 1194,
+        "media_key": "3_2035309486165106689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD7fMbLaoAEmbBh.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035309478623760384",
+            "3_2035309486165106689"
+          ],
+          "media_source_tweet_id": [
+            "2035310456861241501",
+            "2035310456861241501"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "2077710080343191816",
+        "created_at": "2026-07-16T11:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T12:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077710080343191816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3001124928",
+              "start": 3,
+              "username": "Aoto_Hibiki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yTDkmZpw4N",
+              "end": 53,
+              "expanded_url": "https://x.com/Aoto_Hibiki/status/2035310456861241501/photo/1",
+              "media_key": "3_2035309478623760384",
+              "start": 30,
+              "url": "https://t.co/yTDkmZpw4N"
+            },
+            {
+              "display_url": "pic.x.com/yTDkmZpw4N",
+              "end": 53,
+              "expanded_url": "https://x.com/Aoto_Hibiki/status/2035310456861241501/photo/1",
+              "media_key": "3_2035309486165106689",
+              "start": 30,
+              "url": "https://t.co/yTDkmZpw4N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077710080343191816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 924
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035310456861241501",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aoto_Hibiki: こういう主従百合が好き🌹 https://t.co/yTDkmZpw4N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035309478623760384",
+            "3_2035309486165106689"
+          ]
+        },
+        "author_id": "3001124928",
+        "conversation_id": "2035310456861241501",
+        "created_at": "2026-03-21T11:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T12:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035310456861241501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yTDkmZpw4N",
+              "end": 36,
+              "expanded_url": "https://x.com/Aoto_Hibiki/status/2035310456861241501/photo/1",
+              "media_key": "3_2035309478623760384",
+              "start": 13,
+              "url": "https://t.co/yTDkmZpw4N"
+            },
+            {
+              "display_url": "pic.x.com/yTDkmZpw4N",
+              "end": 36,
+              "expanded_url": "https://x.com/Aoto_Hibiki/status/2035310456861241501/photo/1",
+              "media_key": "3_2035309486165106689",
+              "start": 13,
+              "url": "https://t.co/yTDkmZpw4N"
+            },
+            {
+              "display_url": "x.com/Aoto_Hibiki/st…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/Aoto_Hibiki/status/2030238335743246459",
+              "start": 37,
+              "url": "https://t.co/Bx3y3sbR5i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035310456861241501",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1850,
+          "impression_count": 413000,
+          "like_count": 10523,
+          "quote_count": 21,
+          "reply_count": 8,
+          "retweet_count": 924
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030238335743246459",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "こういう主従百合が好き🌹 https://t.co/yTDkmZpw4N https://t.co/Bx3y3sbR5i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 210,
+          "like_count": 2523,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 1292
+        },
+        "url": "",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-29T11:56:11.000Z",
+        "description": "百合漫画家です。コミックキューンにて、強い女とあざとい女の社会人百合漫画『この恋、一旦持ち帰らせていただきます！』連載中🖤🤍\n完結作品『サボりなら保健室でどうぞ？』『鎧塚さんをバブらせたい』など",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/aotohibiki",
+                "end": 23,
+                "expanded_url": "https://lit.link/aotohibiki",
+                "start": 0,
+                "url": "https://t.co/lQTpjaqSfa"
+              }
+            ]
+          }
+        },
+        "id": "3001124928",
+        "location": " 詳細やお仕事のご依頼はlit.linkへ",
+        "name": "あおと響",
+        "pinned_tweet_id": "2067925366363336754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066932848419127296/dNI6pFhy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35009,
+          "following_count": 146,
+          "like_count": 3536,
+          "listed_count": 277,
+          "media_count": 477,
+          "tweet_count": 7225
+        },
+        "url": "https://t.co/lQTpjaqSfa",
+        "username": "Aoto_Hibiki",
+        "verified": true
+      }
+    ]
+  }
+}

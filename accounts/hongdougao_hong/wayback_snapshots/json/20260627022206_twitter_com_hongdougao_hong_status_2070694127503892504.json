@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2070419653667803234",
+    "created_at": "2026-06-27T02:22:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T03:22:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070694127503892504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1977588436375629824",
+          "start": 0,
+          "username": "Lajitong_l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070694127503892504",
+    "in_reply_to_user_id": "1977588436375629824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070694081836318869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lajitong_l 对"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2070694081836318869].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2070694081836318869",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2070694081836318869"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2070419653667803234",
+        "created_at": "2026-06-27T02:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T03:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070694127503892504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1977588436375629824",
+              "start": 0,
+              "username": "Lajitong_l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070694127503892504",
+        "in_reply_to_user_id": "1977588436375629824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070694081836318869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lajitong_l 对"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 209,
+          "like_count": 2255,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1159
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-13T04:13:30.000Z",
+        "description": "🗑️🚮\n🌈➕Feminism \nmain account: @hongdougao_hong",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "hongdougao_hong"
+              }
+            ]
+          }
+        },
+        "id": "1977588436375629824",
+        "name": "红_豆_糕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042903057479143431/V56f5Qcs_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 133,
+          "like_count": 243,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 128
+        },
+        "url": "",
+        "username": "Lajitong_l",
+        "verified": false
+      }
+    ]
+  }
+}

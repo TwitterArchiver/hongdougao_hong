@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080534036208926720",
+        "3_2080534036242440192"
+      ],
+      "media_source_tweet_id": [
+        "2080534163564740741",
+        "2080534163564740741"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "2080852179326574700",
+    "created_at": "2026-07-25T03:06:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T04:06:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080852179326574700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1702118534925389824",
+          "start": 3,
+          "username": "worldsjunk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4NHexkPZ2I",
+          "end": 72,
+          "expanded_url": "https://x.com/worldsjunk/status/2080534163564740741/photo/1",
+          "media_key": "3_2080534036208926720",
+          "start": 49,
+          "url": "https://t.co/4NHexkPZ2I"
+        },
+        {
+          "display_url": "pic.x.com/4NHexkPZ2I",
+          "end": 72,
+          "expanded_url": "https://x.com/worldsjunk/status/2080534163564740741/photo/1",
+          "media_key": "3_2080534036242440192",
+          "start": 49,
+          "url": "https://t.co/4NHexkPZ2I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080852179326574700",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080534163564740741",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @worldsjunk: Scientists reveal the vladimir . https://t.co/4NHexkPZ2I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1125,
+        "media_key": "3_2080534036208926720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-KrstXwAAU-Og.jpg",
+        "width": 1572
+      },
+      {
+        "height": 891,
+        "media_key": "3_2080534036242440192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-Krs1XIAAi7oP.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080534036208926720",
+            "3_2080534036242440192"
+          ]
+        },
+        "author_id": "1702118534925389824",
+        "conversation_id": "2080534163564740741",
+        "created_at": "2026-07-24T06:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T07:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080534163564740741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4NHexkPZ2I",
+              "end": 56,
+              "expanded_url": "https://x.com/worldsjunk/status/2080534163564740741/photo/1",
+              "media_key": "3_2080534036208926720",
+              "start": 33,
+              "url": "https://t.co/4NHexkPZ2I"
+            },
+            {
+              "display_url": "pic.x.com/4NHexkPZ2I",
+              "end": 56,
+              "expanded_url": "https://x.com/worldsjunk/status/2080534163564740741/photo/1",
+              "media_key": "3_2080534036242440192",
+              "start": 33,
+              "url": "https://t.co/4NHexkPZ2I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080534163564740741",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 2621,
+          "like_count": 384,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "Scientists reveal the vladimir . https://t.co/4NHexkPZ2I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080534036208926720",
+            "3_2080534036242440192"
+          ],
+          "media_source_tweet_id": [
+            "2080534163564740741",
+            "2080534163564740741"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "conversation_id": "2080852179326574700",
+        "created_at": "2026-07-25T03:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T04:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080852179326574700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1702118534925389824",
+              "start": 3,
+              "username": "worldsjunk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4NHexkPZ2I",
+              "end": 72,
+              "expanded_url": "https://x.com/worldsjunk/status/2080534163564740741/photo/1",
+              "media_key": "3_2080534036208926720",
+              "start": 49,
+              "url": "https://t.co/4NHexkPZ2I"
+            },
+            {
+              "display_url": "pic.x.com/4NHexkPZ2I",
+              "end": 72,
+              "expanded_url": "https://x.com/worldsjunk/status/2080534163564740741/photo/1",
+              "media_key": "3_2080534036242440192",
+              "start": 49,
+              "url": "https://t.co/4NHexkPZ2I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080852179326574700",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080534163564740741",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @worldsjunk: Scientists reveal the vladimir . https://t.co/4NHexkPZ2I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 209,
+          "like_count": 2646,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 1366
+        },
+        "url": "",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T00:34:26.000Z",
+        "description": "i am a freak of nature\nhttps://t.co/r7S0q0Wa82",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "arab.org/click-to-help/…",
+                "end": 46,
+                "expanded_url": "https://arab.org/click-to-help/palestine/",
+                "start": 23,
+                "url": "https://t.co/r7S0q0Wa82"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "worldsjunk.straw.page",
+                "end": 23,
+                "expanded_url": "https://worldsjunk.straw.page/",
+                "start": 0,
+                "url": "https://t.co/e0bWFYdUBZ"
+              }
+            ]
+          }
+        },
+        "id": "1702118534925389824",
+        "location": "he/him | 🇵🇸",
+        "name": "vlad ☭",
+        "pinned_tweet_id": "2003291955074376185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075490182086946816/gqOvcZKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 1484,
+          "like_count": 105232,
+          "listed_count": 5,
+          "media_count": 1855,
+          "tweet_count": 23429
+        },
+        "url": "https://t.co/e0bWFYdUBZ",
+        "username": "worldsjunk",
+        "verified": false
+      }
+    ]
+  }
+}

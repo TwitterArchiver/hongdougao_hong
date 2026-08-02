@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926008170301808640"
+      ],
+      "media_source_tweet_id": [
+        "1926008184524747036"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1926009436339884180",
+    "created_at": "2025-05-23T20:16:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T21:16:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926009436339884180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1684492249416323072",
+          "start": 3,
+          "username": "cecilia_cici_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vAJBEMFzse",
+          "end": 97,
+          "expanded_url": "https://x.com/cecilia_cici_/status/1926008184524747036/photo/1",
+          "media_key": "3_1926008170301808640",
+          "start": 74,
+          "url": "https://t.co/vAJBEMFzse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926009436339884180",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926008184524747036",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cecilia_cici_: 我其实还想割但并不是因为我不高兴，只是割习惯了导致：\n开心➡️想割\n伤心➡️想割\n兴奋➡️想割\n焦虑➡️想割 https://t.co/vAJBEMFzse"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1926009436339884180].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1926009436339884180",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1926009436339884180"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1926008170301808640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrqOOflW4AAjOV8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926008170301808640"
+          ]
+        },
+        "author_id": "1684492249416323072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1926008184524747036",
+        "created_at": "2025-05-23T20:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T21:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926008184524747036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vAJBEMFzse",
+              "end": 78,
+              "expanded_url": "https://x.com/cecilia_cici_/status/1926008184524747036/photo/1",
+              "media_key": "3_1926008170301808640",
+              "start": 55,
+              "url": "https://t.co/vAJBEMFzse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926008184524747036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我其实还想割但并不是因为我不高兴，只是割习惯了导致：\n开心➡️想割\n伤心➡️想割\n兴奋➡️想割\n焦虑➡️想割 https://t.co/vAJBEMFzse"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "@cecilia_cici_ 的备用机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "cecilia_cici_"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "垃圾桶里的红豆糕",
+        "pinned_tweet_id": "1835690499442876760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830526708291956736/0mYmK6JI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 140,
+          "like_count": 780,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 329
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T09:13:54.000Z",
+        "description": "去死 | If my pics bother you, feel free to block me❌不喜欢我请自避雷❗️善用拉黑｜我宝💗@Unrestrained000｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 68,
+                "username": "Unrestrained000"
+              }
+            ]
+          }
+        },
+        "id": "1684492249416323072",
+        "name": "红豆糕🍰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857343047714983936/slLcQZH8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1754,
+          "following_count": 227,
+          "like_count": 4115,
+          "listed_count": 8,
+          "media_count": 314,
+          "tweet_count": 1928
+        },
+        "username": "cecilia_cici_",
+        "verified": false
+      }
+    ]
+  }
+}

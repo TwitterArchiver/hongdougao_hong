@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937667586818510848",
+        "3_1937667587145711616",
+        "3_1937667587888103424",
+        "3_1937667588529750017"
+      ],
+      "media_source_tweet_id": [
+        "1937667590748537213",
+        "1937667590748537213",
+        "1937667590748537213",
+        "1937667590748537213"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2066764132549103845",
+    "created_at": "2026-06-16T06:05:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T07:05:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066764132549103845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1883015048760811520",
+          "start": 3,
+          "username": "IdkwhoiamEDtwt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HBdMgobXXm",
+          "end": 43,
+          "expanded_url": "https://x.com/Idkwhoiam2shtwt/status/1937667590748537213/photo/1",
+          "media_key": "3_1937667586818510848",
+          "start": 20,
+          "url": "https://t.co/HBdMgobXXm"
+        },
+        {
+          "display_url": "pic.x.com/HBdMgobXXm",
+          "end": 43,
+          "expanded_url": "https://x.com/Idkwhoiam2shtwt/status/1937667590748537213/photo/1",
+          "media_key": "3_1937667587145711616",
+          "start": 20,
+          "url": "https://t.co/HBdMgobXXm"
+        },
+        {
+          "display_url": "pic.x.com/HBdMgobXXm",
+          "end": 43,
+          "expanded_url": "https://x.com/Idkwhoiam2shtwt/status/1937667590748537213/photo/1",
+          "media_key": "3_1937667587888103424",
+          "start": 20,
+          "url": "https://t.co/HBdMgobXXm"
+        },
+        {
+          "display_url": "pic.x.com/HBdMgobXXm",
+          "end": 43,
+          "expanded_url": "https://x.com/Idkwhoiam2shtwt/status/1937667590748537213/photo/1",
+          "media_key": "3_1937667588529750017",
+          "start": 20,
+          "url": "https://t.co/HBdMgobXXm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066764132549103845",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 189
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937667590748537213",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IdkwhoiamEDtwt: https://t.co/HBdMgobXXm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2066764132549103845].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2066764132549103845",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2066764132549103845"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1937667586818510848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuP6Z20bEAAWdxz.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1937667587145711616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuP6Z4CbwAAuCsW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1937667587888103424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuP6Z6zbwAAnZSM.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1937667588529750017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuP6Z9MagAEA_Ez.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937667586818510848",
+            "3_1937667587145711616",
+            "3_1937667587888103424",
+            "3_1937667588529750017"
+          ]
+        },
+        "author_id": "1883015048760811520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1937667378239930879",
+        "created_at": "2025-06-25T00:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T01:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937667590748537213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HBdMgobXXm",
+              "end": 23,
+              "expanded_url": "https://x.com/Idkwhoiam2shtwt/status/1937667590748537213/photo/1",
+              "media_key": "3_1937667586818510848",
+              "start": 0,
+              "url": "https://t.co/HBdMgobXXm"
+            },
+            {
+              "display_url": "pic.x.com/HBdMgobXXm",
+              "end": 23,
+              "expanded_url": "https://x.com/Idkwhoiam2shtwt/status/1937667590748537213/photo/1",
+              "media_key": "3_1937667587145711616",
+              "start": 0,
+              "url": "https://t.co/HBdMgobXXm"
+            },
+            {
+              "display_url": "pic.x.com/HBdMgobXXm",
+              "end": 23,
+              "expanded_url": "https://x.com/Idkwhoiam2shtwt/status/1937667590748537213/photo/1",
+              "media_key": "3_1937667587888103424",
+              "start": 0,
+              "url": "https://t.co/HBdMgobXXm"
+            },
+            {
+              "display_url": "pic.x.com/HBdMgobXXm",
+              "end": 23,
+              "expanded_url": "https://x.com/Idkwhoiam2shtwt/status/1937667590748537213/photo/1",
+              "media_key": "3_1937667588529750017",
+              "start": 0,
+              "url": "https://t.co/HBdMgobXXm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937667590748537213",
+        "in_reply_to_user_id": "1883015048760811520",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 220,
+          "impression_count": 8101,
+          "like_count": 1021,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 189
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937667581059702813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/HBdMgobXXm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 209,
+          "like_count": 2080,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 1070
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T04:52:38.000Z",
+        "description": ". . ᓚ₍⑅^..^₎ ♡ 〝₎₎ ✦₊ ˊ˗\n《♡ EDTWT ♡》\n《♤ SH Recov ♤》\n《☆ SW: 144.6, CW: 127.2, GW: 119 ☆》",
+        "id": "1883015048760811520",
+        "location": "20, CBMI: 20.5",
+        "name": "˚₊‧꒰ა 🪻 ໒꒱ ‧₊˚ Harley {-0.2/-8.4}",
+        "pinned_tweet_id": "2063000867930779915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973358799143772160/et0LzrKK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1276,
+          "following_count": 8,
+          "like_count": 10664,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 470
+        },
+        "username": "IdkwhoiamEDtwt",
+        "verified": false
+      }
+    ]
+  }
+}

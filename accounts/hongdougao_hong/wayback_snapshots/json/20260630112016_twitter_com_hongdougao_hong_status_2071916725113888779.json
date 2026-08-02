@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2071850787039531461",
+    "created_at": "2026-06-30T11:20:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T12:20:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071916725113888779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1773758225890082816",
+          "start": 0,
+          "username": "ringeye000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071916725113888779",
+    "in_reply_to_user_id": "1773758225890082816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071908365345915002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ringeye000 耶！！！谢谢！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2071908365345915002].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2071908365345915002",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2071908365345915002"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2071850787039531461",
+        "created_at": "2026-06-30T11:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T12:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071916725113888779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1773758225890082816",
+              "start": 0,
+              "username": "ringeye000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071916725113888779",
+        "in_reply_to_user_id": "1773758225890082816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071908365345915002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ringeye000 耶！！！谢谢！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 210,
+          "like_count": 2349,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 1192
+        },
+        "url": "",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-29T17:05:01.000Z",
+        "description": "地球から消えたい 裏垢なので大体自分の内緒話 無言フォロごめん あたしのこと無視していいの...\n(フォロされた方はあたしにとって全員神)",
+        "id": "1773758225890082816",
+        "location": "遠い宇宙から...",
+        "name": "💙私は誰？？？",
+        "pinned_tweet_id": "1832382899087405134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994466942326124544/V_u5B-59_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 28,
+          "like_count": 469,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 141
+        },
+        "url": "",
+        "username": "ringeye000",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2046983626232062235",
+    "created_at": "2026-04-23T08:40:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T09:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047234190593409491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2040141274515197952",
+          "start": 0,
+          "username": "siyu2024nian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047234190593409491",
+    "in_reply_to_user_id": "2040141274515197952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047206576927510730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@siyu2024nian 少数正常男性，但是是店员谁知道是不是装出来的工作状态呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2046983626232062235",
+        "created_at": "2026-04-23T08:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T09:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047234190593409491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2040141274515197952",
+              "start": 0,
+              "username": "siyu2024nian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047234190593409491",
+        "in_reply_to_user_id": "2040141274515197952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047206576927510730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@siyu2024nian 少数正常男性，但是是店员谁知道是不是装出来的工作状态呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040141274515197952",
+        "conversation_id": "2046983626232062235",
+        "created_at": "2026-04-23T06:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T07:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047206576927510730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790756114700640256",
+              "start": 0,
+              "username": "hongdougao_hong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047206576927510730",
+        "in_reply_to_user_id": "1790756114700640256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046983626232062235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdougao_hong 24年中央大街霸王茶姬的前台的那个男生巨好又高又帅又礼貌又温柔😭😭😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2032120281691799571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 178,
+          "like_count": 1334,
+          "listed_count": 4,
+          "media_count": 68,
+          "tweet_count": 720
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T18:56:13.000Z",
+        "description": "",
+        "id": "2040141274515197952",
+        "name": "你死去的那个秋天依旧被续写。",
+        "pinned_tweet_id": "2043454182515208444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045989998705651712/a248iTD0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 568,
+          "like_count": 1105,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1200
+        },
+        "username": "siyu2024nian",
+        "verified": true
+      }
+    ]
+  }
+}

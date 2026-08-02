@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041139242739572736"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "2041139248586465746",
+    "created_at": "2026-04-06T13:01:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T14:01:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041139248586465746"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EfGQhEd91v",
+          "end": 127,
+          "expanded_url": "https://x.com/hongdougao_hong/status/2041139248586465746/photo/1",
+          "media_key": "3_2041139242739572736",
+          "start": 104,
+          "url": "https://t.co/EfGQhEd91v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041139248586465746",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你麻痹气死我了怎么会有人这么炫耀：\n\n最坏的结果是我放弃波士顿大学去加拿大复读一年高中，然后考多伦多大学\n\n？你说啥呢妹子你说啥呢？你口语差成那样怎么考的托福我都不问了，明知道我上不起学了还在这里给我炫耀😂 https://t.co/EfGQhEd91v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 556,
+        "media_key": "3_2041139242739572736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOVU6yaIAAiS4t.jpg",
+        "width": 621
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041139242739572736"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "conversation_id": "2041139248586465746",
+        "created_at": "2026-04-06T13:01:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T14:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041139248586465746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EfGQhEd91v",
+              "end": 127,
+              "expanded_url": "https://x.com/hongdougao_hong/status/2041139248586465746/photo/1",
+              "media_key": "3_2041139242739572736",
+              "start": 104,
+              "url": "https://t.co/EfGQhEd91v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041139248586465746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你麻痹气死我了怎么会有人这么炫耀：\n\n最坏的结果是我放弃波士顿大学去加拿大复读一年高中，然后考多伦多大学\n\n？你说啥呢妹子你说啥呢？你口语差成那样怎么考的托福我都不问了，明知道我上不起学了还在这里给我炫耀😂 https://t.co/EfGQhEd91v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "@hongdou_cici的重生号\n\n防炸备用机@Lajitong_l",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "hongdou_cici"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "Lajitong_l"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2039663142012325929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 158,
+          "like_count": 1059,
+          "listed_count": 3,
+          "media_count": 53,
+          "tweet_count": 529
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      }
+    ]
+  }
+}

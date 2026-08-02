@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077799972976611328"
+      ],
+      "media_source_tweet_id": [
+        "2077799981327519848"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "2078058613449662800",
+    "created_at": "2026-07-17T10:05:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T11:05:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078058613449662800"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 69,
+          "start": 62,
+          "tag": "shrtwt"
+        },
+        {
+          "end": 74,
+          "start": 70,
+          "tag": "sfx"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1890430360141672448",
+          "start": 3,
+          "username": "jamisonfawksie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OYx7xC8lCo",
+          "end": 98,
+          "expanded_url": "https://x.com/jamisonfawksie/status/2077799981327519848/photo/1",
+          "media_key": "3_2077799972976611328",
+          "start": 75,
+          "url": "https://t.co/OYx7xC8lCo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078058613449662800",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 86
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077799981327519848",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jamisonfawksie: is this deep\nFAKE FAKE THIS IS ALL MAKEUP\n#shrtwt #sfx https://t.co/OYx7xC8lCo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1052,
+        "media_key": "3_2077799972976611328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNXUEReWUAAK-gZ.jpg",
+        "width": 997
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077799972976611328"
+          ]
+        },
+        "author_id": "1890430360141672448",
+        "conversation_id": "2077799981327519848",
+        "created_at": "2026-07-16T16:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T17:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077799981327519848"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 42,
+              "tag": "shrtwt"
+            },
+            {
+              "end": 54,
+              "start": 50,
+              "tag": "sfx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OYx7xC8lCo",
+              "end": 78,
+              "expanded_url": "https://x.com/jamisonfawksie/status/2077799981327519848/photo/1",
+              "media_key": "3_2077799972976611328",
+              "start": 55,
+              "url": "https://t.co/OYx7xC8lCo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077799981327519848",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 3354,
+          "like_count": 808,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "is this deep\nFAKE FAKE THIS IS ALL MAKEUP\n#shrtwt #sfx https://t.co/OYx7xC8lCo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077799972976611328"
+          ],
+          "media_source_tweet_id": [
+            "2077799981327519848"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "conversation_id": "2078058613449662800",
+        "created_at": "2026-07-17T10:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T11:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078058613449662800"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 62,
+              "tag": "shrtwt"
+            },
+            {
+              "end": 74,
+              "start": 70,
+              "tag": "sfx"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1890430360141672448",
+              "start": 3,
+              "username": "jamisonfawksie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OYx7xC8lCo",
+              "end": 98,
+              "expanded_url": "https://x.com/jamisonfawksie/status/2077799981327519848/photo/1",
+              "media_key": "3_2077799972976611328",
+              "start": 75,
+              "url": "https://t.co/OYx7xC8lCo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078058613449662800",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 86
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077799981327519848",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jamisonfawksie: is this deep\nFAKE FAKE THIS IS ALL MAKEUP\n#shrtwt #sfx https://t.co/OYx7xC8lCo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 210,
+          "like_count": 2549,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 1310
+        },
+        "url": "",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-14T15:58:31.000Z",
+        "description": "",
+        "id": "1890430360141672448",
+        "name": "karyn ,, shrtwt",
+        "pinned_tweet_id": "2027956991939711199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077058060703485952/32CkKcFj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 21,
+          "like_count": 454,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "jamisonfawksie",
+        "verified": false
+      }
+    ]
+  }
+}

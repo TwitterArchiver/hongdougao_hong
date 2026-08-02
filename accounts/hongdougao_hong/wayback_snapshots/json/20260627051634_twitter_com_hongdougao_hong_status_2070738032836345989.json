@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple App Store",
+          "id": "10053298770",
+          "name": "Apple App Store"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046487168",
+          "name": "App Store"
+        }
+      }
+    ],
+    "conversation_id": "2070419653667803234",
+    "created_at": "2026-06-27T05:16:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T06:16:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070738032836345989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1553010314504859651",
+          "start": 0,
+          "username": "Lll68999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070738032836345989",
+    "in_reply_to_user_id": "1553010314504859651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070736559327072447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lll68999 卧槽对我也想说，我之前想着lysk真的能为女性造福那也行吧，短片推给我的时候我懵逼了这就不应该放在appstore里，所有人都知道身份验证丝毫不防未成年，真的毫无底线。\n女性的欲望应该被看到不代表要忘记对未成年人的保护和安全好吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          }
+        ],
+        "conversation_id": "2070419653667803234",
+        "created_at": "2026-06-27T05:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T06:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070738032836345989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1553010314504859651",
+              "start": 0,
+              "username": "Lll68999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070738032836345989",
+        "in_reply_to_user_id": "1553010314504859651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070736559327072447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lll68999 卧槽对我也想说，我之前想着lysk真的能为女性造福那也行吧，短片推给我的时候我懵逼了这就不应该放在appstore里，所有人都知道身份验证丝毫不防未成年，真的毫无底线。\n女性的欲望应该被看到不代表要忘记对未成年人的保护和安全好吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1553010314504859651",
+        "conversation_id": "2070419653667803234",
+        "created_at": "2026-06-27T05:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T06:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070736559327072447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790756114700640256",
+              "start": 0,
+              "username": "hongdougao_hong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070736559327072447",
+        "in_reply_to_user_id": "1790756114700640256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070419653667803234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdougao_hong 这啥b游戏就该禁止了，我看短时间男的帮女的扣，扣完手上都是水我不知道为什么这能在中国过审呢？它能出现在所有的应用商店里，而不是只像galagame一样只出现在steam或者是某个单独的平台"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 209,
+          "like_count": 2280,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1173
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T13:31:45.000Z",
+        "description": "1",
+        "id": "1553010314504859651",
+        "name": "Linini",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680896659654598659/TkGujoJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 47,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 131
+        },
+        "url": "",
+        "username": "Lll68999",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063191010369581056"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "2063191034365112410",
+    "created_at": "2026-06-06T09:27:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T10:27:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063191034365112410"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ft44Kq2UL3",
+          "end": 51,
+          "expanded_url": "https://x.com/hongdougao_hong/status/2063191034365112410/photo/1",
+          "media_key": "3_2063191010369581056",
+          "start": 28,
+          "url": "https://t.co/Ft44Kq2UL3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063191034365112410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "用朋友带的颜料画了一下，我迟早要把这个埃及壁画纹在身上 https://t.co/Ft44Kq2UL3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2063191010369581056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHtSuzbsAADQng.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063191010369581056"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "conversation_id": "2063191034365112410",
+        "created_at": "2026-06-06T09:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063191034365112410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ft44Kq2UL3",
+              "end": 51,
+              "expanded_url": "https://x.com/hongdougao_hong/status/2063191034365112410/photo/1",
+              "media_key": "3_2063191010369581056",
+              "start": 28,
+              "url": "https://t.co/Ft44Kq2UL3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063191034365112410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用朋友带的颜料画了一下，我迟早要把这个埃及壁画纹在身上 https://t.co/Ft44Kq2UL3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 194,
+          "like_count": 1937,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 1012
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      }
+    ]
+  }
+}

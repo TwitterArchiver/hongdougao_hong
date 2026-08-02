@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079627915025895424",
+        "3_2079627915034312704",
+        "3_2079627915025948672",
+        "3_2079627915030138880"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "2079627928753914131",
+    "created_at": "2026-07-21T18:01:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T19:01:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079627928753914131"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aOr0wu5Q4W",
+          "end": 40,
+          "expanded_url": "https://x.com/hongdougao_hong/status/2079627928753914131/photo/1",
+          "media_key": "3_2079627915025895424",
+          "start": 17,
+          "url": "https://t.co/aOr0wu5Q4W"
+        },
+        {
+          "display_url": "pic.x.com/aOr0wu5Q4W",
+          "end": 40,
+          "expanded_url": "https://x.com/hongdougao_hong/status/2079627928753914131/photo/1",
+          "media_key": "3_2079627915034312704",
+          "start": 17,
+          "url": "https://t.co/aOr0wu5Q4W"
+        },
+        {
+          "display_url": "pic.x.com/aOr0wu5Q4W",
+          "end": 40,
+          "expanded_url": "https://x.com/hongdougao_hong/status/2079627928753914131/photo/1",
+          "media_key": "3_2079627915025948672",
+          "start": 17,
+          "url": "https://t.co/aOr0wu5Q4W"
+        },
+        {
+          "display_url": "pic.x.com/aOr0wu5Q4W",
+          "end": 40,
+          "expanded_url": "https://x.com/hongdougao_hong/status/2079627928753914131/photo/1",
+          "media_key": "3_2079627915030138880",
+          "start": 17,
+          "url": "https://t.co/aOr0wu5Q4W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079627928753914131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我和我朋友每天都在骂男的🖐️🖐️ https://t.co/aOr0wu5Q4W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2079627915025895424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNxSkgQa0AAzUnI.jpg",
+        "width": 936
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2079627915034312704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNxSkgSbQAAYUyx.jpg",
+        "width": 1146
+      },
+      {
+        "height": 3036,
+        "media_key": "3_2079627915025948672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNxSkgQboAAPjVc.jpg",
+        "width": 1090
+      },
+      {
+        "height": 2556,
+        "media_key": "3_2079627915030138880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNxSkgRbkAAvJYl.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079627915025895424",
+            "3_2079627915034312704",
+            "3_2079627915025948672",
+            "3_2079627915030138880"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "conversation_id": "2079627928753914131",
+        "created_at": "2026-07-21T18:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T19:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079627928753914131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aOr0wu5Q4W",
+              "end": 40,
+              "expanded_url": "https://x.com/hongdougao_hong/status/2079627928753914131/photo/1",
+              "media_key": "3_2079627915025895424",
+              "start": 17,
+              "url": "https://t.co/aOr0wu5Q4W"
+            },
+            {
+              "display_url": "pic.x.com/aOr0wu5Q4W",
+              "end": 40,
+              "expanded_url": "https://x.com/hongdougao_hong/status/2079627928753914131/photo/1",
+              "media_key": "3_2079627915034312704",
+              "start": 17,
+              "url": "https://t.co/aOr0wu5Q4W"
+            },
+            {
+              "display_url": "pic.x.com/aOr0wu5Q4W",
+              "end": 40,
+              "expanded_url": "https://x.com/hongdougao_hong/status/2079627928753914131/photo/1",
+              "media_key": "3_2079627915025948672",
+              "start": 17,
+              "url": "https://t.co/aOr0wu5Q4W"
+            },
+            {
+              "display_url": "pic.x.com/aOr0wu5Q4W",
+              "end": 40,
+              "expanded_url": "https://x.com/hongdougao_hong/status/2079627928753914131/photo/1",
+              "media_key": "3_2079627915030138880",
+              "start": 17,
+              "url": "https://t.co/aOr0wu5Q4W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079627928753914131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我和我朋友每天都在骂男的🖐️🖐️ https://t.co/aOr0wu5Q4W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 210,
+          "like_count": 2612,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 1343
+        },
+        "url": "",
+        "username": "hongdougao_hong",
+        "verified": false
+      }
+    ]
+  }
+}

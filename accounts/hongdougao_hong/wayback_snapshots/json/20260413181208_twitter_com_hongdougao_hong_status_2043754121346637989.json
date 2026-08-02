@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1938056934726221824"
+      ],
+      "media_source_tweet_id": [
+        "1938057521828405661"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2043754121346637989",
+    "created_at": "2026-04-13T18:12:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T19:12:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043754121346637989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1299776746183680001",
+          "start": 3,
+          "username": "venusjmi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3QxebjroZp",
+          "end": 111,
+          "expanded_url": "https://x.com/zaralarsson/status/1938057521828405661/video/1",
+          "media_key": "13_1938056934726221824",
+          "start": 88,
+          "url": "https://t.co/3QxebjroZp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043754121346637989",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1751
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043630076512596154",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @venusjmi: When you’re talking to a girl and realize she hates men as much as you do https://t.co/3QxebjroZp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33074,
+        "height": 1080,
+        "media_key": "13_1938056934726221824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1938056934726221824/img/CDIXYgJPoHOYf38n.jpg",
+        "public_metrics": {
+          "view_count": 96852076
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938056934726221824/vid/avc1/640x360/EDnW5lFrcBnEAm1u.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938056934726221824/vid/avc1/1920x1080/T-BNmmuHR317kIGo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1938056934726221824/pl/ULV4kAIKQcEl5vi9.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938056934726221824/vid/avc1/1280x720/Xypgr4UNe6CNHz4e.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938056934726221824/vid/avc1/480x270/H1NviYywoNWZg9M0.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1938056934726221824"
+          ],
+          "media_source_tweet_id": [
+            "1938057521828405661"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043754121346637989",
+        "created_at": "2026-04-13T18:12:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T19:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043754121346637989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1299776746183680001",
+              "start": 3,
+              "username": "venusjmi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3QxebjroZp",
+              "end": 111,
+              "expanded_url": "https://x.com/zaralarsson/status/1938057521828405661/video/1",
+              "media_key": "13_1938056934726221824",
+              "start": 88,
+              "url": "https://t.co/3QxebjroZp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043754121346637989",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1751
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043630076512596154",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @venusjmi: When you’re talking to a girl and realize she hates men as much as you do https://t.co/3QxebjroZp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1938056934726221824"
+          ],
+          "media_source_tweet_id": [
+            "1938057521828405661"
+          ]
+        },
+        "author_id": "1299776746183680001",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043630076512596154",
+        "created_at": "2026-04-13T09:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T10:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043630076512596154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3QxebjroZp",
+              "end": 97,
+              "expanded_url": "https://x.com/zaralarsson/status/1938057521828405661/video/1",
+              "media_key": "13_1938056934726221824",
+              "start": 74,
+              "url": "https://t.co/3QxebjroZp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043630076512596154",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 249,
+          "impression_count": 113517,
+          "like_count": 15098,
+          "quote_count": 34,
+          "reply_count": 4,
+          "retweet_count": 1751
+        },
+        "reply_settings": "everyone",
+        "text": "When you’re talking to a girl and realize she hates men as much as you do https://t.co/3QxebjroZp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2039663142012325929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 165,
+          "like_count": 1142,
+          "listed_count": 3,
+          "media_count": 57,
+          "tweet_count": 606
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-29T18:31:49.000Z",
+        "description": "@zaralarsson: i love you, you know that | zarabts fan account | ot7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "zaralarsson"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "venusjmi.straw.page",
+                "end": 23,
+                "expanded_url": "https://venusjmi.straw.page",
+                "start": 0,
+                "url": "https://t.co/T2y015Gl01"
+              }
+            ]
+          }
+        },
+        "id": "1299776746183680001",
+        "location": "she/her | 22 | bi",
+        "name": "mini⁷ ✿",
+        "pinned_tweet_id": "1923765613698113769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992681710492733440/LU0r1Ie1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9534,
+          "following_count": 1068,
+          "like_count": 399759,
+          "listed_count": 29,
+          "media_count": 32273,
+          "tweet_count": 240795
+        },
+        "url": "https://t.co/T2y015Gl01",
+        "username": "venusjmi",
+        "verified": false
+      }
+    ]
+  }
+}

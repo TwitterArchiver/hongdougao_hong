@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2040808638814863418",
+    "created_at": "2026-04-05T15:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T16:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040808638814863418"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuxo0004/statu…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/yuxo0004/status/2040098661145952454",
+          "start": 35,
+          "url": "https://t.co/HSlL3hN7a2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040808638814863418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040098661145952454",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不小心被看到疤痕就要被说是卖惨，今年夏天我不遮了爱怎么想怎么想去吧！ https://t.co/HSlL3hN7a2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2040808638814863418",
+        "created_at": "2026-04-05T15:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T16:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040808638814863418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuxo0004/statu…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/yuxo0004/status/2040098661145952454",
+              "start": 35,
+              "url": "https://t.co/HSlL3hN7a2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040808638814863418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040098661145952454",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不小心被看到疤痕就要被说是卖惨，今年夏天我不遮了爱怎么想怎么想去吧！ https://t.co/HSlL3hN7a2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1625403583649705986",
+        "conversation_id": "2040098661145952454",
+        "created_at": "2026-04-03T16:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T17:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040098661145952454"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040098661145952454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 347,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不经意露出的伤疤是我努力活下去的证明。第一我没有在墙内发过血图第二我没有利用它卖惨，只要稍微露出一点就「改花刀」「脖子吃醋了」我真的觉得现在的网友不是真实的人类，基本的礼貌在哪，，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "@hongdou_cici的重生号\n\n防炸备用机@Lajitong_l",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "hongdou_cici"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "Lajitong_l"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2039663142012325929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 158,
+          "like_count": 1051,
+          "listed_count": 3,
+          "media_count": 52,
+          "tweet_count": 516
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-14T07:56:41.000Z",
+        "description": "🇨🇳🇯🇵od自伤/友跨 顺女/ 泛性恋 /穿孔/ 🚪88",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuxo0004",
+                "end": 23,
+                "expanded_url": "https://t.me/yuxo0004",
+                "start": 0,
+                "url": "https://t.co/6mDH8HZhIL"
+              }
+            ]
+          }
+        },
+        "id": "1625403583649705986",
+        "location": "2.7km",
+        "name": "郁子",
+        "pinned_tweet_id": "1827744049031413935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784337849749590016/5XfvtNA6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2663,
+          "following_count": 407,
+          "like_count": 4315,
+          "listed_count": 7,
+          "media_count": 530,
+          "tweet_count": 2519
+        },
+        "url": "https://t.co/6mDH8HZhIL",
+        "username": "yuxo0004",
+        "verified": false
+      }
+    ]
+  }
+}

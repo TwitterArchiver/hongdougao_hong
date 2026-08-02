@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2048037680735571983",
+    "created_at": "2026-04-25T15:10:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T16:10:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048057025607950790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1776810113149612033",
+          "start": 0,
+          "username": "NaNaKo_notfound"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048057025607950790",
+    "in_reply_to_user_id": "1776810113149612033",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048054314485100591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NaNaKo_notfound 咔咔咔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2048037680735571983",
+        "created_at": "2026-04-25T15:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T16:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048057025607950790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1776810113149612033",
+              "start": 0,
+              "username": "NaNaKo_notfound"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048057025607950790",
+        "in_reply_to_user_id": "1776810113149612033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048054314485100591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NaNaKo_notfound 咔咔咔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776810113149612033",
+        "conversation_id": "2048037680735571983",
+        "created_at": "2026-04-25T14:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T15:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048054314485100591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790756114700640256",
+              "start": 0,
+              "username": "hongdougao_hong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048054314485100591",
+        "in_reply_to_user_id": "1790756114700640256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048037680735571983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdougao_hong 已偷乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 181,
+          "like_count": 1400,
+          "listed_count": 3,
+          "media_count": 71,
+          "tweet_count": 763
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-07T03:12:18.000Z",
+        "description": "只会碎碎念吐苦水 戒割中 互fo欢迎  点赞机器一枚  看不得血腥的滚 健政的滚 善于利用屏蔽 我有精神病脑子只有骂人的时候才会长出来所以少惹我 骂我自动认为你急了",
+        "id": "1776810113149612033",
+        "name": "川井奈奈子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984954967644651520/47qVeaS6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 395,
+          "like_count": 10635,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 2893
+        },
+        "username": "NaNaKo_notfound",
+        "verified": false
+      }
+    ]
+  }
+}

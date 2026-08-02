@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "1981294364417826889",
+    "created_at": "2025-10-23T19:07:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T20:07:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981437255848780119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1550188270495027200",
+          "start": 0,
+          "username": "Hushlog_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981437255848780119",
+    "in_reply_to_user_id": "1550188270495027200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981294364417826889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hushlog_ 马斯克还钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "1981294364417826889",
+        "created_at": "2025-10-23T19:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T20:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981437255848780119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1550188270495027200",
+              "start": 0,
+              "username": "Hushlog_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981437255848780119",
+        "in_reply_to_user_id": "1550188270495027200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981294364417826889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hushlog_ 马斯克还钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550188270495027200",
+        "conversation_id": "1981294364417826889",
+        "created_at": "2025-10-23T09:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T10:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981294364417826889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hushlog_/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/hushlog_/status/1981294238395670977",
+              "start": 9,
+              "url": "https://t.co/oUoAIDn6GH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981294364417826889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981294238395670977",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求流量变现方法。 https://t.co/oUoAIDn6GH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "@hongdou_cici的备用机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "垃圾桶里的红豆糕",
+        "pinned_tweet_id": "1835690499442876760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976881981129371648/W0XsGfSq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 145,
+          "like_count": 889,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 379
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-21T18:38:02.000Z",
+        "description": "| 尝试复学大学生 | 双相 | cn阿树/黄瓜 | 互fo请私信 | 小号 @hushlog35 | 黄瓜与鸡肉同嚼有汉堡滋味。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 39,
+                "username": "hushlog35"
+              }
+            ]
+          }
+        },
+        "id": "1550188270495027200",
+        "location": "黑色空间",
+        "name": "现杀黄瓜🥒",
+        "pinned_tweet_id": "1768187096857288940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849371111794044928/QBv-uHxZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1338,
+          "following_count": 143,
+          "like_count": 21710,
+          "listed_count": 6,
+          "media_count": 641,
+          "tweet_count": 6406
+        },
+        "username": "Hushlog_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2053521457586794856",
+    "created_at": "2026-05-10T17:04:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T18:04:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053521457586794856"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/homgdougao_hong",
+          "end": 74,
+          "expanded_url": "http://ngl.link/homgdougao_hong",
+          "images": [
+            {
+              "height": 631,
+              "url": "https://pbs.twimg.com/news_img/2053520263896248320/gigL8fOP?format=jpg&name=orig",
+              "width": 1201
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2053520263896248320/gigL8fOP?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 51,
+          "status": 200,
+          "title": "@homgdougao_hong: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/homgdougao_hong",
+          "url": "https://t.co/FOnFwMkTAm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053521457586794856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "推特太垃圾了好多评论我都看不到\n为了能和所有人对话我弄了这个\n\n除了性骚扰什么都可以给我发(˘❥˘)\nhttps://t.co/FOnFwMkTAm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2053521457586794856",
+        "created_at": "2026-05-10T17:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T18:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053521457586794856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/homgdougao_hong",
+              "end": 74,
+              "expanded_url": "http://ngl.link/homgdougao_hong",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2053520263896248320/gigL8fOP?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2053520263896248320/gigL8fOP?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 51,
+              "status": 200,
+              "title": "@homgdougao_hong: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/homgdougao_hong",
+              "url": "https://t.co/FOnFwMkTAm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053521457586794856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特太垃圾了好多评论我都看不到\n为了能和所有人对话我弄了这个\n\n除了性骚扰什么都可以给我发(˘❥˘)\nhttps://t.co/FOnFwMkTAm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 186,
+          "like_count": 1519,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 815
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2070419653667803234",
+    "created_at": "2026-06-30T13:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T14:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071947203183333437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1523385187534766082",
+          "start": 0,
+          "username": "youlandaao3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071947203183333437",
+    "in_reply_to_user_id": "1523385187534766082",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071941813297160523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youlandaao3 我这段话的中心思想跟谁帅没关系，只和他们丑有关系\n请你好好学语文"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2070419653667803234",
+        "created_at": "2026-06-30T13:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T14:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071947203183333437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1523385187534766082",
+              "start": 0,
+              "username": "youlandaao3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071947203183333437",
+        "in_reply_to_user_id": "1523385187534766082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071941813297160523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youlandaao3 我这段话的中心思想跟谁帅没关系，只和他们丑有关系\n请你好好学语文"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1523385187534766082",
+        "conversation_id": "2070419653667803234",
+        "created_at": "2026-06-30T12:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071941813297160523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790756114700640256",
+              "start": 0,
+              "username": "hongdougao_hong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071941813297160523",
+        "in_reply_to_user_id": "1790756114700640256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070419653667803234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdougao_hong 那你觉得什么样的男生帅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 210,
+          "like_count": 2349,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 1193
+        },
+        "url": "",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-08T19:32:03.000Z",
+        "description": "",
+        "id": "1523385187534766082",
+        "name": "Axl",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065326643913293824/548RcjWz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 10,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "youlandaao3",
+        "verified": false
+      }
+    ]
+  }
+}

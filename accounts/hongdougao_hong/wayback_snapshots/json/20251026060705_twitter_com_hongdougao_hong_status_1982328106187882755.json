@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982310056533147648"
+      ],
+      "media_source_tweet_id": [
+        "1982310060274360466"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "1982328106187882755",
+    "created_at": "2025-10-26T06:07:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T07:07:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982328106187882755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684492249416323072",
+          "start": 3,
+          "username": "hongdou_cici"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0t8kqlwEJf",
+          "end": 67,
+          "expanded_url": "https://x.com/hongdou_cici/status/1982310060274360466/photo/1",
+          "media_key": "3_1982310056533147648",
+          "start": 44,
+          "url": "https://t.co/0t8kqlwEJf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982328106187882755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982310060274360466",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hongdou_cici: 翻到了以前发霉的时候，看起来真的好恶心ewwwww https://t.co/0t8kqlwEJf"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1982328106187882755].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1982328106187882755",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1982328106187882755"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1585,
+        "media_key": "3_1982310056533147648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4KUfmJXwAAqVKf.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982310056533147648"
+          ]
+        },
+        "author_id": "1684492249416323072",
+        "conversation_id": "1982310060274360466",
+        "created_at": "2025-10-26T04:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T05:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982310060274360466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0t8kqlwEJf",
+              "end": 49,
+              "expanded_url": "https://x.com/hongdou_cici/status/1982310060274360466/photo/1",
+              "media_key": "3_1982310056533147648",
+              "start": 26,
+              "url": "https://t.co/0t8kqlwEJf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982310060274360466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "翻到了以前发霉的时候，看起来真的好恶心ewwwww https://t.co/0t8kqlwEJf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "@hongdou_cici的备用机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "垃圾桶里的红豆糕",
+        "pinned_tweet_id": "1835690499442876760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976881981129371648/W0XsGfSq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 145,
+          "like_count": 890,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 380
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T09:13:54.000Z",
+        "description": "･̆⍛･̆| feel free to block me if my pics sacared u❌不喜欢我请自避雷❗️｜备用机@hongdougao_hong｜我宝💗@Unrestrained000｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "hongdougao_hong"
+              },
+              {
+                "end": 100,
+                "start": 84,
+                "username": "Unrestrained000"
+              }
+            ]
+          }
+        },
+        "id": "1684492249416323072",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "1967678530684399788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982313144492908544/4HugZ1s1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1790,
+          "following_count": 231,
+          "like_count": 4845,
+          "listed_count": 8,
+          "media_count": 357,
+          "tweet_count": 2452
+        },
+        "username": "hongdou_cici",
+        "verified": false
+      }
+    ]
+  }
+}

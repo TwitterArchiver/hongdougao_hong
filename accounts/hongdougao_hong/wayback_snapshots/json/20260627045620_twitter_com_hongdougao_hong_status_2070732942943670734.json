@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2070705832585732352",
+    "created_at": "2026-06-27T04:56:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T05:56:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070732942943670734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1483232796214968320",
+          "start": 0,
+          "username": "NoXeelPw1OJ15Kz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070732942943670734",
+    "in_reply_to_user_id": "1483232796214968320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070729288945705450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NoXeelPw1OJ15Kz 本来女性向游戏就很少有尊重女性的，如果他们真的是对女性友好那我不会以任何理由说他们半点儿\n以“为女性服务”的名号洗脑女性让大家内战，从没见过这么恶心的公司。。\n被挂就被挂吧，刚好一个人来骂我是waf，我真的觉得她们已经越来越厌女了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2070705832585732352",
+        "created_at": "2026-06-27T04:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T05:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070732942943670734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1483232796214968320",
+              "start": 0,
+              "username": "NoXeelPw1OJ15Kz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070732942943670734",
+        "in_reply_to_user_id": "1483232796214968320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070729288945705450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NoXeelPw1OJ15Kz 本来女性向游戏就很少有尊重女性的，如果他们真的是对女性友好那我不会以任何理由说他们半点儿\n以“为女性服务”的名号洗脑女性让大家内战，从没见过这么恶心的公司。。\n被挂就被挂吧，刚好一个人来骂我是waf，我真的觉得她们已经越来越厌女了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1483232796214968320",
+        "conversation_id": "2070705832585732352",
+        "created_at": "2026-06-27T04:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T05:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070729288945705450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790756114700640256",
+              "start": 0,
+              "username": "hongdougao_hong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070729288945705450",
+        "in_reply_to_user_id": "1790756114700640256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070705832585732352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdougao_hong 叠纸家的游戏都很恶心，搞游戏氪金榜，游戏社区氛围差的和狗屎一样，明明很多事都应该官方去做，但是他故意不做引导玩家下场，又侧面搞自己才是乙游老大，但是很多设定都是抄的，玩家却不以为耻反以为荣，吃相很恶心，不敢想你会不会上深空超话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 209,
+          "like_count": 2275,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1169
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-18T00:20:40.000Z",
+        "description": "newjeans、左然全肯定！",
+        "id": "1483232796214968320",
+        "name": "Yeeee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070545998343245824/Izkk2PaQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 50,
+          "like_count": 1244,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 99
+        },
+        "url": "",
+        "username": "NoXeelPw1OJ15Kz",
+        "verified": false
+      }
+    ]
+  }
+}

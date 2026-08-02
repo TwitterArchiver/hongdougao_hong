@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2039643212516827201",
+    "created_at": "2026-04-02T10:32:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T11:32:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039652205473751459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1964869688636379136",
+          "start": 0,
+          "username": "sacredplacetwi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039652205473751459",
+    "in_reply_to_user_id": "1964869688636379136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039643212516827201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sacredplacetwi 脳いらないなら切り落としてゴミ箱に捨てろ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2039643212516827201",
+        "created_at": "2026-04-02T10:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T11:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039652205473751459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1964869688636379136",
+              "start": 0,
+              "username": "sacredplacetwi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039652205473751459",
+        "in_reply_to_user_id": "1964869688636379136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039643212516827201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sacredplacetwi 脳いらないなら切り落としてゴミ箱に捨てろ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964869688636379136",
+        "conversation_id": "2039643212516827201",
+        "created_at": "2026-04-02T09:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T10:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039643212516827201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hongdougao_hon…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/hongdougao_hong/status/1900518214796275879",
+              "start": 19,
+              "url": "https://t.co/ZAQqgTtwLG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039643212516827201",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900518214796275879",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "腕いらないなら切り落として俺にくれよ https://t.co/ZAQqgTtwLG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "@hongdou_cici的重生号\n\n防炸备用机@Lajitong_l",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "hongdou_cici"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "Lajitong_l"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "1835690499442876760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 181,
+          "like_count": 1015,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 489
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-08T01:53:40.000Z",
+        "description": "ツイ廃界隈/自由人 創価Ⅱ 弾丸旅行\n本垢@Lr8khj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 21,
+                "username": "Lr8khj"
+              }
+            ]
+          }
+        },
+        "id": "1964869688636379136",
+        "name": "𝓛𝓸𝓰サブ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039050441175289856/UiYmv8em_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 648,
+          "like_count": 1565,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1402
+        },
+        "username": "sacredplacetwi",
+        "verified": false
+      }
+    ]
+  }
+}

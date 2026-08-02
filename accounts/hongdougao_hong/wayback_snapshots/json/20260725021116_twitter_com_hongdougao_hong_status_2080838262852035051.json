@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080691862537732096"
+      ],
+      "media_source_tweet_id": [
+        "2080691868317479041"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "2080838262852035051",
+    "created_at": "2026-07-25T02:11:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T03:11:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080838262852035051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2049877364763676672",
+          "start": 3,
+          "username": "4_hui916768"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RI59dldWwy",
+          "end": 52,
+          "expanded_url": "https://x.com/4_hui916768/status/2080691868317479041/photo/1",
+          "media_key": "3_2080691862537732096",
+          "start": 29,
+          "url": "https://t.co/RI59dldWwy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080838262852035051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080691868317479041",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4_hui916768: 我果然還是最喜歡出糖糖 https://t.co/RI59dldWwy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_2080691862537732096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAaOZmbgAApsRH.jpg",
+        "width": 1755
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080691862537732096"
+          ]
+        },
+        "author_id": "2049877364763676672",
+        "conversation_id": "2080691868317479041",
+        "created_at": "2026-07-24T16:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080691868317479041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RI59dldWwy",
+              "end": 35,
+              "expanded_url": "https://x.com/4_hui916768/status/2080691868317479041/photo/1",
+              "media_key": "3_2080691862537732096",
+              "start": 12,
+              "url": "https://t.co/RI59dldWwy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080691868317479041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 261,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我果然還是最喜歡出糖糖 https://t.co/RI59dldWwy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080691862537732096"
+          ],
+          "media_source_tweet_id": [
+            "2080691868317479041"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "conversation_id": "2080838262852035051",
+        "created_at": "2026-07-25T02:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T03:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080838262852035051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2049877364763676672",
+              "start": 3,
+              "username": "4_hui916768"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RI59dldWwy",
+              "end": 52,
+              "expanded_url": "https://x.com/4_hui916768/status/2080691868317479041/photo/1",
+              "media_key": "3_2080691862537732096",
+              "start": 29,
+              "url": "https://t.co/RI59dldWwy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080838262852035051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080691868317479041",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4_hui916768: 我果然還是最喜歡出糖糖 https://t.co/RI59dldWwy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 209,
+          "like_count": 2640,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 1358
+        },
+        "url": "",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-30T15:44:02.000Z",
+        "description": "馬斯克你無敵了",
+        "id": "2049877364763676672",
+        "name": "遺灰5.0",
+        "pinned_tweet_id": "2056669593033482458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050163297123725312/Nrt1FqWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 294,
+          "like_count": 315,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 146
+        },
+        "url": "",
+        "username": "4_hui916768",
+        "verified": false
+      }
+    ]
+  }
+}

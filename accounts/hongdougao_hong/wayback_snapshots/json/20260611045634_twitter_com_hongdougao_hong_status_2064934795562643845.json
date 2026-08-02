@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2064934795562643845",
+    "created_at": "2026-06-11T04:56:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T05:56:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064934795562643845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1193149831751127047",
+          "start": 3,
+          "username": "L3viathan_Kitty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064934795562643845",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1481
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064658006273298915",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @L3viathan_Kitty: Era bom todo lgbt entender que crente é inimigo. Eles aceitam viver no paraíso com pedófilo, assassino, estuprador e g…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2064934795562643845",
+        "created_at": "2026-06-11T04:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064934795562643845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1193149831751127047",
+              "start": 3,
+              "username": "L3viathan_Kitty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064934795562643845",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1481
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064658006273298915",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @L3viathan_Kitty: Era bom todo lgbt entender que crente é inimigo. Eles aceitam viver no paraíso com pedófilo, assassino, estuprador e g…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1193149831751127047",
+        "conversation_id": "2064658006273298915",
+        "created_at": "2026-06-10T10:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064658006273298915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OPastorJack/st…",
+              "end": 218,
+              "expanded_url": "https://twitter.com/OPastorJack/status/2063721826249814522",
+              "start": 195,
+              "url": "https://t.co/lt8tTdKjQ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064658006273298915",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 367,
+          "impression_count": 87676,
+          "like_count": 8339,
+          "quote_count": 24,
+          "reply_count": 53,
+          "retweet_count": 1481
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063721826249814522",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Era bom todo lgbt entender que crente é inimigo. Eles aceitam viver no paraíso com pedófilo, assassino, estuprador e genocidas, mas nunca com um lgbt.\nEssa religião não merece nada além de ódio. https://t.co/lt8tTdKjQ0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 200,
+          "like_count": 2015,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 1039
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-09T12:54:31.000Z",
+        "description": "Pfp By: @barstec_ || Essa conta é cheia de nsfw(18+) furry e política || Tigreão🐅🦁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "barstec_"
+              }
+            ]
+          }
+        },
+        "id": "1193149831751127047",
+        "location": "Brasil, Rio de Janeiro 🇧🇷",
+        "name": "Ꮮєνι Ue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908354213828022272/0kwYpx1v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 5059,
+          "like_count": 662683,
+          "listed_count": 3,
+          "media_count": 1601,
+          "tweet_count": 207940
+        },
+        "username": "L3viathan_Kitty",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2068382968570352047",
+    "created_at": "2026-06-20T17:18:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T18:18:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068382968570352047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "93479786",
+          "start": 3,
+          "username": "odaradeverdade"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068382968570352047",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1013
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067964359234510892",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @odaradeverdade: Se feminismo é falta de rola eu quero saber quantas rolas te comeram pra voce se tornar esse grande machista?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2068382968570352047",
+        "created_at": "2026-06-20T17:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T18:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068382968570352047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "93479786",
+              "start": 3,
+              "username": "odaradeverdade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068382968570352047",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1013
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067964359234510892",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @odaradeverdade: Se feminismo é falta de rola eu quero saber quantas rolas te comeram pra voce se tornar esse grande machista?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "93479786",
+        "conversation_id": "2067964359234510892",
+        "created_at": "2026-06-19T13:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067964359234510892"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067964359234510892",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 130,
+          "impression_count": 75692,
+          "like_count": 6511,
+          "quote_count": 24,
+          "reply_count": 59,
+          "retweet_count": 1013
+        },
+        "reply_settings": "everyone",
+        "text": "Se feminismo é falta de rola eu quero saber quantas rolas te comeram pra voce se tornar esse grande machista?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 208,
+          "like_count": 2142,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 1101
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-29T21:10:33.000Z",
+        "description": "Creator, twitteira & agitadora cultural 💅🏽 odarathetrue@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/odaradeverdade…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/odaradeverdade?igshid=YmMyMTA2M2Y=",
+                "start": 0,
+                "url": "https://t.co/WX6y6RHCSG"
+              }
+            ]
+          }
+        },
+        "id": "93479786",
+        "name": "Travesti que Habla 🏳️‍⚧️",
+        "pinned_tweet_id": "2068026056611696934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985500071144697856/0_Zmn7FW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189343,
+          "following_count": 127395,
+          "like_count": 96133,
+          "listed_count": 124,
+          "media_count": 12270,
+          "tweet_count": 48741
+        },
+        "url": "https://t.co/WX6y6RHCSG",
+        "username": "odaradeverdade",
+        "verified": true
+      }
+    ]
+  }
+}

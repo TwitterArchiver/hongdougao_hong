@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032120070160465920",
+        "3_2032120070181437447"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2032120080751083869",
+    "created_at": "2026-03-12T15:42:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T16:42:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032120080751083869"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ets3mZnLYk",
+          "end": 74,
+          "expanded_url": "https://x.com/hongdougao_hong/status/2032120080751083869/photo/1",
+          "media_key": "3_2032120070160465920",
+          "start": 51,
+          "url": "https://t.co/ets3mZnLYk"
+        },
+        {
+          "display_url": "pic.x.com/ets3mZnLYk",
+          "end": 74,
+          "expanded_url": "https://x.com/hongdougao_hong/status/2032120080751083869/photo/1",
+          "media_key": "3_2032120070181437447",
+          "start": 51,
+          "url": "https://t.co/ets3mZnLYk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032120080751083869",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "互关们可以帮我转发一下吗，我这个号被永久封禁了现在用这个备用机\n\n好像还有很多互关不知道我备用机👽🥲 https://t.co/ets3mZnLYk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1142,
+        "media_key": "3_2032120070160465920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDOKb-rbQAAEa97.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2032120070181437447",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDOKb-wbQAcew0h.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032120070160465920",
+            "3_2032120070181437447"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032120080751083869",
+        "created_at": "2026-03-12T15:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032120080751083869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ets3mZnLYk",
+              "end": 74,
+              "expanded_url": "https://x.com/hongdougao_hong/status/2032120080751083869/photo/1",
+              "media_key": "3_2032120070160465920",
+              "start": 51,
+              "url": "https://t.co/ets3mZnLYk"
+            },
+            {
+              "display_url": "pic.x.com/ets3mZnLYk",
+              "end": 74,
+              "expanded_url": "https://x.com/hongdougao_hong/status/2032120080751083869/photo/1",
+              "media_key": "3_2032120070181437447",
+              "start": 51,
+              "url": "https://t.co/ets3mZnLYk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032120080751083869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "互关们可以帮我转发一下吗，我这个号被永久封禁了现在用这个备用机\n\n好像还有很多互关不知道我备用机👽🥲 https://t.co/ets3mZnLYk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "@hongdou_cici的备用机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "垃圾桶里的红豆糕",
+        "pinned_tweet_id": "1835690499442876760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 154,
+          "like_count": 923,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 404
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      }
+    ]
+  }
+}

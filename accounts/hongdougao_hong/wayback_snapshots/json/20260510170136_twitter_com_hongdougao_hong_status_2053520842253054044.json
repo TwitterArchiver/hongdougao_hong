@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2053462223415328769"
+      ],
+      "media_source_tweet_id": [
+        "2053462287399457194"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "2053520842253054044",
+    "created_at": "2026-05-10T17:01:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T18:01:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053520842253054044"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 68,
+          "start": 62,
+          "tag": "困的呕吐物"
+        },
+        {
+          "end": 72,
+          "start": 69,
+          "tag": "蜈蚣"
+        },
+        {
+          "end": 77,
+          "start": 73,
+          "tag": "人皮扣"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2043252600234274816",
+          "start": 3,
+          "username": "outuwu___"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MIjuYnvdY8",
+          "end": 101,
+          "expanded_url": "https://x.com/outuwu___/status/2053462287399457194/video/1",
+          "media_key": "13_2053462223415328769",
+          "start": 78,
+          "url": "https://t.co/MIjuYnvdY8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053520842253054044",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053462287399457194",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @outuwu___: 机械蜈蚣\n__\n\n恐虫勿入\n双方知情同意 无真实暴力发生 \n装饰性穿刺艺术 拍完照就取^ ^\n#困的呕吐物 #蜈蚣 #人皮扣 https://t.co/MIjuYnvdY8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8306,
+        "height": 1280,
+        "media_key": "13_2053462223415328769",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2053462223415328769/img/ng1UM7XAkx1qeetI.jpg",
+        "public_metrics": {
+          "view_count": 1429
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053462223415328769/vid/avc1/320x568/asxcfcN6wSappqvA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053462223415328769/vid/avc1/480x852/dCrdit1-A2dKaJQg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053462223415328769/vid/avc1/720x1280/1gwOIH93hjzU1-Gk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2053462223415328769/pl/QPUpuZlcGiASWyzU.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053462223415328769"
+          ],
+          "media_source_tweet_id": [
+            "2053462287399457194"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "conversation_id": "2053520842253054044",
+        "created_at": "2026-05-10T17:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T18:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053520842253054044"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 68,
+              "start": 62,
+              "tag": "困的呕吐物"
+            },
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "蜈蚣"
+            },
+            {
+              "end": 77,
+              "start": 73,
+              "tag": "人皮扣"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2043252600234274816",
+              "start": 3,
+              "username": "outuwu___"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MIjuYnvdY8",
+              "end": 101,
+              "expanded_url": "https://x.com/outuwu___/status/2053462287399457194/video/1",
+              "media_key": "13_2053462223415328769",
+              "start": 78,
+              "url": "https://t.co/MIjuYnvdY8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053520842253054044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053462287399457194",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @outuwu___: 机械蜈蚣\n__\n\n恐虫勿入\n双方知情同意 无真实暴力发生 \n装饰性穿刺艺术 拍完照就取^ ^\n#困的呕吐物 #蜈蚣 #人皮扣 https://t.co/MIjuYnvdY8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053462223415328769"
+          ]
+        },
+        "author_id": "2043252600234274816",
+        "conversation_id": "2053462287399457194",
+        "created_at": "2026-05-10T13:08:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T14:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053462287399457194"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 47,
+              "tag": "困的呕吐物"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "蜈蚣"
+            },
+            {
+              "end": 62,
+              "start": 58,
+              "tag": "人皮扣"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MIjuYnvdY8",
+              "end": 86,
+              "expanded_url": "https://x.com/outuwu___/status/2053462287399457194/video/1",
+              "media_key": "13_2053462223415328769",
+              "start": 63,
+              "url": "https://t.co/MIjuYnvdY8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053462287399457194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3840,
+          "like_count": 90,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "机械蜈蚣\n__\n\n恐虫勿入\n双方知情同意 无真实暴力发生 \n装饰性穿刺艺术 拍完照就取^ ^\n#困的呕吐物 #蜈蚣 #人皮扣 https://t.co/MIjuYnvdY8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 186,
+          "like_count": 1518,
+          "listed_count": 3,
+          "media_count": 59,
+          "tweet_count": 815
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-12T09:02:42.000Z",
+        "description": "你好 我是困困ʢᴗ.ᴗʡᶻ @kundeoutuwu_｜S｜接任何穿刺相关合作｜厂牌@NTRK_ONE｜欢迎礼貌询价｜作品均是🔞 一切行为均经过知情同意确认 无真实暴力发生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "kundeoutuwu_"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "NTRK_ONE"
+              }
+            ]
+          }
+        },
+        "id": "2043252600234274816",
+        "location": "chongqing",
+        "name": "呕吐物___",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043253824169869312/FBHypxGr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 31,
+          "like_count": 59,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 14
+        },
+        "username": "outuwu___",
+        "verified": false
+      }
+    ]
+  }
+}

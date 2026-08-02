@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1810277612373331969"
+      ],
+      "media_source_tweet_id": [
+        "1810278232102682840"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "1955617061939638416",
+    "created_at": "2025-08-13T13:06:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T14:06:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955617061939638416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1799441611522523136",
+          "start": 3,
+          "username": "sizuka005"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wZcwq1RsHd",
+          "end": 68,
+          "expanded_url": "https://x.com/sizuka005/status/1810278232102682840/video/1",
+          "media_key": "7_1810277612373331969",
+          "start": 45,
+          "url": "https://t.co/wZcwq1RsHd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955617061939638416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1810278232102682840",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sizuka005: 筋肉がビクンってなるポイント発見🫢\n抜き差しして遊んでみた https://t.co/wZcwq1RsHd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 54020,
+        "height": 872,
+        "media_key": "7_1810277612373331969",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1810277612373331969/pu/img/l4hYlumO-qaGmOM3.jpg",
+        "public_metrics": {
+          "view_count": 3780
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1810277612373331969/pu/vid/avc1/304x270/88PFqHSx6tksnXKe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1810277612373331969/pu/vid/avc1/406x360/WZeFxflt-T2jX-L3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1810277612373331969/pu/vid/avc1/814x720/CSHohPvdUnnGCRjk.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1810277612373331969/pu/pl/7y7M9CJtJLXbjNNA.m3u8?tag=12"
+          }
+        ],
+        "width": 988
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1810277612373331969"
+          ],
+          "media_source_tweet_id": [
+            "1810278232102682840"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "conversation_id": "1955617061939638416",
+        "created_at": "2025-08-13T13:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T14:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955617061939638416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1799441611522523136",
+              "start": 3,
+              "username": "sizuka005"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wZcwq1RsHd",
+              "end": 68,
+              "expanded_url": "https://x.com/sizuka005/status/1810278232102682840/video/1",
+              "media_key": "7_1810277612373331969",
+              "start": 45,
+              "url": "https://t.co/wZcwq1RsHd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955617061939638416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810278232102682840",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sizuka005: 筋肉がビクンってなるポイント発見🫢\n抜き差しして遊んでみた https://t.co/wZcwq1RsHd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1810277612373331969"
+          ]
+        },
+        "author_id": "1799441611522523136",
+        "conversation_id": "1810278232102682840",
+        "created_at": "2024-07-08T11:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-08T12:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1810278232102682840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wZcwq1RsHd",
+              "end": 53,
+              "expanded_url": "https://x.com/sizuka005/status/1810278232102682840/video/1",
+              "media_key": "7_1810277612373331969",
+              "start": 30,
+              "url": "https://t.co/wZcwq1RsHd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810278232102682840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 8842,
+          "like_count": 111,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "筋肉がビクンってなるポイント発見🫢\n抜き差しして遊んでみた https://t.co/wZcwq1RsHd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "@hongdou_cici的备用机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "垃圾桶里的红豆糕",
+        "pinned_tweet_id": "1835690499442876760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830526708291956736/0mYmK6JI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 140,
+          "like_count": 839,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 348
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T14:01:58.000Z",
+        "description": "ハードディスク壊れてデータが飛びました\n過去の私の動画・画像持ってたらください\n\nレグカしかない　\n閲覧注意です\n＃レグカ　＃自傷　＃刺突　＃太もも刺突の人\n#自残 #自伤 #リスカ #shtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 57,
+                "tag": "レグカ"
+              },
+              {
+                "end": 65,
+                "start": 62,
+                "tag": "自傷"
+              },
+              {
+                "end": 69,
+                "start": 66,
+                "tag": "刺突"
+              },
+              {
+                "end": 78,
+                "start": 70,
+                "tag": "太もも刺突の人"
+              },
+              {
+                "end": 82,
+                "start": 79,
+                "tag": "自残"
+              },
+              {
+                "end": 86,
+                "start": 83,
+                "tag": "自伤"
+              },
+              {
+                "end": 91,
+                "start": 87,
+                "tag": "リスカ"
+              },
+              {
+                "end": 98,
+                "start": 92,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "1799441611522523136",
+        "name": "sizuka005",
+        "pinned_tweet_id": "1818279880074956889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799441839382294528/WqYBp7gh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1962,
+          "following_count": 467,
+          "like_count": 531,
+          "listed_count": 9,
+          "media_count": 43,
+          "tweet_count": 70
+        },
+        "username": "sizuka005",
+        "verified": false
+      }
+    ]
+  }
+}

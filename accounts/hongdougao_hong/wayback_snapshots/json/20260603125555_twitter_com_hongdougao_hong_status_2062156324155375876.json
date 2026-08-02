@@ -1,0 +1,469 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Page for Global Pride Month for all years",
+          "id": "1275153105659650048",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1275179649987784704",
+          "name": "International Pride Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1465735561230962690",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1664343480645066763",
+          "name": "Pride Month 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1275179649987784704",
+          "name": "International Pride Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1465735561230962690",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1664343480645066763",
+          "name": "Pride Month 2023"
+        }
+      }
+    ],
+    "conversation_id": "2062156324155375876",
+    "created_at": "2026-06-03T12:55:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T13:55:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062156324155375876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1608873720294117379",
+          "start": 3,
+          "username": "RaulSolisUE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062156324155375876",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6436
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061715618961764704",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RaulSolisUE: Cuando por ser hetero te peguen por la calle, te prohiban casarte, te metan en la cárcel, te echen de trabajo o te maten,…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Page for Global Pride Month for all years",
+              "id": "1275153105659650048",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          }
+        ],
+        "conversation_id": "2062156324155375876",
+        "created_at": "2026-06-03T12:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062156324155375876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1608873720294117379",
+              "start": 3,
+              "username": "RaulSolisUE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062156324155375876",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6436
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061715618961764704",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RaulSolisUE: Cuando por ser hetero te peguen por la calle, te prohiban casarte, te metan en la cárcel, te echen de trabajo o te maten,…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608873720294117379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Page for Global Pride Month for all years",
+              "id": "1275153105659650048",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          }
+        ],
+        "conversation_id": "2061715618961764704",
+        "created_at": "2026-06-02T07:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T08:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061715618961764704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ninavars/statu…",
+              "end": 180,
+              "expanded_url": "https://twitter.com/ninavars/status/2061434465046458567",
+              "start": 157,
+              "url": "https://t.co/SElH7bLHRf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061715618961764704",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 736,
+          "impression_count": 550161,
+          "like_count": 35248,
+          "quote_count": 129,
+          "reply_count": 1299,
+          "retweet_count": 6436
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061434465046458567",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Cuando por ser hetero te peguen por la calle, te prohiban casarte, te metan en la cárcel, te echen de trabajo o te maten, tendrás tu mes del Orgullo Hetero. https://t.co/SElH7bLHRf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 194,
+          "like_count": 1921,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 1006
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T17:12:57.000Z",
+        "description": "Periodista en @canalred_TV. El hijo de la Lola.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "canalred_TV"
+              }
+            ]
+          }
+        },
+        "id": "1608873720294117379",
+        "location": "Andalucía",
+        "name": "Raúl Solís ✌️🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892265697130029056/Sw_foQaD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30560,
+          "following_count": 3787,
+          "like_count": 72554,
+          "listed_count": 303,
+          "media_count": 2762,
+          "tweet_count": 56651
+        },
+        "username": "RaulSolisUE",
+        "verified": false
+      }
+    ]
+  }
+}

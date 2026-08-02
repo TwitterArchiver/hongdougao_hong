@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2067301717394505937",
+    "created_at": "2026-06-17T17:41:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T18:41:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067301717394505937"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "103 Followers, 243 Following, 12 Posts - See Instagram photos and videos from Cecil🍰 (@ceciliasun7)",
+          "display_url": "instagram.com/ceciliasun7?ut…",
+          "end": 39,
+          "expanded_url": "https://www.instagram.com/ceciliasun7?utm_source=qr",
+          "images": [
+            {
+              "height": 100,
+              "url": "https://pbs.twimg.com/news_img/2067301717574901760/s0_c1XoU?format=jpg&name=orig",
+              "width": 100
+            },
+            {
+              "height": 100,
+              "url": "https://pbs.twimg.com/news_img/2067301717574901760/s0_c1XoU?format=jpg&name=150x150",
+              "width": 100
+            }
+          ],
+          "start": 16,
+          "status": 200,
+          "title": "Cecil🍰 (@ceciliasun7) • Instagram profile",
+          "unwound_url": "https://www.instagram.com/ceciliasun7/",
+          "url": "https://t.co/1W0VFNirtq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067301717394505937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "欢迎来ig找我🏃‍♀️‍➡️💨 https://t.co/1W0VFNirtq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2067301717394505937",
+        "created_at": "2026-06-17T17:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067301717394505937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "103 Followers, 243 Following, 12 Posts - See Instagram photos and videos from Cecil🍰 (@ceciliasun7)",
+              "display_url": "instagram.com/ceciliasun7?ut…",
+              "end": 39,
+              "expanded_url": "https://www.instagram.com/ceciliasun7?utm_source=qr",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2067301717574901760/s0_c1XoU?format=jpg&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2067301717574901760/s0_c1XoU?format=jpg&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 16,
+              "status": 200,
+              "title": "Cecil🍰 (@ceciliasun7) • Instagram profile",
+              "unwound_url": "https://www.instagram.com/ceciliasun7/",
+              "url": "https://t.co/1W0VFNirtq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067301717394505937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎来ig找我🏃‍♀️‍➡️💨 https://t.co/1W0VFNirtq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 208,
+          "like_count": 2106,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 1083
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      }
+    ]
+  }
+}

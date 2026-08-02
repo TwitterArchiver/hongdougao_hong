@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2070419653667803234",
+    "created_at": "2026-07-07T09:34:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T10:34:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074426760670937201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1839564503211708416",
+          "start": 0,
+          "username": "ww9961720769469"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074426760670937201",
+    "in_reply_to_user_id": "1839564503211708416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073705090490499263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ww9961720769469 我当然知道有更丑的，但是这个东西他无论和什么比在我眼里在眼里都是一个很丑的存在，整个东西都长在我的丑点上。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2070419653667803234",
+        "created_at": "2026-07-07T09:34:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074426760670937201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1839564503211708416",
+              "start": 0,
+              "username": "ww9961720769469"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074426760670937201",
+        "in_reply_to_user_id": "1839564503211708416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073705090490499263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ww9961720769469 我当然知道有更丑的，但是这个东西他无论和什么比在我眼里在眼里都是一个很丑的存在，整个东西都长在我的丑点上。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839564503211708416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2070419653667803234",
+        "created_at": "2026-07-05T09:46:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T10:46:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073705090490499263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790756114700640256",
+              "start": 0,
+              "username": "hongdougao_hong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073705090490499263",
+        "in_reply_to_user_id": "1790756114700640256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073448051885363323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdougao_hong 我只是说不算丑没有说是好看，因为你要是看过一些3d的动漫和游戏你就知道建模这个东西的下限有多低，就像2077和巫师三里面的女主，是真的不好看。这个男主的妆造很抽象，但是要是真的算颜值的话，其实不算丑，因为这个主要看对比，在乙女赛道都是高颜值男性下衬托的他有点丑，可能我被更丑的审美霸凌了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1012,
+          "following_count": 212,
+          "like_count": 2443,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 1245
+        },
+        "url": "",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-27T07:15:58.000Z",
+        "description": "如果我说了什么不好的话，我向你道歉，抱歉。",
+        "id": "1839564503211708416",
+        "location": "地府",
+        "name": "微微发疯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899886171024502784/oXXtjqRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 34,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 647
+        },
+        "url": "",
+        "username": "ww9961720769469",
+        "verified": false
+      }
+    ]
+  }
+}

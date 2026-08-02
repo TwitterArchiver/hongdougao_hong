@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052040281298751488"
+      ],
+      "media_source_tweet_id": [
+        "2052040290408792452"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2052048941991256490",
+    "created_at": "2026-05-06T15:32:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T16:32:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052048941991256490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1894760369153085440",
+          "start": 3,
+          "username": "Me_0923814"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PTxWIy0DW3",
+          "end": 51,
+          "expanded_url": "https://x.com/Me_0923814/status/2052040290408792452/photo/1",
+          "media_key": "3_2052040281298751488",
+          "start": 28,
+          "url": "https://t.co/PTxWIy0DW3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052048941991256490",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052040290408792452",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Me_0923814: 我是瓜瓜我又復活了⋯⋯ https://t.co/PTxWIy0DW3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052040281298751488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHpPw3-a0AAVHvY.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052040281298751488"
+          ],
+          "media_source_tweet_id": [
+            "2052040290408792452"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2052048941991256490",
+        "created_at": "2026-05-06T15:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T16:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052048941991256490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1894760369153085440",
+              "start": 3,
+              "username": "Me_0923814"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PTxWIy0DW3",
+              "end": 51,
+              "expanded_url": "https://x.com/Me_0923814/status/2052040290408792452/photo/1",
+              "media_key": "3_2052040281298751488",
+              "start": 28,
+              "url": "https://t.co/PTxWIy0DW3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052048941991256490",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052040290408792452",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Me_0923814: 我是瓜瓜我又復活了⋯⋯ https://t.co/PTxWIy0DW3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052040281298751488"
+          ]
+        },
+        "author_id": "1894760369153085440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2052040290408792452",
+        "created_at": "2026-05-06T14:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T15:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052040290408792452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PTxWIy0DW3",
+              "end": 35,
+              "expanded_url": "https://x.com/Me_0923814/status/2052040290408792452/photo/1",
+              "media_key": "3_2052040281298751488",
+              "start": 12,
+              "url": "https://t.co/PTxWIy0DW3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052040290408792452",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 106,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我是瓜瓜我又復活了⋯⋯ https://t.co/PTxWIy0DW3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 181,
+          "like_count": 1427,
+          "listed_count": 3,
+          "media_count": 68,
+          "tweet_count": 769
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T14:44:21.000Z",
+        "description": "",
+        "id": "1894760369153085440",
+        "name": "並非我",
+        "pinned_tweet_id": "2049711821863694395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000576211203035136/pWKAS1a2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 4,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "username": "Me_0923814",
+        "verified": false
+      }
+    ]
+  }
+}

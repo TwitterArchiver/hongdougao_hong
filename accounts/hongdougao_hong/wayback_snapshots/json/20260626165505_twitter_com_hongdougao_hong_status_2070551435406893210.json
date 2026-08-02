@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2070419653667803234",
+    "created_at": "2026-06-26T16:55:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T17:55:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070551435406893210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2029965929116024832",
+          "start": 0,
+          "username": "Eeetoile126518"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070551435406893210",
+    "in_reply_to_user_id": "2029965929116024832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070549347859923317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eeetoile126518 哦卧槽他们啊，我去和我朋友反复看了一下真的像"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2070419653667803234",
+        "created_at": "2026-06-26T16:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T17:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070551435406893210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2029965929116024832",
+              "start": 0,
+              "username": "Eeetoile126518"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070551435406893210",
+        "in_reply_to_user_id": "2029965929116024832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070549347859923317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eeetoile126518 哦卧槽他们啊，我去和我朋友反复看了一下真的像"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029965929116024832",
+        "conversation_id": "2070419653667803234",
+        "created_at": "2026-06-26T16:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T17:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070549347859923317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790756114700640256",
+              "start": 0,
+              "username": "hongdougao_hong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070549347859923317",
+        "in_reply_to_user_id": "1790756114700640256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070547114112004302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdougao_hong se 就是一个日本游戏厂商 代表作是最终幻想系列 里面的男主不能说是十分相似至少有 8 9 分和深空男主相似 … 去b站搜应该有视频总结"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 209,
+          "like_count": 2240,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1149
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T17:03:21.000Z",
+        "description": "bi🏳️‍🌈 此处为本人存放涩涩言论和吐槽现生的小号  回关随机 关取随意 ：）",
+        "id": "2029965929116024832",
+        "name": "Eeetoile",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030156983635222528/89lYYInt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 15,
+          "like_count": 866,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 165
+        },
+        "url": "",
+        "username": "Eeetoile126518",
+        "verified": false
+      }
+    ]
+  }
+}

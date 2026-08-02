@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045929811466756096",
+        "3_2045929811462537216"
+      ],
+      "media_source_tweet_id": [
+        "2045929830278127637",
+        "2045929830278127637"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "2046184760758960414",
+    "created_at": "2026-04-20T11:10:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T12:10:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046184760758960414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1730858203775385600",
+          "start": 3,
+          "username": "yin_yao39704"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g0LBMKbaJB",
+          "end": 46,
+          "expanded_url": "https://x.com/yin_yao39704/status/2045929830278127637/photo/1",
+          "media_key": "3_2045929811466756096",
+          "start": 23,
+          "url": "https://t.co/g0LBMKbaJB"
+        },
+        {
+          "display_url": "pic.x.com/g0LBMKbaJB",
+          "end": 46,
+          "expanded_url": "https://x.com/yin_yao39704/status/2045929830278127637/photo/1",
+          "media_key": "3_2045929811462537216",
+          "start": 23,
+          "url": "https://t.co/g0LBMKbaJB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046184760758960414",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045929830278127637",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yin_yao39704: 粉色的疤 https://t.co/g0LBMKbaJB"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2046184760758960414].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2046184760758960414",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2046184760758960414"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045929811466756096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGSaUt_boAAN2DO.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045929811462537216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGSaUt-bQAA56bV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045929811466756096",
+            "3_2045929811462537216"
+          ]
+        },
+        "author_id": "1730858203775385600",
+        "conversation_id": "2045929830278127637",
+        "created_at": "2026-04-19T18:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T19:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045929830278127637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g0LBMKbaJB",
+              "end": 28,
+              "expanded_url": "https://x.com/yin_yao39704/status/2045929830278127637/photo/1",
+              "media_key": "3_2045929811466756096",
+              "start": 5,
+              "url": "https://t.co/g0LBMKbaJB"
+            },
+            {
+              "display_url": "pic.x.com/g0LBMKbaJB",
+              "end": 28,
+              "expanded_url": "https://x.com/yin_yao39704/status/2045929830278127637/photo/1",
+              "media_key": "3_2045929811462537216",
+              "start": 5,
+              "url": "https://t.co/g0LBMKbaJB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045929830278127637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 445,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "粉色的疤 https://t.co/g0LBMKbaJB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2039663142012325929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 171,
+          "like_count": 1279,
+          "listed_count": 3,
+          "media_count": 64,
+          "tweet_count": 681
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-02T07:55:56.000Z",
+        "description": "可以叫我药瘾or小小药 看成分回fo 社恐不回私信qwq 第二人格→@BK3052",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 34,
+                "username": "BK3052"
+              }
+            ]
+          }
+        },
+        "id": "1730858203775385600",
+        "location": "天国",
+        "name": "药瘾🩸自傷注意⚠️",
+        "pinned_tweet_id": "1869849977671037307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926074089552097280/eTk6yFC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2249,
+          "following_count": 112,
+          "like_count": 698,
+          "listed_count": 5,
+          "media_count": 107,
+          "tweet_count": 290
+        },
+        "username": "yin_yao39704",
+        "verified": false
+      }
+    ]
+  }
+}

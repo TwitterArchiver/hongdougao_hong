@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2059543073043226983",
+    "created_at": "2026-05-27T07:51:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T08:51:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059543073043226983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2000016069550043136",
+          "start": 3,
+          "username": "nng10494601"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059543073043226983",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059269516987953385",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nng10494601: 啥时候才能知道有些人傻逼就是傻逼，难道还要分性别吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2059543073043226983",
+        "created_at": "2026-05-27T07:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T08:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059543073043226983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2000016069550043136",
+              "start": 3,
+              "username": "nng10494601"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059543073043226983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059269516987953385",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nng10494601: 啥时候才能知道有些人傻逼就是傻逼，难道还要分性别吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000016069550043136",
+        "conversation_id": "2059269516987953385",
+        "created_at": "2026-05-26T13:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059269516987953385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aman1248811/st…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/aman1248811/status/2059166979353903132",
+              "start": 26,
+              "url": "https://t.co/v0lffgUA6H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059269516987953385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3537,
+          "like_count": 134,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059166979353903132",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啥时候才能知道有些人傻逼就是傻逼，难道还要分性别吗 https://t.co/v0lffgUA6H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 196,
+          "like_count": 1830,
+          "listed_count": 3,
+          "media_count": 45,
+          "tweet_count": 952
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-14T01:32:51.000Z",
+        "description": "好想变成一只无忧无虑的小猫咪(￣∇￣)\nhttps://t.co/LNfGEZf7oy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/meiweijiyi",
+                "end": 43,
+                "expanded_url": "http://ngl.link/meiweijiyi",
+                "start": 20,
+                "url": "https://t.co/LNfGEZf7oy"
+              }
+            ]
+          }
+        },
+        "id": "2000016069550043136",
+        "location": "Los Angeles, CA",
+        "name": "UraNN",
+        "pinned_tweet_id": "2058515431112278294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058178214988754945/eRfcXJDU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 19,
+          "like_count": 461,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 297
+        },
+        "username": "nng10494601",
+        "verified": false
+      }
+    ]
+  }
+}

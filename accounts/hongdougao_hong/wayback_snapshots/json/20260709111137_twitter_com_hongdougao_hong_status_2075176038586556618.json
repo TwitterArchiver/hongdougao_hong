@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075103483611758592"
+      ],
+      "media_source_tweet_id": [
+        "2075103495431274784"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "2075176038586556618",
+    "created_at": "2026-07-09T11:11:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T12:11:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075176038586556618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1658881840349061120",
+          "start": 3,
+          "username": "CJing3_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ufiVEkah5W",
+          "end": 36,
+          "expanded_url": "https://x.com/CJing3_/status/2075103495431274784/photo/1",
+          "media_key": "3_2075103483611758592",
+          "start": 13,
+          "url": "https://t.co/ufiVEkah5W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075176038586556618",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075103495431274784",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CJing3_: https://t.co/ufiVEkah5W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2075103483611758592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMw_n7zawAAkiz-.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075103483611758592"
+          ],
+          "media_source_tweet_id": [
+            "2075103495431274784"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "conversation_id": "2075176038586556618",
+        "created_at": "2026-07-09T11:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075176038586556618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1658881840349061120",
+              "start": 3,
+              "username": "CJing3_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ufiVEkah5W",
+              "end": 36,
+              "expanded_url": "https://x.com/CJing3_/status/2075103495431274784/photo/1",
+              "media_key": "3_2075103483611758592",
+              "start": 13,
+              "url": "https://t.co/ufiVEkah5W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075176038586556618",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075103495431274784",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CJing3_: https://t.co/ufiVEkah5W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075103483611758592"
+          ]
+        },
+        "author_id": "1658881840349061120",
+        "conversation_id": "2075103495431274784",
+        "created_at": "2026-07-09T06:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T07:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075103495431274784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ufiVEkah5W",
+              "end": 23,
+              "expanded_url": "https://x.com/CJing3_/status/2075103495431274784/photo/1",
+              "media_key": "3_2075103483611758592",
+              "start": 0,
+              "url": "https://t.co/ufiVEkah5W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075103495431274784",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 4114,
+          "like_count": 803,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ufiVEkah5W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 211,
+          "like_count": 2456,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 1257
+        },
+        "url": "",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T17:07:32.000Z",
+        "description": "@Cjing4_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "Cjing4_"
+              }
+            ]
+          }
+        },
+        "id": "1658881840349061120",
+        "location": "轉載Reprint🚫 orca",
+        "name": "楚鯨（出车祸版）",
+        "pinned_tweet_id": "2075167801283850715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003866770214658049/ySQGbvN5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10513,
+          "following_count": 197,
+          "like_count": 10889,
+          "listed_count": 18,
+          "media_count": 23,
+          "tweet_count": 123
+        },
+        "url": "",
+        "username": "CJing3_",
+        "verified": false
+      }
+    ]
+  }
+}

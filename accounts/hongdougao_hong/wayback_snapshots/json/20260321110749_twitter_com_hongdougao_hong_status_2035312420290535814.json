@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2035312420290535814",
+    "created_at": "2026-03-21T11:07:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T12:07:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035312420290535814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1949132969723240449",
+          "start": 3,
+          "username": "Ninini1204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035312420290535814",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035038501239234819",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ninini1204: 我想要精神病自残妹子和我互fo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2035312420290535814",
+        "created_at": "2026-03-21T11:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T12:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035312420290535814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1949132969723240449",
+              "start": 3,
+              "username": "Ninini1204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035312420290535814",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035038501239234819",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ninini1204: 我想要精神病自残妹子和我互fo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949132969723240449",
+        "conversation_id": "2035038501239234819",
+        "created_at": "2026-03-20T16:59:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T17:59:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035038501239234819"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035038501239234819",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想要精神病自残妹子和我互fo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "@hongdou_cici的重生号\n\n防炸备用机@Lajitong_l",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "hongdou_cici"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "Lajitong_l"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "1835690499442876760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 174,
+          "like_count": 959,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 440
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-26T15:41:42.000Z",
+        "description": "栗爪/爪爪 中國語 | 日本語ok",
+        "id": "1949132969723240449",
+        "name": "🌰🐾",
+        "pinned_tweet_id": "2023843881490805216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949134735193899008/TnKQ0wf1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 122,
+          "like_count": 235,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 153
+        },
+        "username": "Ninini1204",
+        "verified": false
+      }
+    ]
+  }
+}

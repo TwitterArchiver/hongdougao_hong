@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967099118704041984"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "1967099126883246255",
+    "created_at": "2025-09-14T05:32:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T06:32:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967099126883246255"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/U1BYlSL1s1",
+          "end": 25,
+          "expanded_url": "https://x.com/hongdougao_hong/status/1967099126883246255/photo/1",
+          "media_key": "3_1967099118704041984",
+          "start": 2,
+          "url": "https://t.co/U1BYlSL1s1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967099126883246255",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "- https://t.co/U1BYlSL1s1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1571,
+        "media_key": "3_1967099118704041984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0yKOfBWoAAEwci.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967099118704041984"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "conversation_id": "1967099126883246255",
+        "created_at": "2025-09-14T05:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T06:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967099126883246255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U1BYlSL1s1",
+              "end": 25,
+              "expanded_url": "https://x.com/hongdougao_hong/status/1967099126883246255/photo/1",
+              "media_key": "3_1967099118704041984",
+              "start": 2,
+              "url": "https://t.co/U1BYlSL1s1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967099126883246255",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "- https://t.co/U1BYlSL1s1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "@hongdou_cici的备用机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "垃圾桶里的红豆糕",
+        "pinned_tweet_id": "1835690499442876760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830526708291956736/0mYmK6JI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 138,
+          "like_count": 863,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 358
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      }
+    ]
+  }
+}

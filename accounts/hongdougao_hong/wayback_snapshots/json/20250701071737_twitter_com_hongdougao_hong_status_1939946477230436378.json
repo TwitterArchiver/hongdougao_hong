@@ -1,0 +1,803 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939660209032720384"
+      ],
+      "media_source_tweet_id": [
+        "1939660216783806790"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597214146560",
+          "name": "Theme Park - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10037284723",
+          "name": "Universal Parks & Resorts"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Destinations",
+          "id": "857603051657482241",
+          "name": "Destinations"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Theme parks",
+          "id": "849077981351821312",
+          "name": "Theme parks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10037284723",
+          "name": "Universal Parks & Resorts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Theme parks",
+          "id": "849077981351821312",
+          "name": "Theme parks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Destinations",
+          "id": "857603051657482241",
+          "name": "Destinations"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Theme parks",
+          "id": "849077981351821312",
+          "name": "Theme parks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Theme parks",
+          "id": "849077981351821312",
+          "name": "Theme parks"
+        }
+      }
+    ],
+    "conversation_id": "1939946477230436378",
+    "created_at": "2025-07-01T07:17:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T08:17:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939946477230436378"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "ユニバ",
+          "probability": 0.3423,
+          "start": 19,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1844627645465755652",
+          "start": 3,
+          "username": "sayu1024haine"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7nCedjBVZG",
+          "end": 97,
+          "expanded_url": "https://x.com/sayu1024haine/status/1939660216783806790/photo/1",
+          "media_key": "3_1939660209032720384",
+          "start": 74,
+          "url": "https://t.co/7nCedjBVZG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939946477230436378",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939660216783806790",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sayu1024haine: ユニバのカチューシャ出揃いました🌎💖𖭲兯𖭲兯(⸝⸝◜𖥦◝⸝⸝)💕💭ユニバに行ったらほぼ確でこれですな🤍🩵🩷💜 https://t.co/7nCedjBVZG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1939660209032720384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GusOrvBa8AA4X29.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939660209032720384"
+          ],
+          "media_source_tweet_id": [
+            "1939660216783806790"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597214146560",
+              "name": "Theme Park - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10037284723",
+              "name": "Universal Parks & Resorts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Destinations",
+              "id": "857603051657482241",
+              "name": "Destinations"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Theme parks",
+              "id": "849077981351821312",
+              "name": "Theme parks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10037284723",
+              "name": "Universal Parks & Resorts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Theme parks",
+              "id": "849077981351821312",
+              "name": "Theme parks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Destinations",
+              "id": "857603051657482241",
+              "name": "Destinations"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Theme parks",
+              "id": "849077981351821312",
+              "name": "Theme parks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Theme parks",
+              "id": "849077981351821312",
+              "name": "Theme parks"
+            }
+          }
+        ],
+        "conversation_id": "1939946477230436378",
+        "created_at": "2025-07-01T07:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T08:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939946477230436378"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "ユニバ",
+              "probability": 0.3423,
+              "start": 19,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1844627645465755652",
+              "start": 3,
+              "username": "sayu1024haine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7nCedjBVZG",
+              "end": 97,
+              "expanded_url": "https://x.com/sayu1024haine/status/1939660216783806790/photo/1",
+              "media_key": "3_1939660209032720384",
+              "start": 74,
+              "url": "https://t.co/7nCedjBVZG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939946477230436378",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939660216783806790",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sayu1024haine: ユニバのカチューシャ出揃いました🌎💖𖭲兯𖭲兯(⸝⸝◜𖥦◝⸝⸝)💕💭ユニバに行ったらほぼ確でこれですな🤍🩵🩷💜 https://t.co/7nCedjBVZG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939660209032720384"
+          ]
+        },
+        "author_id": "1844627645465755652",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597214146560",
+              "name": "Theme Park - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10037284723",
+              "name": "Universal Parks & Resorts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Destinations",
+              "id": "857603051657482241",
+              "name": "Destinations"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Theme parks",
+              "id": "849077981351821312",
+              "name": "Theme parks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10037284723",
+              "name": "Universal Parks & Resorts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Theme parks",
+              "id": "849077981351821312",
+              "name": "Theme parks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Destinations",
+              "id": "857603051657482241",
+              "name": "Destinations"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Theme parks",
+              "id": "849077981351821312",
+              "name": "Theme parks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Theme parks",
+              "id": "849077981351821312",
+              "name": "Theme parks"
+            }
+          }
+        ],
+        "conversation_id": "1939660216783806790",
+        "created_at": "2025-06-30T12:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T13:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939660216783806790"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "ユニバ",
+              "probability": 0.3514,
+              "start": 0,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7nCedjBVZG",
+              "end": 78,
+              "expanded_url": "https://x.com/sayu1024haine/status/1939660216783806790/photo/1",
+              "media_key": "3_1939660209032720384",
+              "start": 55,
+              "url": "https://t.co/7nCedjBVZG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939660216783806790",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 9773,
+          "like_count": 470,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "ユニバのカチューシャ出揃いました🌎💖𖭲兯𖭲兯(⸝⸝◜𖥦◝⸝⸝)💕💭ユニバに行ったらほぼ確でこれですな🤍🩵🩷💜 https://t.co/7nCedjBVZG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "@hongdou_cici的备用机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "垃圾桶里的红豆糕",
+        "pinned_tweet_id": "1835690499442876760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830526708291956736/0mYmK6JI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 140,
+          "like_count": 812,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 341
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-11T06:34:45.000Z",
+        "description": "ファントムシータ🦋最推し🤍・💜💚よりの箱推し|ハイネ・名古屋・横須賀 |ハイネ専用垢フォロバ100% | Adoちゃん垢▶︎@sayu1024ado | #shallm美雨とお茶しよ #ちゃのみん #暗闇を歩くなら手を繋いだ方がいいでしょ #美雨デート （記録用）| @ちゃのみん",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 91,
+                "start": 77,
+                "tag": "shallm美雨とお茶しよ"
+              },
+              {
+                "end": 98,
+                "start": 92,
+                "tag": "ちゃのみん"
+              },
+              {
+                "end": 119,
+                "start": 99,
+                "tag": "暗闇を歩くなら手を繋いだ方がいいでしょ"
+              },
+              {
+                "end": 126,
+                "start": 120,
+                "tag": "美雨デート"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "sayu1024ado"
+              }
+            ]
+          }
+        },
+        "id": "1844627645465755652",
+        "name": "Sayu🦋ハイネ🤍ちゃのみん（さゆぴょん）🫖",
+        "pinned_tweet_id": "1858445088390775250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855879114932260864/BXotC6eP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 129,
+          "like_count": 4146,
+          "listed_count": 1,
+          "media_count": 507,
+          "tweet_count": 2611
+        },
+        "username": "sayu1024haine",
+        "verified": false
+      }
+    ]
+  }
+}

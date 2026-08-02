@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2067247194231677365",
+    "created_at": "2026-06-18T19:31:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T20:31:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067691664408457448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1572252869923057664",
+          "start": 0,
+          "username": "mushi1mushi11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067691664408457448",
+    "in_reply_to_user_id": "1572252869923057664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067651590128124162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mushi1mushi11 谢谢你；；希望它能幸福"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2067247194231677365",
+        "created_at": "2026-06-18T19:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T20:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067691664408457448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1572252869923057664",
+              "start": 0,
+              "username": "mushi1mushi11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067691664408457448",
+        "in_reply_to_user_id": "1572252869923057664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067651590128124162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mushi1mushi11 谢谢你；；希望它能幸福"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572252869923057664",
+        "conversation_id": "2067247194231677365",
+        "created_at": "2026-06-18T16:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067651590128124162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790756114700640256",
+              "start": 0,
+              "username": "hongdougao_hong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067651590128124162",
+        "in_reply_to_user_id": "1790756114700640256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067247194231677365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdougao_hong 去吱星要開心呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 209,
+          "like_count": 2131,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 1094
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-20T15:54:40.000Z",
+        "description": "這樣，那樣，然後這樣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%99%AB55148",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%99%AB55148",
+                "start": 0,
+                "url": "https://t.co/M5DTRLJCfK"
+              }
+            ]
+          }
+        },
+        "id": "1572252869923057664",
+        "name": "虫",
+        "pinned_tweet_id": "2066054979279057281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065053655334789120/yy1gBWPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2796,
+          "following_count": 202,
+          "like_count": 12212,
+          "listed_count": 1,
+          "media_count": 395,
+          "tweet_count": 3218
+        },
+        "url": "https://t.co/M5DTRLJCfK",
+        "username": "mushi1mushi11",
+        "verified": false
+      }
+    ]
+  }
+}

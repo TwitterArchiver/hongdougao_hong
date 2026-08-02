@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2077784122676978137",
+    "created_at": "2026-07-18T15:55:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T16:55:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078508884352958763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2077973153423441920",
+          "start": 0,
+          "username": "wakkyluuhtt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078508884352958763",
+    "in_reply_to_user_id": "2077973153423441920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078479485402578952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wakkyluuhtt 管你什么事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2077784122676978137",
+        "created_at": "2026-07-18T15:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078508884352958763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2077973153423441920",
+              "start": 0,
+              "username": "wakkyluuhtt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078508884352958763",
+        "in_reply_to_user_id": "2077973153423441920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078479485402578952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wakkyluuhtt 管你什么事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077973153423441920",
+        "conversation_id": "2077784122676978137",
+        "created_at": "2026-07-18T13:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T14:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078479485402578952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790756114700640256",
+              "start": 0,
+              "username": "hongdougao_hong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078479485402578952",
+        "in_reply_to_user_id": "1790756114700640256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077784122676978137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdougao_hong 为啥不发红红的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 209,
+          "like_count": 2590,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 1335
+        },
+        "url": "",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-17T04:30:30.000Z",
+        "description": "",
+        "id": "2077973153423441920",
+        "name": "wakky lu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077975479525748736/Xvjm2g3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 30,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 74
+        },
+        "url": "",
+        "username": "wakkyluuhtt",
+        "verified": false
+      }
+    ]
+  }
+}

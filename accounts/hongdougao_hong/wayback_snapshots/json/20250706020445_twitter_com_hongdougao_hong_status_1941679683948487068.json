@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940969024772542464",
+        "3_1940969024806068224"
+      ],
+      "media_source_tweet_id": [
+        "1940969030569152600",
+        "1940969030569152600"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "1941679683948487068",
+    "created_at": "2025-07-06T02:04:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T03:04:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941679683948487068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1862655818547830788",
+          "start": 3,
+          "username": "gomi___i_a9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lxxmZ8xN48",
+          "end": 61,
+          "expanded_url": "https://x.com/gomi___i_a9/status/1940969030569152600/photo/1",
+          "media_key": "3_1940969024772542464",
+          "start": 38,
+          "url": "https://t.co/lxxmZ8xN48"
+        },
+        {
+          "display_url": "pic.x.com/lxxmZ8xN48",
+          "end": 61,
+          "expanded_url": "https://x.com/gomi___i_a9/status/1940969030569152600/photo/1",
+          "media_key": "3_1940969024806068224",
+          "start": 38,
+          "url": "https://t.co/lxxmZ8xN48"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941679683948487068",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 310
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940969030569152600",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gomi___i_a9: ⬅️周りのみんなの手　　　➡️わたしの手 https://t.co/lxxmZ8xN48"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1940969024772542464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu-1C1makAA9eCD.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1940969024806068224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu-1C1uaIAACYU5.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940969024772542464",
+            "3_1940969024806068224"
+          ],
+          "media_source_tweet_id": [
+            "1940969030569152600",
+            "1940969030569152600"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "conversation_id": "1941679683948487068",
+        "created_at": "2025-07-06T02:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T03:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941679683948487068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1862655818547830788",
+              "start": 3,
+              "username": "gomi___i_a9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lxxmZ8xN48",
+              "end": 61,
+              "expanded_url": "https://x.com/gomi___i_a9/status/1940969030569152600/photo/1",
+              "media_key": "3_1940969024772542464",
+              "start": 38,
+              "url": "https://t.co/lxxmZ8xN48"
+            },
+            {
+              "display_url": "pic.x.com/lxxmZ8xN48",
+              "end": 61,
+              "expanded_url": "https://x.com/gomi___i_a9/status/1940969030569152600/photo/1",
+              "media_key": "3_1940969024806068224",
+              "start": 38,
+              "url": "https://t.co/lxxmZ8xN48"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941679683948487068",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 310
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940969030569152600",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gomi___i_a9: ⬅️周りのみんなの手　　　➡️わたしの手 https://t.co/lxxmZ8xN48"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940969024772542464",
+            "3_1940969024806068224"
+          ]
+        },
+        "author_id": "1862655818547830788",
+        "conversation_id": "1940969030569152600",
+        "created_at": "2025-07-04T03:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T04:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940969030569152600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lxxmZ8xN48",
+              "end": 44,
+              "expanded_url": "https://x.com/gomi___i_a9/status/1940969030569152600/photo/1",
+              "media_key": "3_1940969024772542464",
+              "start": 21,
+              "url": "https://t.co/lxxmZ8xN48"
+            },
+            {
+              "display_url": "pic.x.com/lxxmZ8xN48",
+              "end": 44,
+              "expanded_url": "https://x.com/gomi___i_a9/status/1940969030569152600/photo/1",
+              "media_key": "3_1940969024806068224",
+              "start": 21,
+              "url": "https://t.co/lxxmZ8xN48"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940969030569152600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 143,
+          "impression_count": 81191,
+          "like_count": 5482,
+          "quote_count": 102,
+          "reply_count": 8,
+          "retweet_count": 310
+        },
+        "reply_settings": "everyone",
+        "text": "⬅️周りのみんなの手　　　➡️わたしの手 https://t.co/lxxmZ8xN48"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "@hongdou_cici的备用机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "垃圾桶里的红豆糕",
+        "pinned_tweet_id": "1835690499442876760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830526708291956736/0mYmK6JI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 141,
+          "like_count": 812,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 342
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T00:32:32.000Z",
+        "description": "09 全日fjk 顔面コンプ 🌳 👊🩸 縮小@kadaiowaranai_i",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "kadaiowaranai_i"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/dlx25ki7wn1tqk…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/dlx25ki7wn1tqky?t=OKee04&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/cAMLukOG2C"
+              }
+            ]
+          }
+        },
+        "id": "1862655818547830788",
+        "name": "あく",
+        "pinned_tweet_id": "1939339769101901861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937453770126032901/Rk-Ytidw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 247,
+          "like_count": 6783,
+          "listed_count": 6,
+          "media_count": 102,
+          "tweet_count": 8797
+        },
+        "url": "https://t.co/cAMLukOG2C",
+        "username": "gomi___i_a9",
+        "verified": false
+      }
+    ]
+  }
+}

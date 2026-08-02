@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2073676040317379010",
+    "created_at": "2026-07-05T07:51:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T08:51:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073676040317379010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1954500072517103617",
+          "start": 3,
+          "username": "dtxx333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073676040317379010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073466105818161234",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @dtxx333: 挂着两个蛋分泌大量睾酮还能把自己吃成猪的男的到底对自己有多好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2073676040317379010",
+        "created_at": "2026-07-05T07:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073676040317379010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1954500072517103617",
+              "start": 3,
+              "username": "dtxx333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073676040317379010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073466105818161234",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @dtxx333: 挂着两个蛋分泌大量睾酮还能把自己吃成猪的男的到底对自己有多好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954500072517103617",
+        "conversation_id": "2073466105818161234",
+        "created_at": "2026-07-04T17:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073466105818161234"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073466105818161234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 293246,
+          "like_count": 1190,
+          "quote_count": 12,
+          "reply_count": 154,
+          "retweet_count": 29
+        },
+        "reply_settings": "following",
+        "text": "挂着两个蛋分泌大量睾酮还能把自己吃成猪的男的到底对自己有多好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 208,
+          "like_count": 2418,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 1226
+        },
+        "url": "",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T11:09:01.000Z",
+        "description": "我都是乱说的",
+        "id": "1954500072517103617",
+        "name": "蛋挞熊",
+        "pinned_tweet_id": "1988637598730854771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038095789898317824/PZ_lPtAg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4402,
+          "following_count": 321,
+          "like_count": 9095,
+          "listed_count": 8,
+          "media_count": 282,
+          "tweet_count": 2592
+        },
+        "url": "",
+        "username": "dtxx333",
+        "verified": false
+      }
+    ]
+  }
+}

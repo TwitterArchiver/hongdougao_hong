@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2070419653667803234",
+    "created_at": "2026-06-27T04:16:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T05:16:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070722936475099432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1831477150563827712",
+          "start": 0,
+          "username": "nini6048"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070722936475099432",
+    "in_reply_to_user_id": "1831477150563827712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070714873705820662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nini6048 厌女的都不让上桌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2070419653667803234",
+        "created_at": "2026-06-27T04:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T05:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070722936475099432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1831477150563827712",
+              "start": 0,
+              "username": "nini6048"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070722936475099432",
+        "in_reply_to_user_id": "1831477150563827712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070714873705820662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nini6048 厌女的都不让上桌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831477150563827712",
+        "conversation_id": "2070419653667803234",
+        "created_at": "2026-06-27T03:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T04:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070714873705820662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790756114700640256",
+              "start": 0,
+              "username": "hongdougao_hong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070714873705820662",
+        "in_reply_to_user_id": "1790756114700640256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070697277983965477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdougao_hong 这个嘴真的好毒。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 209,
+          "like_count": 2272,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1167
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T23:39:29.000Z",
+        "description": "已清水 上推就是来看点乐子 双向➕精分你不要惹我ʌ ʌ｜不接推广 加我微信先给钱",
+        "id": "1831477150563827712",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "LiIl",
+        "pinned_tweet_id": "1958471723180798331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948355846645387264/FE1whnxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5749,
+          "following_count": 66,
+          "like_count": 3532,
+          "listed_count": 10,
+          "media_count": 77,
+          "tweet_count": 763
+        },
+        "url": "",
+        "username": "nini6048",
+        "verified": false
+      }
+    ]
+  }
+}

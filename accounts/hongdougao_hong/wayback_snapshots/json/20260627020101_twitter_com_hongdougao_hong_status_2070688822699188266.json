@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2070419653667803234",
+    "created_at": "2026-06-27T02:01:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T03:01:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070688822699188266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1883000792581550081",
+          "start": 0,
+          "username": "ArisuMomoka_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070688822699188266",
+    "in_reply_to_user_id": "1883000792581550081",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070580870071915000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ArisuMomoka_ 主人(⁠ ⁠ꈨຶ⁠ ⁠˙̫̮⁠ ⁠ꈨຶ⁠ ⁠)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2070419653667803234",
+        "created_at": "2026-06-27T02:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T03:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070688822699188266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1883000792581550081",
+              "start": 0,
+              "username": "ArisuMomoka_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070688822699188266",
+        "in_reply_to_user_id": "1883000792581550081",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070580870071915000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ArisuMomoka_ 主人(⁠ ⁠ꈨຶ⁠ ⁠˙̫̮⁠ ⁠ꈨຶ⁠ ⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883000792581550081",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2070419653667803234",
+        "created_at": "2026-06-26T18:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T19:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070580870071915000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790756114700640256",
+              "start": 0,
+              "username": "hongdougao_hong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070580870071915000",
+        "in_reply_to_user_id": "1790756114700640256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 400,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070419653667803234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdougao_hong 我要守护你大妹子。一个个长得跟国产3d动漫那个唐三一样。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 209,
+          "like_count": 2241,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1150
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T03:56:21.000Z",
+        "description": "bg😋❤️🥰😤🥵",
+        "id": "1883000792581550081",
+        "name": "Momoka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031949750803816449/ZgcWgj6o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 92,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 113
+        },
+        "url": "",
+        "username": "ArisuMomoka_",
+        "verified": false
+      }
+    ]
+  }
+}

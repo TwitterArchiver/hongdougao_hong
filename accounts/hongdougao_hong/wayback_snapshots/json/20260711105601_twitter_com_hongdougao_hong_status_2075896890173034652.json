@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075421245227896832",
+        "3_2075421245269790720",
+        "3_2075421245223636993",
+        "3_2075421245244596224"
+      ],
+      "media_source_tweet_id": [
+        "2075421274755776690",
+        "2075421274755776690",
+        "2075421274755776690",
+        "2075421274755776690"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "2075896890173034652",
+    "created_at": "2026-07-11T10:56:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T11:56:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075896890173034652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1158963278308974593",
+          "start": 3,
+          "username": "_A_jak_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HKnupyXxLO",
+          "end": 42,
+          "expanded_url": "https://x.com/_A_jak_/status/2075421274755776690/photo/1",
+          "media_key": "3_2075421245227896832",
+          "start": 19,
+          "url": "https://t.co/HKnupyXxLO"
+        },
+        {
+          "display_url": "pic.x.com/HKnupyXxLO",
+          "end": 42,
+          "expanded_url": "https://x.com/_A_jak_/status/2075421274755776690/photo/1",
+          "media_key": "3_2075421245269790720",
+          "start": 19,
+          "url": "https://t.co/HKnupyXxLO"
+        },
+        {
+          "display_url": "pic.x.com/HKnupyXxLO",
+          "end": 42,
+          "expanded_url": "https://x.com/_A_jak_/status/2075421274755776690/photo/1",
+          "media_key": "3_2075421245223636993",
+          "start": 19,
+          "url": "https://t.co/HKnupyXxLO"
+        },
+        {
+          "display_url": "pic.x.com/HKnupyXxLO",
+          "end": 42,
+          "expanded_url": "https://x.com/_A_jak_/status/2075421274755776690/photo/1",
+          "media_key": "3_2075421245244596224",
+          "start": 19,
+          "url": "https://t.co/HKnupyXxLO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075896890173034652",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 704
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075421274755776690",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_A_jak_: 이게 뭐꼬 https://t.co/HKnupyXxLO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1079,
+        "media_key": "3_2075421245227896832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM1goGEbkAA1GHz.jpg",
+        "width": 1919
+      },
+      {
+        "height": 1079,
+        "media_key": "3_2075421245269790720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM1goGOa0AALaF3.jpg",
+        "width": 1919
+      },
+      {
+        "height": 1079,
+        "media_key": "3_2075421245223636993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM1goGDakAEKTv6.jpg",
+        "width": 1919
+      },
+      {
+        "height": 1079,
+        "media_key": "3_2075421245244596224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM1goGIaYAAksl0.jpg",
+        "width": 1919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075421245227896832",
+            "3_2075421245269790720",
+            "3_2075421245223636993",
+            "3_2075421245244596224"
+          ],
+          "media_source_tweet_id": [
+            "2075421274755776690",
+            "2075421274755776690",
+            "2075421274755776690",
+            "2075421274755776690"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "conversation_id": "2075896890173034652",
+        "created_at": "2026-07-11T10:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T11:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075896890173034652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1158963278308974593",
+              "start": 3,
+              "username": "_A_jak_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HKnupyXxLO",
+              "end": 42,
+              "expanded_url": "https://x.com/_A_jak_/status/2075421274755776690/photo/1",
+              "media_key": "3_2075421245227896832",
+              "start": 19,
+              "url": "https://t.co/HKnupyXxLO"
+            },
+            {
+              "display_url": "pic.x.com/HKnupyXxLO",
+              "end": 42,
+              "expanded_url": "https://x.com/_A_jak_/status/2075421274755776690/photo/1",
+              "media_key": "3_2075421245269790720",
+              "start": 19,
+              "url": "https://t.co/HKnupyXxLO"
+            },
+            {
+              "display_url": "pic.x.com/HKnupyXxLO",
+              "end": 42,
+              "expanded_url": "https://x.com/_A_jak_/status/2075421274755776690/photo/1",
+              "media_key": "3_2075421245223636993",
+              "start": 19,
+              "url": "https://t.co/HKnupyXxLO"
+            },
+            {
+              "display_url": "pic.x.com/HKnupyXxLO",
+              "end": 42,
+              "expanded_url": "https://x.com/_A_jak_/status/2075421274755776690/photo/1",
+              "media_key": "3_2075421245244596224",
+              "start": 19,
+              "url": "https://t.co/HKnupyXxLO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075896890173034652",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 704
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075421274755776690",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_A_jak_: 이게 뭐꼬 https://t.co/HKnupyXxLO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075421245227896832",
+            "3_2075421245269790720",
+            "3_2075421245223636993",
+            "3_2075421245244596224"
+          ]
+        },
+        "author_id": "1158963278308974593",
+        "conversation_id": "2075421274755776690",
+        "created_at": "2026-07-10T03:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T04:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075421274755776690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HKnupyXxLO",
+              "end": 29,
+              "expanded_url": "https://x.com/_A_jak_/status/2075421274755776690/photo/1",
+              "media_key": "3_2075421245227896832",
+              "start": 6,
+              "url": "https://t.co/HKnupyXxLO"
+            },
+            {
+              "display_url": "pic.x.com/HKnupyXxLO",
+              "end": 29,
+              "expanded_url": "https://x.com/_A_jak_/status/2075421274755776690/photo/1",
+              "media_key": "3_2075421245269790720",
+              "start": 6,
+              "url": "https://t.co/HKnupyXxLO"
+            },
+            {
+              "display_url": "pic.x.com/HKnupyXxLO",
+              "end": 29,
+              "expanded_url": "https://x.com/_A_jak_/status/2075421274755776690/photo/1",
+              "media_key": "3_2075421245223636993",
+              "start": 6,
+              "url": "https://t.co/HKnupyXxLO"
+            },
+            {
+              "display_url": "pic.x.com/HKnupyXxLO",
+              "end": 29,
+              "expanded_url": "https://x.com/_A_jak_/status/2075421274755776690/photo/1",
+              "media_key": "3_2075421245244596224",
+              "start": 6,
+              "url": "https://t.co/HKnupyXxLO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075421274755776690",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 854,
+          "impression_count": 114361,
+          "like_count": 7817,
+          "quote_count": 130,
+          "reply_count": 23,
+          "retweet_count": 704
+        },
+        "reply_settings": "everyone",
+        "text": "이게 뭐꼬 https://t.co/HKnupyXxLO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 210,
+          "like_count": 2475,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 1268
+        },
+        "url": "",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-07T04:49:12.000Z",
+        "description": "잡덕_ 비팔 알림🔕_🦋https://t.co/aDsO0vR3db",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/a-jak.…",
+                "end": 35,
+                "expanded_url": "https://bsky.app/profile/a-jak.bsky.social",
+                "start": 12,
+                "url": "https://t.co/aDsO0vR3db"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "asked.kr/0Ajak0",
+                "end": 23,
+                "expanded_url": "http://asked.kr/0Ajak0",
+                "start": 0,
+                "url": "https://t.co/4C4VpfD3UE"
+              }
+            ]
+          }
+        },
+        "id": "1158963278308974593",
+        "location": "FUB Free_이별=블락",
+        "name": "아작",
+        "pinned_tweet_id": "1621392237912539138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1442481582741221377/kFL6OE_z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34756,
+          "following_count": 194,
+          "like_count": 10140,
+          "listed_count": 139,
+          "media_count": 2815,
+          "tweet_count": 55730
+        },
+        "url": "https://t.co/4C4VpfD3UE",
+        "username": "_A_jak_",
+        "verified": false
+      }
+    ]
+  }
+}

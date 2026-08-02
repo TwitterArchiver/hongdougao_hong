@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2032329263429689648",
+    "created_at": "2026-03-13T13:46:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T14:46:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032453354987921896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1095642193031684098",
+          "start": 0,
+          "username": "Jumina_V_F_de_T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032453354987921896",
+    "in_reply_to_user_id": "1095642193031684098",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032329263429689648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jumina_V_F_de_T 诡秘😭😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2032329263429689648",
+        "created_at": "2026-03-13T13:46:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T14:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032453354987921896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1095642193031684098",
+              "start": 0,
+              "username": "Jumina_V_F_de_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032453354987921896",
+        "in_reply_to_user_id": "1095642193031684098",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032329263429689648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jumina_V_F_de_T 诡秘😭😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1095642193031684098",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2032329263429689648",
+        "created_at": "2026-03-13T05:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T06:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032329263429689648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 122,
+              "id": "1790756114700640256",
+              "start": 106,
+              "username": "hongdougao_hong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/hongdougao_hon…",
+              "end": 176,
+              "expanded_url": "https://twitter.com/hongdougao_hong/status/2032120281691799571",
+              "start": 153,
+              "url": "https://t.co/ZLE9oK9UIf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032329263429689648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032120281691799571",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "鑑於我閨蜜紅豆糕女士之主帳號遭受平台限制，本方對其遭遇深表遺憾，並對Twitter進行的相关處置之程序不透明與決定之草率，表示嚴正不滿與強烈譴責。為維護資訊流通及溝通管道之完整，敬請各位不吝關注並協助轉發其小號 @hongdougao_hong 之告示與推廣訊息，以協助恢復其發聲與討論之空間。謹致謝忱。 https://t.co/ZLE9oK9UIf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "1835690499442876760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 167,
+          "like_count": 932,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 412
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-13T11:13:49.000Z",
+        "description": "可以叫我「ゆみな」或「ミナ」|| INTP-T ( Ti-Te 雙高型 ) || Asperger + ADHD + 焦慮障礙 || 寵物是一輛Trail型登山車 || 語音学&音系学愛好者 || 每天都要吃很多藥物的呆小寶🫨 || 超級紅豆糕 @hongdougao_hong 🍰❤️✨(ᗜ ̬ᗜ)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 123,
+                "username": "hongdougao_hong"
+              }
+            ]
+          }
+        },
+        "id": "1095642193031684098",
+        "location": "Teslurbega, Juminuja",
+        "name": "Jumina V. F. de Tokiĉi 🌅",
+        "pinned_tweet_id": "2001158126175969365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026823850391121922/L50ffL--_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 911,
+          "like_count": 23456,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 607
+        },
+        "username": "Jumina_V_F_de_T",
+        "verified": false
+      }
+    ]
+  }
+}

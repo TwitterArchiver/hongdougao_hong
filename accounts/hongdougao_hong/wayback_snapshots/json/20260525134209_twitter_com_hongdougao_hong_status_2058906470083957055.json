@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2058906470083957055",
+    "created_at": "2026-05-25T13:42:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T14:42:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058906470083957055"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hongdougao_hon…",
+          "end": 85,
+          "expanded_url": "https://twitter.com/hongdougao_hong/status/2044675167914487928",
+          "start": 62,
+          "url": "https://t.co/1TfuN4SbCn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058906470083957055",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044675167914487928",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "男摄啊哈哈哈哈哈哈\n这两天又遇到了在摄影里抽烟和用道具不收拾垃圾铺了一屋子的男摄...\n我真的气死了男摄别几把干了都去死吧 https://t.co/1TfuN4SbCn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2058906470083957055",
+        "created_at": "2026-05-25T13:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058906470083957055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hongdougao_hon…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/hongdougao_hong/status/2044675167914487928",
+              "start": 62,
+              "url": "https://t.co/1TfuN4SbCn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058906470083957055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044675167914487928",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "男摄啊哈哈哈哈哈哈\n这两天又遇到了在摄影里抽烟和用道具不收拾垃圾铺了一屋子的男摄...\n我真的气死了男摄别几把干了都去死吧 https://t.co/1TfuN4SbCn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2044675167914487928",
+        "created_at": "2026-04-16T07:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T08:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044675167914487928"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044675167914487928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 89603,
+          "like_count": 1011,
+          "quote_count": 2,
+          "reply_count": 52,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的好绝望女孩们可以不要约男摄了吗，这个男摄一直在对女coser说什么\n\n“你去当a片女演员一定可以被选上”\n“你要平静的爽”“你好骚啊”\n\n女coser甚至还觉得这个对话有趣🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 195,
+          "like_count": 1803,
+          "listed_count": 3,
+          "media_count": 45,
+          "tweet_count": 935
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      }
+    ]
+  }
+}

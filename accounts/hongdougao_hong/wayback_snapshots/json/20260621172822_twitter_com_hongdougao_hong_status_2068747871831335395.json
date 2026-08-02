@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2068686757177266213",
+    "created_at": "2026-06-21T17:28:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T18:28:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068747871831335395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2049877364763676672",
+          "start": 0,
+          "username": "4_hui916768"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068747871831335395",
+    "in_reply_to_user_id": "2049877364763676672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068686757177266213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4_hui916768 msk真的寺了..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2068686757177266213",
+        "created_at": "2026-06-21T17:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T18:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068747871831335395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2049877364763676672",
+              "start": 0,
+              "username": "4_hui916768"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068747871831335395",
+        "in_reply_to_user_id": "2049877364763676672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068686757177266213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4_hui916768 msk真的寺了..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049877364763676672",
+        "conversation_id": "2068686757177266213",
+        "created_at": "2026-06-21T13:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T14:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068686757177266213"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068686757177266213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "累了，毀滅吧\n再被刪就真沒招了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 209,
+          "like_count": 2151,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 1112
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-30T15:44:02.000Z",
+        "description": "馬斯克你無敵了",
+        "id": "2049877364763676672",
+        "name": "遺灰5.0",
+        "pinned_tweet_id": "2064148022330814813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050163297123725312/Nrt1FqWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 286,
+          "like_count": 163,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 96
+        },
+        "url": "",
+        "username": "4_hui916768",
+        "verified": false
+      }
+    ]
+  }
+}

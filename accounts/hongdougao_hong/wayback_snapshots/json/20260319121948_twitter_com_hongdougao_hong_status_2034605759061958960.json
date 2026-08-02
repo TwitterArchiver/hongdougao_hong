@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2033585022020604035",
+    "created_at": "2026-03-19T12:19:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T13:19:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034605759061958960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1949132969723240449",
+          "start": 0,
+          "username": "Ninini1204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034605759061958960",
+    "in_reply_to_user_id": "1949132969723240449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033585022020604035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ninini1204 那个通知页面有个设置的表示，点进去之后再点那个偏好设置然后推送通知，往下拉有好多可以点关掉！ᕙ⁠(⁠ಠ⁠ ⁠ਊ⁠ ⁠ಠ⁠)⁠ᕗ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2033585022020604035",
+        "created_at": "2026-03-19T12:19:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T13:19:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034605759061958960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1949132969723240449",
+              "start": 0,
+              "username": "Ninini1204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034605759061958960",
+        "in_reply_to_user_id": "1949132969723240449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033585022020604035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ninini1204 那个通知页面有个设置的表示，点进去之后再点那个偏好设置然后推送通知，往下拉有好多可以点关掉！ᕙ⁠(⁠ಠ⁠ ⁠ਊ⁠ ⁠ಠ⁠)⁠ᕗ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949132969723240449",
+        "conversation_id": "2033585022020604035",
+        "created_at": "2026-03-16T16:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T17:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033585022020604035"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033585022020604035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我特么每次以为有人给我点赞了点进去一看都是那个紫色小星星推送的互关帖子，有啥办法关掉啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "@hongdou_cici的重生号\n\n防炸备用机@Lajitong_l",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "hongdou_cici"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "Lajitong_l"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "1835690499442876760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 173,
+          "like_count": 952,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 431
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-26T15:41:42.000Z",
+        "description": "栗爪/爪爪 中國語 | 日本語ok",
+        "id": "1949132969723240449",
+        "name": "🌰🐾",
+        "pinned_tweet_id": "2023843881490805216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949134735193899008/TnKQ0wf1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 118,
+          "like_count": 234,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 147
+        },
+        "username": "Ninini1204",
+        "verified": false
+      }
+    ]
+  }
+}

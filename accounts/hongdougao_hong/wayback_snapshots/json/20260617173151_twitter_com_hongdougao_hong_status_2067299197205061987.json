@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066625723972947968"
+      ],
+      "media_source_tweet_id": [
+        "2066625726657274334"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "2067299197205061987",
+    "created_at": "2026-06-17T17:31:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T18:31:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067299197205061987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2046395388974845952",
+          "start": 3,
+          "username": "eduantao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/79GW9mpjpa",
+          "end": 104,
+          "expanded_url": "https://x.com/eduantao/status/2066625726657274334/photo/1",
+          "media_key": "3_2066625723972947968",
+          "start": 81,
+          "url": "https://t.co/79GW9mpjpa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067299197205061987",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11234
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066625726657274334",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eduantao: \"Me perdoe, esqueci de te responder\"\n\nO estado que eu me encontro: https://t.co/79GW9mpjpa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 908,
+        "media_key": "3_2066625723972947968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK4hJYEXkAAR8dT.jpg",
+        "width": 1266
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066625723972947968"
+          ],
+          "media_source_tweet_id": [
+            "2066625726657274334"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "conversation_id": "2067299197205061987",
+        "created_at": "2026-06-17T17:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067299197205061987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046395388974845952",
+              "start": 3,
+              "username": "eduantao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/79GW9mpjpa",
+              "end": 104,
+              "expanded_url": "https://x.com/eduantao/status/2066625726657274334/photo/1",
+              "media_key": "3_2066625723972947968",
+              "start": 81,
+              "url": "https://t.co/79GW9mpjpa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067299197205061987",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11234
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066625726657274334",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eduantao: \"Me perdoe, esqueci de te responder\"\n\nO estado que eu me encontro: https://t.co/79GW9mpjpa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066625723972947968"
+          ]
+        },
+        "author_id": "2046395388974845952",
+        "conversation_id": "2066625726657274334",
+        "created_at": "2026-06-15T20:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T21:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066625726657274334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/79GW9mpjpa",
+              "end": 90,
+              "expanded_url": "https://x.com/eduantao/status/2066625726657274334/photo/1",
+              "media_key": "3_2066625723972947968",
+              "start": 67,
+              "url": "https://t.co/79GW9mpjpa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066625726657274334",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 976,
+          "impression_count": 305475,
+          "like_count": 40450,
+          "quote_count": 220,
+          "reply_count": 64,
+          "retweet_count": 11234
+        },
+        "reply_settings": "everyone",
+        "text": "\"Me perdoe, esqueci de te responder\"\n\nO estado que eu me encontro: https://t.co/79GW9mpjpa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 208,
+          "like_count": 2106,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 1082
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T01:08:21.000Z",
+        "description": "",
+        "id": "2046395388974845952",
+        "name": "Anubis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050114631327272960/B_ptha3X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2911,
+          "following_count": 765,
+          "like_count": 40,
+          "listed_count": 3,
+          "media_count": 344,
+          "tweet_count": 549
+        },
+        "username": "eduantao",
+        "verified": false
+      }
+    ]
+  }
+}

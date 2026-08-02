@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2057563867656655041",
+    "created_at": "2026-05-22T14:41:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T15:41:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057834349001920919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1486352037793366022",
+          "start": 0,
+          "username": "pain4uuuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057834349001920919",
+    "in_reply_to_user_id": "1486352037793366022",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057563867656655041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pain4uuuu 对所有人都很好的小鸟宝宝..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2057563867656655041",
+        "created_at": "2026-05-22T14:41:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057834349001920919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1486352037793366022",
+              "start": 0,
+              "username": "pain4uuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057834349001920919",
+        "in_reply_to_user_id": "1486352037793366022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057563867656655041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pain4uuuu 对所有人都很好的小鸟宝宝..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486352037793366022",
+        "conversation_id": "2057563867656655041",
+        "created_at": "2026-05-21T20:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T21:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057563867656655041"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057563867656655041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "誰還記得小鳥 挺想她的 病圈天使般存在"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 990,
+          "following_count": 199,
+          "like_count": 1738,
+          "listed_count": 3,
+          "media_count": 44,
+          "tweet_count": 903
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-26T14:55:30.000Z",
+        "description": "",
+        "id": "1486352037793366022",
+        "name": "朝我頭上開一槍4.0",
+        "pinned_tweet_id": "1990891058033467852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047930294897156096/78pNHTuH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 48,
+          "like_count": 117,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 184
+        },
+        "username": "pain4uuuu",
+        "verified": false
+      }
+    ]
+  }
+}

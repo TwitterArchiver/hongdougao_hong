@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2070419653667803234",
+    "created_at": "2026-06-27T12:26:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T13:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070846124706128317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1695240715582984192",
+          "start": 0,
+          "username": "zhngzih02665471"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070846124706128317",
+    "in_reply_to_user_id": "1695240715582984192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070742132848304335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhngzih02665471 你觉得不丑就不丑，我觉得不丑那我也可以讲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2070419653667803234",
+        "created_at": "2026-06-27T12:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070846124706128317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1695240715582984192",
+              "start": 0,
+              "username": "zhngzih02665471"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070846124706128317",
+        "in_reply_to_user_id": "1695240715582984192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070742132848304335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhngzih02665471 你觉得不丑就不丑，我觉得不丑那我也可以讲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695240715582984192",
+        "conversation_id": "2070419653667803234",
+        "created_at": "2026-06-27T05:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T06:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070742132848304335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790756114700640256",
+              "start": 0,
+              "username": "hongdougao_hong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070742132848304335",
+        "in_reply_to_user_id": "1790756114700640256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070419653667803234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdougao_hong 什么样的对你来说是帅啊，我觉得这些不丑，只是假，不真实，很明显不是人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 209,
+          "like_count": 2287,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1178
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T01:04:24.000Z",
+        "description": "",
+        "id": "1695240715582984192",
+        "name": "langzi party",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698733624877883392/zL06jEdg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 65,
+          "like_count": 1331,
+          "listed_count": 3,
+          "media_count": 107,
+          "tweet_count": 8054
+        },
+        "url": "",
+        "username": "zhngzih02665471",
+        "verified": false
+      }
+    ]
+  }
+}

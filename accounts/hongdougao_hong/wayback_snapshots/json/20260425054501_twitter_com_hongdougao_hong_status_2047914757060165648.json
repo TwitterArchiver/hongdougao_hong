@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2047909812537819427",
+    "created_at": "2026-04-25T05:45:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T06:45:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047914757060165648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1701591779999612928",
+          "start": 0,
+          "username": "yi30744"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047914757060165648",
+    "in_reply_to_user_id": "1701591779999612928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047909812537819427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yi30744 马斯克疯了.."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1420,
+        "media_key": "3_2047909810084163584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGujHzoasAACXjJ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2047909812537819427",
+        "created_at": "2026-04-25T05:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T06:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047914757060165648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1701591779999612928",
+              "start": 0,
+              "username": "yi30744"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047914757060165648",
+        "in_reply_to_user_id": "1701591779999612928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047909812537819427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yi30744 马斯克疯了.."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047909810084163584"
+          ]
+        },
+        "author_id": "1701591779999612928",
+        "conversation_id": "2047909812537819427",
+        "created_at": "2026-04-25T05:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T06:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047909812537819427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/82WW5jik0H",
+              "end": 40,
+              "expanded_url": "https://x.com/yi30744/status/2047909812537819427/photo/1",
+              "media_key": "3_2047909810084163584",
+              "start": 17,
+              "url": "https://t.co/82WW5jik0H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047909812537819427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不懂這篇到底違規了什麼要被刪😅 https://t.co/82WW5jik0H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2032120281691799571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 178,
+          "like_count": 1382,
+          "listed_count": 3,
+          "media_count": 69,
+          "tweet_count": 741
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T13:41:20.000Z",
+        "description": "是的我3.0了，想尋回互關……上一世 @bai347312，備用@hui04210524",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 19,
+                "username": "bai347312"
+              },
+              {
+                "end": 44,
+                "start": 32,
+                "username": "hui04210524"
+              }
+            ]
+          }
+        },
+        "id": "1701591779999612928",
+        "name": "遺灰3.0",
+        "pinned_tweet_id": "2043603677022474310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042452792657494016/M34MuTiD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 357,
+          "like_count": 188,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 89
+        },
+        "username": "yi30744",
+        "verified": false
+      }
+    ]
+  }
+}

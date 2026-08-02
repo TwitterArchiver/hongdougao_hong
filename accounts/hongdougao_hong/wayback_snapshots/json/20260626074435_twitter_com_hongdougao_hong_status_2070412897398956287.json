@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2070412897398956287",
+    "created_at": "2026-06-26T07:44:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T08:44:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070412897398956287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1834549141310963712",
+          "start": 3,
+          "username": "sonadowglazer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070412897398956287",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 281
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070222708181184901",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sonadowglazer: No I actually find all misogynistic and stupid."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2070412897398956287",
+        "created_at": "2026-06-26T07:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T08:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070412897398956287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1834549141310963712",
+              "start": 3,
+              "username": "sonadowglazer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070412897398956287",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 281
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070222708181184901",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sonadowglazer: No I actually find all misogynistic and stupid."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834549141310963712",
+        "conversation_id": "2070222708181184901",
+        "created_at": "2026-06-25T19:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T20:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070222708181184901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/emelia8z0/stat…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/emelia8z0/status/2069325325964882312",
+              "start": 48,
+              "url": "https://t.co/PFel9wX4PH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070222708181184901",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 29613,
+          "like_count": 4168,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 281
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069325325964882312",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "No I actually find all misogynistic and stupid. https://t.co/PFel9wX4PH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 209,
+          "like_count": 2201,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1131
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-13T11:07:11.000Z",
+        "description": "toxic #sonadow shipper | pls read straw before u follow :3 🌱 the weird alt emo kid :P - iranian 🏳️‍🌈🦁☀️ bi | ‌ISTG the blue check mark was GIFTED TO ME 😭",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 14,
+                "start": 6,
+                "tag": "sonadow"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ashislynx.straw.page",
+                "end": 23,
+                "expanded_url": "https://ashislynx.straw.page/",
+                "start": 0,
+                "url": "https://t.co/lSVniHdtoW"
+              }
+            ]
+          }
+        },
+        "id": "1834549141310963712",
+        "location": "tower of babel - tHEy - eng/فا",
+        "name": "alex 🇮🇷🏳️‍🌈",
+        "pinned_tweet_id": "2061231899113062709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064916844566200320/3X5pZouf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1809,
+          "following_count": 784,
+          "like_count": 20236,
+          "listed_count": 10,
+          "media_count": 576,
+          "tweet_count": 9673
+        },
+        "url": "https://t.co/lSVniHdtoW",
+        "username": "sonadowglazer",
+        "verified": false
+      }
+    ]
+  }
+}

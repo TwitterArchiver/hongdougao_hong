@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2052475936889852399",
+    "created_at": "2026-05-07T19:49:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T20:49:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052475936889852399"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tomotar6455640…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/tomotar64556409/status/2051602809036984406",
+          "start": 20,
+          "url": "https://t.co/305Zgq4DtX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052475936889852399",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051602809036984406",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "hololive的广告越来越完了... https://t.co/305Zgq4DtX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051140984344563714",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHcd25waUAIiOHc.jpg",
+        "width": 2047
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2051140984415879169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHcd26BagAE5M_o.jpg",
+        "width": 675
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2052475936889852399",
+        "created_at": "2026-05-07T19:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T20:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052475936889852399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tomotar6455640…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/tomotar64556409/status/2051602809036984406",
+              "start": 20,
+              "url": "https://t.co/305Zgq4DtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052475936889852399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051602809036984406",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "hololive的广告越来越完了... https://t.co/305Zgq4DtX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051140984344563714",
+            "3_2051140984415879169"
+          ]
+        },
+        "author_id": "1746464990687817728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051602809036984406",
+        "created_at": "2026-05-05T10:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T11:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051602809036984406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gNJ5L2buFK",
+              "end": 80,
+              "expanded_url": "https://x.com/TomoTar64556409/status/2051602809036984406/photo/1",
+              "media_key": "3_2051140984344563714",
+              "start": 57,
+              "url": "https://t.co/gNJ5L2buFK"
+            },
+            {
+              "display_url": "pic.x.com/gNJ5L2buFK",
+              "end": 80,
+              "expanded_url": "https://x.com/TomoTar64556409/status/2051602809036984406/photo/1",
+              "media_key": "3_2051140984415879169",
+              "start": 57,
+              "url": "https://t.co/gNJ5L2buFK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051602809036984406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 221,
+          "impression_count": 449493,
+          "like_count": 3436,
+          "quote_count": 123,
+          "reply_count": 151,
+          "retweet_count": 334
+        },
+        "reply_settings": "everyone",
+        "text": "日本有很多不合适的广告牌\n在秋叶原仍然有很多学校和儿童\n他们的道德 到底怎么了？\n日本是色情天堂\n\n我中文对吗？ https://t.co/gNJ5L2buFK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 182,
+          "like_count": 1473,
+          "listed_count": 3,
+          "media_count": 69,
+          "tweet_count": 793
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T09:31:32.000Z",
+        "description": "海外(シンガポール)在住の出羽守です。貧困に苦しむ若者に海外移住の指南をしてます。今の日本に立ち直って頂くべく海外と比べて日本が劣っている点をビシバシ指摘、批判してまいります。\n\n24-7で 日本の批判を行いますので、『日本は最高！』という思想の方はブロック推奨です\n\n失礼な方は一撃でブロックしますので悪しからず",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/1BzLfRWr7co",
+                "end": 23,
+                "expanded_url": "https://youtu.be/1BzLfRWr7co",
+                "start": 0,
+                "url": "https://t.co/MpD4yrLyIx"
+              }
+            ]
+          }
+        },
+        "id": "1746464990687817728",
+        "location": "Singapore",
+        "name": "海外脱出ネオニート / Tomo-Taro",
+        "pinned_tweet_id": "2044024438744822045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746465225921150976/R61smvb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12446,
+          "following_count": 2536,
+          "like_count": 14664,
+          "listed_count": 494,
+          "media_count": 2387,
+          "tweet_count": 17616
+        },
+        "url": "https://t.co/MpD4yrLyIx",
+        "username": "TomoTar64556409",
+        "verified": false
+      }
+    ]
+  }
+}

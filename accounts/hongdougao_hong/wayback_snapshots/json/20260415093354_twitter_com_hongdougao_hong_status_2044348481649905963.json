@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2044348481649905963",
+    "created_at": "2026-04-15T09:33:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T10:33:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044348481649905963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "34714106",
+          "start": 3,
+          "username": "trostes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044348481649905963",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1718
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043908033642693109",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @trostes: minha timeline cheia das feministas do mundo todo q coisa linda muito emocionada amo mulheres 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2044348481649905963",
+        "created_at": "2026-04-15T09:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T10:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044348481649905963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "34714106",
+              "start": 3,
+              "username": "trostes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044348481649905963",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1718
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043908033642693109",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @trostes: minha timeline cheia das feministas do mundo todo q coisa linda muito emocionada amo mulheres 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "34714106",
+        "conversation_id": "2043908033642693109",
+        "created_at": "2026-04-14T04:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T05:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043908033642693109"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043908033642693109",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 121,
+          "impression_count": 104445,
+          "like_count": 12130,
+          "quote_count": 23,
+          "reply_count": 56,
+          "retweet_count": 1718
+        },
+        "reply_settings": "everyone",
+        "text": "minha timeline cheia das feministas do mundo todo q coisa linda muito emocionada amo mulheres 😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2039663142012325929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 166,
+          "like_count": 1202,
+          "listed_count": 3,
+          "media_count": 60,
+          "tweet_count": 625
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-23T20:08:20.000Z",
+        "description": "aqui é um perfil pessoal eu falo de coisas pessoais | artista • gamer • podcaster | contato: contatotrostes@gmail.com / ela/she",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/trostes",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/trostes",
+                "start": 0,
+                "url": "https://t.co/lKTtVuzjEe"
+              }
+            ]
+          }
+        },
+        "id": "34714106",
+        "name": "Trostes",
+        "pinned_tweet_id": "2019440031086112922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1375184247208599553/tmENw4FM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60545,
+          "following_count": 3268,
+          "like_count": 312849,
+          "listed_count": 238,
+          "media_count": 27945,
+          "tweet_count": 222960
+        },
+        "url": "https://t.co/lKTtVuzjEe",
+        "username": "trostes",
+        "verified": true
+      }
+    ]
+  }
+}

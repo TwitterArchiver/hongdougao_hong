@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066542586341343232"
+      ],
+      "media_source_tweet_id": [
+        "2066542604519379243"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "2066934071562031443",
+    "created_at": "2026-06-16T17:20:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T18:20:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066934071562031443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2043043365705662464",
+          "start": 3,
+          "username": "life4dead1127"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5lIW6oZ9PZ",
+          "end": 44,
+          "expanded_url": "https://x.com/life4dead1127/status/2066542604519379243/photo/1",
+          "media_key": "3_2066542586341343232",
+          "start": 21,
+          "url": "https://t.co/5lIW6oZ9PZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066934071562031443",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066542604519379243",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @life4dead1127: 🐓 https://t.co/5lIW6oZ9PZ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2066934071562031443].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2066934071562031443",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2066934071562031443"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066542586341343232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3ViIQXwAAStML.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066542586341343232"
+          ]
+        },
+        "author_id": "2043043365705662464",
+        "conversation_id": "2066542604519379243",
+        "created_at": "2026-06-15T15:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066542604519379243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5lIW6oZ9PZ",
+              "end": 25,
+              "expanded_url": "https://x.com/life4dead1127/status/2066542604519379243/photo/1",
+              "media_key": "3_2066542586341343232",
+              "start": 2,
+              "url": "https://t.co/5lIW6oZ9PZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066542604519379243",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🐓 https://t.co/5lIW6oZ9PZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 208,
+          "like_count": 2081,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 1070
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T19:08:50.000Z",
+        "description": "Ruri/小璃=互fo同类/餐券/自伤/LGBT友好\n随时都会消失\n欢迎和我交朋友\n男的只有腹肌年上富二代可以私信我",
+        "id": "2043043365705662464",
+        "location": "现在",
+        "name": "RUriri",
+        "pinned_tweet_id": "2066061328632951203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063990859201196032/wFVktRq4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 104,
+          "like_count": 2721,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 182
+        },
+        "username": "life4dead1127",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2067247194231677365",
+    "created_at": "2026-06-18T12:55:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T13:55:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067592047062855723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2059640160766345217",
+          "start": 0,
+          "username": "Thanatosbz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067592047062855723",
+    "in_reply_to_user_id": "2059640160766345217",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067554259886059832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Thanatosbz 晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2067247194231677365",
+        "created_at": "2026-06-18T12:55:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:55:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067592047062855723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2059640160766345217",
+              "start": 0,
+              "username": "Thanatosbz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067592047062855723",
+        "in_reply_to_user_id": "2059640160766345217",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067554259886059832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thanatosbz 晚安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059640160766345217",
+        "conversation_id": "2067247194231677365",
+        "created_at": "2026-06-18T10:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067554259886059832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790756114700640256",
+              "start": 0,
+              "username": "hongdougao_hong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067554259886059832",
+        "in_reply_to_user_id": "1790756114700640256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067247194231677365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdougao_hong 晚安"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 209,
+          "like_count": 2125,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 1092
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-27T14:18:34.000Z",
+        "description": "06｜自伤｜绘画｜吐槽｜休学中｜猫咪\n小猫名字是煤老板，25年3月出生，生日定在3月7日\n没有什么雷点、🉑互fo",
+        "id": "2059640160766345217",
+        "name": "白渚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064708731989045249/_RBs6Igf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 38,
+          "like_count": 303,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 236
+        },
+        "username": "Thanatosbz",
+        "verified": false
+      }
+    ]
+  }
+}

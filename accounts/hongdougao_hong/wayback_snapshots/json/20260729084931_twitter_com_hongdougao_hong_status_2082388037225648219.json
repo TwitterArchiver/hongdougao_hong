@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2081994584679412151",
+    "created_at": "2026-07-29T08:49:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T09:49:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082388037225648219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1625264483378814977",
+          "start": 0,
+          "username": "AmitaAmitabha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082388037225648219",
+    "in_reply_to_user_id": "1625264483378814977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082241628933341462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmitaAmitabha 男的随意反正天生就是公鸭命"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2081994584679412151",
+        "created_at": "2026-07-29T08:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082388037225648219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1625264483378814977",
+              "start": 0,
+              "username": "AmitaAmitabha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082388037225648219",
+        "in_reply_to_user_id": "1625264483378814977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082241628933341462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmitaAmitabha 男的随意反正天生就是公鸭命"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1625264483378814977",
+        "conversation_id": "2081994584679412151",
+        "created_at": "2026-07-28T23:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T00:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082241628933341462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790756114700640256",
+              "start": 0,
+              "username": "hongdougao_hong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082241628933341462",
+        "in_reply_to_user_id": "1790756114700640256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081994584679412151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdougao_hong 魅男到底有什么错，男的魅女的不也一大堆吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1026,
+          "following_count": 208,
+          "like_count": 2681,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 1388
+        },
+        "url": "",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-13T22:43:52.000Z",
+        "description": "",
+        "id": "1625264483378814977",
+        "location": "熾天の玉座",
+        "name": "A men",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777782230586359812/LUDT9PpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 1250,
+          "like_count": 15455,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 753
+        },
+        "url": "",
+        "username": "AmitaAmitabha",
+        "verified": false
+      }
+    ]
+  }
+}

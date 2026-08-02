@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951232863703277569"
+      ],
+      "media_source_tweet_id": [
+        "1951232875631882628"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "1959732774782578844",
+    "created_at": "2025-08-24T21:41:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T22:41:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959732774782578844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1893209290921672704",
+          "start": 3,
+          "username": "guagua_me"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NYnAMvWNDH",
+          "end": 38,
+          "expanded_url": "https://x.com/guagua_me/status/1951232875631882628/photo/1",
+          "media_key": "3_1951232863703277569",
+          "start": 15,
+          "url": "https://t.co/NYnAMvWNDH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959732774782578844",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 116
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951232875631882628",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @guagua_me: https://t.co/NYnAMvWNDH"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1959732774782578844].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1959732774782578844",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1959732774782578844"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1951232863703277569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxQr85MaIAE9zj9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951232863703277569"
+          ]
+        },
+        "author_id": "1893209290921672704",
+        "conversation_id": "1951232875631882628",
+        "created_at": "2025-08-01T10:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T11:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951232875631882628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NYnAMvWNDH",
+              "end": 23,
+              "expanded_url": "https://x.com/guagua_me/status/1951232875631882628/photo/1",
+              "media_key": "3_1951232863703277569",
+              "start": 0,
+              "url": "https://t.co/NYnAMvWNDH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951232875631882628",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 379,
+          "impression_count": 45604,
+          "like_count": 1568,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 116
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NYnAMvWNDH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "@hongdou_cici的备用机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "垃圾桶里的红豆糕",
+        "pinned_tweet_id": "1835690499442876760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830526708291956736/0mYmK6JI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 139,
+          "like_count": 843,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 350
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T08:01:01.000Z",
+        "description": "",
+        "id": "1893209290921672704",
+        "location": "288/520/1888🚪口令",
+        "name": "瓜",
+        "pinned_tweet_id": "1940625597455388962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922933433099223040/rOaUlFix_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14826,
+          "following_count": 17,
+          "like_count": 459,
+          "listed_count": 40,
+          "media_count": 27,
+          "tweet_count": 57
+        },
+        "username": "guagua_me",
+        "verified": false
+      }
+    ]
+  }
+}

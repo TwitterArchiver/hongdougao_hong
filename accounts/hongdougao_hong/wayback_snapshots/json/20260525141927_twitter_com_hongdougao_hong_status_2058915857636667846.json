@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2058915857636667846",
+    "created_at": "2026-05-25T14:19:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T15:19:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058915857636667846"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 35,
+          "tag": "subtwt"
+        },
+        {
+          "end": 84,
+          "start": 78,
+          "tag": "edtwt"
+        },
+        {
+          "end": 90,
+          "start": 85,
+          "tag": "shtw"
+        },
+        {
+          "end": 101,
+          "start": 91,
+          "tag": "kleptotwt"
+        },
+        {
+          "end": 112,
+          "start": 102,
+          "tag": "cleptotwt"
+        },
+        {
+          "end": 121,
+          "start": 113,
+          "tag": "slittwt"
+        },
+        {
+          "end": 134,
+          "start": 123,
+          "tag": "obslovetwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1789936959051157504",
+          "start": 3,
+          "username": "damianxoxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058915857636667846",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058675891559883037",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @damianxoxx: Hola!!\nBusco mutis #subtwt\n♡ + Interactuo mucho, soy parte de #edtwt #shtw #kleptotwt #cleptotwt #slittwt  #obslovetwt \n\nDn…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 741,
+        "media_key": "3_2058675889047588865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJHi0FJX0AE9HIw.jpg",
+        "width": 736
+      },
+      {
+        "height": 489,
+        "media_key": "3_2058675889685090304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJHi0HhXUAAbumF.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2058915857636667846",
+        "created_at": "2026-05-25T14:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058915857636667846"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 35,
+              "tag": "subtwt"
+            },
+            {
+              "end": 84,
+              "start": 78,
+              "tag": "edtwt"
+            },
+            {
+              "end": 90,
+              "start": 85,
+              "tag": "shtw"
+            },
+            {
+              "end": 101,
+              "start": 91,
+              "tag": "kleptotwt"
+            },
+            {
+              "end": 112,
+              "start": 102,
+              "tag": "cleptotwt"
+            },
+            {
+              "end": 121,
+              "start": 113,
+              "tag": "slittwt"
+            },
+            {
+              "end": 134,
+              "start": 123,
+              "tag": "obslovetwt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1789936959051157504",
+              "start": 3,
+              "username": "damianxoxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058915857636667846",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058675891559883037",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @damianxoxx: Hola!!\nBusco mutis #subtwt\n♡ + Interactuo mucho, soy parte de #edtwt #shtw #kleptotwt #cleptotwt #slittwt  #obslovetwt \n\nDn…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058675889047588865",
+            "3_2058675889685090304"
+          ]
+        },
+        "author_id": "1789936959051157504",
+        "conversation_id": "2058675891559883037",
+        "created_at": "2026-05-24T22:25:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T23:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058675891559883037"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 19,
+              "tag": "subtwt"
+            },
+            {
+              "end": 68,
+              "start": 62,
+              "tag": "edtwt"
+            },
+            {
+              "end": 74,
+              "start": 69,
+              "tag": "shtw"
+            },
+            {
+              "end": 85,
+              "start": 75,
+              "tag": "kleptotwt"
+            },
+            {
+              "end": 96,
+              "start": 86,
+              "tag": "cleptotwt"
+            },
+            {
+              "end": 105,
+              "start": 97,
+              "tag": "slittwt"
+            },
+            {
+              "end": 118,
+              "start": 107,
+              "tag": "obslovetwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ftWNgPnkP1",
+              "end": 184,
+              "expanded_url": "https://x.com/damianxoxx/status/2058675891559883037/photo/1",
+              "media_key": "3_2058675889047588865",
+              "start": 161,
+              "url": "https://t.co/ftWNgPnkP1"
+            },
+            {
+              "display_url": "pic.x.com/ftWNgPnkP1",
+              "end": 184,
+              "expanded_url": "https://x.com/damianxoxx/status/2058675891559883037/photo/1",
+              "media_key": "3_2058675889685090304",
+              "start": 161,
+              "url": "https://t.co/ftWNgPnkP1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058675891559883037",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 626,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Hola!!\nBusco mutis #subtwt\n♡ + Interactuo mucho, soy parte de #edtwt #shtw #kleptotwt #cleptotwt #slittwt  #obslovetwt \n\nDni: Pedo, zoo, homofobicos, transfobos https://t.co/ftWNgPnkP1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 195,
+          "like_count": 1804,
+          "listed_count": 3,
+          "media_count": 45,
+          "tweet_count": 937
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-13T08:33:57.000Z",
+        "description": "idk",
+        "id": "1789936959051157504",
+        "name": "¿? || 🫐",
+        "pinned_tweet_id": "1859156031185588232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038656916235395072/BPV7X2kG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 225,
+          "like_count": 7483,
+          "listed_count": 2,
+          "media_count": 329,
+          "tweet_count": 3772
+        },
+        "username": "damianxoxx",
+        "verified": false
+      }
+    ]
+  }
+}

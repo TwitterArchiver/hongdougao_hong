@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972543675239444480"
+      ],
+      "media_source_tweet_id": [
+        "1972543681975755070"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "1972548175019081730",
+    "created_at": "2025-09-29T06:25:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T07:25:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972548175019081730"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 30,
+          "tag": "ocart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684492249416323072",
+          "start": 3,
+          "username": "hongdou_cici"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VyfKHur7eL",
+          "end": 60,
+          "expanded_url": "https://x.com/hongdou_cici/status/1972543681975755070/photo/1",
+          "media_key": "3_1972543675239444480",
+          "start": 37,
+          "url": "https://t.co/VyfKHur7eL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972548175019081730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972543681975755070",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hongdou_cici: 进食；呕吐\n我的一辈子\n#ocart https://t.co/VyfKHur7eL"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1972548175019081730].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1972548175019081730",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1972548175019081730"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972543675239444480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1_iBYqXMAAPLFF.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972543675239444480"
+          ]
+        },
+        "author_id": "1684492249416323072",
+        "conversation_id": "1972543681975755070",
+        "created_at": "2025-09-29T06:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T07:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972543681975755070"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 12,
+              "tag": "ocart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VyfKHur7eL",
+              "end": 42,
+              "expanded_url": "https://x.com/hongdou_cici/status/1972543681975755070/photo/1",
+              "media_key": "3_1972543675239444480",
+              "start": 19,
+              "url": "https://t.co/VyfKHur7eL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972543681975755070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "进食；呕吐\n我的一辈子\n#ocart https://t.co/VyfKHur7eL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "@hongdou_cici的备用机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "垃圾桶里的红豆糕",
+        "pinned_tweet_id": "1835690499442876760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830526708291956736/0mYmK6JI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751,
+          "following_count": 136,
+          "like_count": 874,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 362
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T09:13:54.000Z",
+        "description": "･̆⍛･̆| If my pics bother you, feel free to block me❌不喜欢我请自避雷❗️善用拉黑｜我宝💗@Unrestrained000｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 70,
+                "username": "Unrestrained000"
+              }
+            ]
+          }
+        },
+        "id": "1684492249416323072",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "1967678530684399788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857343047714983936/slLcQZH8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1760,
+          "following_count": 238,
+          "like_count": 4595,
+          "listed_count": 7,
+          "media_count": 341,
+          "tweet_count": 2278
+        },
+        "username": "hongdou_cici",
+        "verified": false
+      }
+    ]
+  }
+}

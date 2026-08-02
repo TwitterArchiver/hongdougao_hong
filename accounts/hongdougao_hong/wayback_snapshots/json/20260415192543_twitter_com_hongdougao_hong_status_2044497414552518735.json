@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2044346618917634379",
+    "created_at": "2026-04-15T19:25:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T20:25:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044497414552518735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1539930409617608705",
+          "start": 0,
+          "username": "huasang999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044497414552518735",
+    "in_reply_to_user_id": "1539930409617608705",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044495093189775752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huasang999 美味美味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2044346618917634379",
+        "created_at": "2026-04-15T19:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T20:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044497414552518735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1539930409617608705",
+              "start": 0,
+              "username": "huasang999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044497414552518735",
+        "in_reply_to_user_id": "1539930409617608705",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044495093189775752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huasang999 美味美味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1539930409617608705",
+        "conversation_id": "2044346618917634379",
+        "created_at": "2026-04-15T19:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T20:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044495093189775752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790756114700640256",
+              "start": 0,
+              "username": "hongdougao_hong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044495093189775752",
+        "in_reply_to_user_id": "1790756114700640256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044346618917634379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdougao_hong 羡慕了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2039663142012325929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 165,
+          "like_count": 1214,
+          "listed_count": 3,
+          "media_count": 60,
+          "tweet_count": 628
+        },
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-23T11:16:51.000Z",
+        "description": "https://t.co/nwOpRVhFZc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B440344",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B440344",
+                "start": 0,
+                "url": "https://t.co/nwOpRVhFZc"
+              }
+            ]
+          }
+        },
+        "id": "1539930409617608705",
+        "location": "Tokyo-to, Japan",
+        "name": "花花",
+        "pinned_tweet_id": "2036770236649849278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034970163976798208/et0Z74sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 50,
+          "like_count": 1815,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 285
+        },
+        "username": "huasang999",
+        "verified": false
+      }
+    ]
+  }
+}

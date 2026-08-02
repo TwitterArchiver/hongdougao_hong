@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2069040116669231540",
+    "created_at": "2026-06-22T12:49:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T13:49:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069040116669231540"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "红豆糕🍰’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1pKdR…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1pKdRRmAoYrJW",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2069040118087008256/rzeH7QbJ?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2069040118087008256/rzeH7QbJ?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 喝酒！",
+          "unwound_url": "https://twitter.com/i/spaces/1pKdRRmAoYrJW/peek",
+          "url": "https://t.co/LmSYhbVG7p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069040116669231540",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/LmSYhbVG7p"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2069040116669231540",
+        "created_at": "2026-06-22T12:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069040116669231540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "红豆糕🍰’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1pKdR…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1pKdRRmAoYrJW",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2069040118087008256/rzeH7QbJ?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2069040118087008256/rzeH7QbJ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 喝酒！",
+              "unwound_url": "https://twitter.com/i/spaces/1pKdRRmAoYrJW/peek",
+              "url": "https://t.co/LmSYhbVG7p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069040116669231540",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/LmSYhbVG7p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 211,
+          "like_count": 2155,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 1115
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      }
+    ]
+  }
+}

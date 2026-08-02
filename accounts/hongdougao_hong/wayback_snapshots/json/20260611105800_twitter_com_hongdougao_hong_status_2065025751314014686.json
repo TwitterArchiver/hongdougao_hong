@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2064722696810934410",
+    "created_at": "2026-06-11T10:58:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T11:58:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065025751314014686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1324778451946020865",
+          "start": 0,
+          "username": "beastere_susu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065025751314014686",
+    "in_reply_to_user_id": "1324778451946020865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065015806157873235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@beastere_susu 对。我觉得父权最可怕的点就在于打压所有弱势群体并且试图把所有人都规训成一个性别刻板印象的存在。\n这群人把女权变成换汤不换药的换了个名字，依旧执行这个可怕的顺直霸权那地球还是早点毁灭算了。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2064722696810934410",
+        "created_at": "2026-06-11T10:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T11:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065025751314014686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1324778451946020865",
+              "start": 0,
+              "username": "beastere_susu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065025751314014686",
+        "in_reply_to_user_id": "1324778451946020865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065015806157873235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beastere_susu 对。我觉得父权最可怕的点就在于打压所有弱势群体并且试图把所有人都规训成一个性别刻板印象的存在。\n这群人把女权变成换汤不换药的换了个名字，依旧执行这个可怕的顺直霸权那地球还是早点毁灭算了。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1324778451946020865",
+        "conversation_id": "2064722696810934410",
+        "created_at": "2026-06-11T10:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T11:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065015806157873235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790756114700640256",
+              "start": 0,
+              "username": "hongdougao_hong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065015806157873235",
+        "in_reply_to_user_id": "1790756114700640256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064722696810934410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdougao_hong 表面上反对父权，可一旦看到性少数又要用父权制那一套来歧视了😋它们只恨父权制为什么不是“母权制”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 200,
+          "like_count": 2023,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 1042
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-06T18:19:39.000Z",
+        "description": "一个下流又恶心的白痴🥴\n出厂日期2005.8.10／💛🤍💜🖤&泛性恋/enby（？）hrt进行中/💔我有唐氏综合征💔/brony🐴/不建政🤗／妈咪🥰：@wwl15956a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "wwl15956a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/beastere_xy",
+                "end": 23,
+                "expanded_url": "http://t.me/beastere_xy",
+                "start": 0,
+                "url": "https://t.co/eJDnjwZgYt"
+              }
+            ]
+          }
+        },
+        "id": "1324778451946020865",
+        "location": "山的东边",
+        "name": "✨star小悦੭ ᐕ)੭",
+        "pinned_tweet_id": "2012212308722712655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004848126683996160/EMOpyx0__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1078,
+          "following_count": 352,
+          "like_count": 20774,
+          "listed_count": 5,
+          "media_count": 1107,
+          "tweet_count": 7908
+        },
+        "url": "https://t.co/eJDnjwZgYt",
+        "username": "beastere_susu",
+        "verified": false
+      }
+    ]
+  }
+}

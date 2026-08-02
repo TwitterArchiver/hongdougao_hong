@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2057809581703868707",
+    "created_at": "2026-05-22T14:56:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T15:56:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057837918258069778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1720811775376211968",
+          "start": 0,
+          "username": "Anarchia_Su"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057837918258069778",
+    "in_reply_to_user_id": "1720811775376211968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057836790342615193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anarchia_Su 我从来都没有否认男性和性少数是被社会忽视的，很明显男性和性少数提出被性侵更是难被相信。妇女被强奸的案件那么多都不被受理了你以为男性和性少数的不会更受影响？以大陆的性别歧视来讲最最最常见的妇女性侵案被受理的更多男性和性少数被重视的可能性才越大。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2057809581703868707",
+        "created_at": "2026-05-22T14:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057837918258069778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1720811775376211968",
+              "start": 0,
+              "username": "Anarchia_Su"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057837918258069778",
+        "in_reply_to_user_id": "1720811775376211968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057836790342615193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anarchia_Su 我从来都没有否认男性和性少数是被社会忽视的，很明显男性和性少数提出被性侵更是难被相信。妇女被强奸的案件那么多都不被受理了你以为男性和性少数的不会更受影响？以大陆的性别歧视来讲最最最常见的妇女性侵案被受理的更多男性和性少数被重视的可能性才越大。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720811775376211968",
+        "conversation_id": "2057809581703868707",
+        "created_at": "2026-05-22T14:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057836790342615193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790756114700640256",
+              "start": 0,
+              "username": "hongdougao_hong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057836790342615193",
+        "in_reply_to_user_id": "1790756114700640256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057809581703868707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdougao_hong 我知道你很想把中国女性塑造成被制度迫害的受害，以符合你的女权主义叙事，但现实是无论是从制度层面还是从近几年的社会热点来看，被制度迫害的反而是男性和性少数。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/homgdougao_hong",
+                "end": 23,
+                "expanded_url": "https://ngl.link/homgdougao_hong",
+                "start": 0,
+                "url": "https://t.co/8xnytY7Jof"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 199,
+          "like_count": 1739,
+          "listed_count": 3,
+          "media_count": 44,
+          "tweet_count": 905
+        },
+        "url": "https://t.co/8xnytY7Jof",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T14:34:44.000Z",
+        "description": "Libral Socialist 自由社会主义者 反建制派",
+        "id": "1720811775376211968",
+        "location": "未知",
+        "name": "🇨🇳 Anarchist Su 🇺🇦 ↙️↙️↙️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005513613281488897/Cg1uHWfN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 313,
+          "like_count": 762,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 95
+        },
+        "username": "Anarchia_Su",
+        "verified": false
+      }
+    ]
+  }
+}
