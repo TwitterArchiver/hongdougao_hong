@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-02T23:51:45",
+  "last_updated": "2026-08-02T23:52:08",
   "html": {
     "https://web.archive.org/web/20250525200348if_/https://twitter.com/hongdougao_hong/status/1926730943160598804": {
       "status": "done",
@@ -8618,9 +8618,9 @@
       "referenced_by": [
         "20260507172640_twitter_com_hongdougao_hong_status_2052439988311298375.json"
       ],
-      "last_updated": "2026-08-02T22:31:20",
+      "last_updated": "2026-08-02T23:52:01",
       "last_reason": "HTTPError: 404 Client Error: Not Found for url: https://web.archive.org/web/20260512015438/https://video.twimg.com/amplify_video/2052408925589573633/vid/avc1/664x664/4iLQyfEQQLwM31jR.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2053462223415328769/vid/avc1/720x1280/1gwOIH93hjzU1-Gk.mp4": {
       "status": "done",
@@ -8634,9 +8634,9 @@
       "referenced_by": [
         "20260524074624_twitter_com_hongdougao_hong_status_2058454553063006443.json"
       ],
-      "last_updated": "2026-08-02T23:24:23",
+      "last_updated": "2026-08-02T23:52:03",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260524074624/https://video.twimg.com/amplify_video/2058425046037909504/vid/avc1/592x1280/BR8nRaHuXT9MD10P.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/ext_tw_video/2059255394531528704/pu/vid/avc1/720x1280/2OjxR06qKhf_2EsY.mp4?tag=12": {
       "status": "done",
@@ -8657,9 +8657,9 @@
       "referenced_by": [
         "20260530170043_twitter_com_hongdougao_hong_status_2060768377636041035.json"
       ],
-      "last_updated": "2026-08-02T22:31:20",
+      "last_updated": "2026-08-02T23:52:06",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260530170043/https://video.twimg.com/ext_tw_video/2060727042086453248/pu/vid/avc1/720x1280/RdY3K5xxHQGwnjvk.mp4?tag=12",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/ext_tw_video/2061424896752914432/pu/vid/avc1/720x1280/2herd_kANodZxNAp.mp4?tag=12": {
       "status": "done",
@@ -8673,9 +8673,9 @@
       "referenced_by": [
         "20260621171714_twitter_com_hongdougao_hong_status_2068745070388678943.json"
       ],
-      "last_updated": "2026-08-02T22:31:19",
+      "last_updated": "2026-08-02T23:52:08",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260621171714/https://video.twimg.com/tweet_video/HLWVSVKa4AAuiiw.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/ext_tw_video/2070140532656152578/pu/vid/avc1/576x602/yml1jMQfFEYuAvwB.mp4": {
       "status": "done",
