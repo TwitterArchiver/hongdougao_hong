@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083981524773597184"
+      ],
+      "media_source_tweet_id": [
+        "2083981530079354949"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "2083987333205135668",
+    "created_at": "2026-08-02T18:44:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T19:44:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083987333205135668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2015761736255881216",
+          "start": 3,
+          "username": "kawa1kuNrTi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ueZMWLC4Ds",
+          "end": 55,
+          "expanded_url": "https://x.com/kawa1kuNrTi/status/2083981530079354949/photo/1",
+          "media_key": "3_2083981524773597184",
+          "start": 32,
+          "url": "https://t.co/ueZMWLC4Ds"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083987333205135668",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083981530079354949",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kawa1kuNrTi: うまそう(⁉️)🤤←冗談だよ https://t.co/ueZMWLC4Ds"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1354,
+        "media_key": "3_2083981524773597184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOvKJ8abcAAE6UK.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083981524773597184"
+          ]
+        },
+        "author_id": "2015761736255881216",
+        "conversation_id": "2083981530079354949",
+        "created_at": "2026-08-02T18:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T19:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083981530079354949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ueZMWLC4Ds",
+              "end": 38,
+              "expanded_url": "https://x.com/kawa1kuNrTi/status/2083981530079354949/photo/1",
+              "media_key": "3_2083981524773597184",
+              "start": 15,
+              "url": "https://t.co/ueZMWLC4Ds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083981530079354949",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "うまそう(⁉️)🤤←冗談だよ https://t.co/ueZMWLC4Ds"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083981524773597184"
+          ],
+          "media_source_tweet_id": [
+            "2083981530079354949"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "conversation_id": "2083987333205135668",
+        "created_at": "2026-08-02T18:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T19:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083987333205135668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2015761736255881216",
+              "start": 3,
+              "username": "kawa1kuNrTi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ueZMWLC4Ds",
+              "end": 55,
+              "expanded_url": "https://x.com/kawa1kuNrTi/status/2083981530079354949/photo/1",
+              "media_key": "3_2083981524773597184",
+              "start": 32,
+              "url": "https://t.co/ueZMWLC4Ds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083987333205135668",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083981530079354949",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kawa1kuNrTi: うまそう(⁉️)🤤←冗談だよ https://t.co/ueZMWLC4Ds"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1031,
+          "following_count": 211,
+          "like_count": 2736,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 1436
+        },
+        "url": "",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-26T12:20:30.000Z",
+        "description": "音楽とそに子が好き\n@supason1_love\n🗝️@sonisoni_xxxxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 10,
+                "username": "supason1_love"
+              },
+              {
+                "end": 42,
+                "start": 27,
+                "username": "sonisoni_xxxxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/bps6nxzdhp6kcv…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/bps6nxzdhp6kcva?t=kxIt55&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/9sKIsQEGTP"
+              }
+            ]
+          }
+        },
+        "id": "2015761736255881216",
+        "name": "￣▽￣",
+        "pinned_tweet_id": "2082046874215985542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043290558064738304/B_PrQfY-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 176,
+          "like_count": 5302,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 584
+        },
+        "url": "https://t.co/9sKIsQEGTP",
+        "username": "kawa1kuNrTi",
+        "verified": false
+      }
+    ]
+  }
+}

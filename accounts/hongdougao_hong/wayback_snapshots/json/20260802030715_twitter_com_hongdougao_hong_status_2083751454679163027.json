@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083731688761475072",
+        "3_2083731688782503936"
+      ],
+      "media_source_tweet_id": [
+        "2083731705039557065",
+        "2083731705039557065"
+      ]
+    },
+    "author_id": "1790756114700640256",
+    "conversation_id": "2083751454679163027",
+    "created_at": "2026-08-02T03:07:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T04:07:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083751454679163027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1530699087133421568",
+          "start": 3,
+          "username": "SpicyspacEmk16"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/thaM6mFM5d",
+          "end": 65,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2083731705039557065/photo/1",
+          "media_key": "3_2083731688761475072",
+          "start": 42,
+          "url": "https://t.co/thaM6mFM5d"
+        },
+        {
+          "display_url": "pic.x.com/thaM6mFM5d",
+          "end": 65,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2083731705039557065/photo/1",
+          "media_key": "3_2083731688782503936",
+          "start": 42,
+          "url": "https://t.co/thaM6mFM5d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083751454679163027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083731705039557065",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SpicyspacEmk16: 这是我的特效化妆师为我设计的演出用特殊妆容 https://t.co/thaM6mFM5d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083731688761475072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOrm7kvaQAAi8be.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083731688782503936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOrm7k0bIAAPIWU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083731688761475072",
+            "3_2083731688782503936"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "2083731705039557065",
+        "created_at": "2026-08-02T01:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T02:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083731705039557065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/thaM6mFM5d",
+              "end": 45,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2083731705039557065/photo/1",
+              "media_key": "3_2083731688761475072",
+              "start": 22,
+              "url": "https://t.co/thaM6mFM5d"
+            },
+            {
+              "display_url": "pic.x.com/thaM6mFM5d",
+              "end": 45,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2083731705039557065/photo/1",
+              "media_key": "3_2083731688782503936",
+              "start": 22,
+              "url": "https://t.co/thaM6mFM5d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083731705039557065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这是我的特效化妆师为我设计的演出用特殊妆容 https://t.co/thaM6mFM5d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083731688761475072",
+            "3_2083731688782503936"
+          ],
+          "media_source_tweet_id": [
+            "2083731705039557065",
+            "2083731705039557065"
+          ]
+        },
+        "author_id": "1790756114700640256",
+        "conversation_id": "2083751454679163027",
+        "created_at": "2026-08-02T03:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T04:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083751454679163027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1530699087133421568",
+              "start": 3,
+              "username": "SpicyspacEmk16"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/thaM6mFM5d",
+              "end": 65,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2083731705039557065/photo/1",
+              "media_key": "3_2083731688761475072",
+              "start": 42,
+              "url": "https://t.co/thaM6mFM5d"
+            },
+            {
+              "display_url": "pic.x.com/thaM6mFM5d",
+              "end": 65,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2083731705039557065/photo/1",
+              "media_key": "3_2083731688782503936",
+              "start": 42,
+              "url": "https://t.co/thaM6mFM5d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083751454679163027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083731705039557065",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SpicyspacEmk16: 这是我的特效化妆师为我设计的演出用特殊妆容 https://t.co/thaM6mFM5d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 209,
+          "like_count": 2702,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 1418
+        },
+        "url": "",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢(教えないよ～👅ベヘー～)性同一性障害mtf 日本留子 心理学专业在读 为了帮助大家击败心理疾病🤜👿(抑郁精分双相等)会加油! (可惜以后这里只能发点碎碎念跟生活推了呜呜🥺)無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💙#深蓝可是小遥の推し色～",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075456817912815616/uUphuqey_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3367,
+          "following_count": 1561,
+          "like_count": 98544,
+          "listed_count": 6,
+          "media_count": 812,
+          "tweet_count": 10560
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2083928010114335039",
+    "created_at": "2026-08-02T15:27:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T16:27:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083937770482143721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1903417613671415808",
+          "start": 0,
+          "username": "5t0nerH4mst3r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083937770482143721",
+    "in_reply_to_user_id": "1903417613671415808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083928010114335039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5t0nerH4mst3r 我真的被这种人笑死，天天拿ai模板融自己脸发出来说自己美...."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2083928010114335039",
+        "created_at": "2026-08-02T15:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083937770482143721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1903417613671415808",
+              "start": 0,
+              "username": "5t0nerH4mst3r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083937770482143721",
+        "in_reply_to_user_id": "1903417613671415808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083928010114335039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5t0nerH4mst3r 我真的被这种人笑死，天天拿ai模板融自己脸发出来说自己美...."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903417613671415808",
+        "conversation_id": "2083928010114335039",
+        "created_at": "2026-08-02T14:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083928010114335039"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083928010114335039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用ai生成自己照片的那种人太招笑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 210,
+          "like_count": 2709,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 1424
+        },
+        "url": "",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-22T12:05:10.000Z",
+        "description": "纯weirdo | die die die my darling | 顺女/半性恋泛性恋 | 查成分回fo | 反基督/无神论撒旦主义者 | LGBTQ+全友好🏳️‍🌈 | 精神不安定已放弃治疗 | 电音/金属/后朋/朋克",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/5t0nerh4mst3r",
+                "end": 23,
+                "expanded_url": "https://ngl.link/5t0nerh4mst3r",
+                "start": 0,
+                "url": "https://t.co/eWwymwFhAp"
+              }
+            ]
+          }
+        },
+        "id": "1903417613671415808",
+        "name": "外星之吸血鼠儿",
+        "pinned_tweet_id": "2031353330346373174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053466741347594240/K11_Ry1Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 145,
+          "like_count": 11903,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 2532
+        },
+        "url": "https://t.co/eWwymwFhAp",
+        "username": "5t0nerH4mst3r",
+        "verified": false
+      }
+    ]
+  }
+}

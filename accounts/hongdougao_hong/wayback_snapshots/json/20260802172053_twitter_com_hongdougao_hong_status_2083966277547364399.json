@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1790756114700640256",
+    "conversation_id": "2083834538812453136",
+    "created_at": "2026-08-02T17:20:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T18:20:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083966277547364399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1809450762046738432",
+          "start": 0,
+          "username": "huacai2233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083966277547364399",
+    "in_reply_to_user_id": "1809450762046738432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083919792134853011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huacai2233 真的希望她能好好的(⁠ ⁠ꈨຶ⁠ ⁠˙̫̮⁠ ⁠ꈨຶ⁠ ⁠)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790756114700640256",
+        "conversation_id": "2083834538812453136",
+        "created_at": "2026-08-02T17:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T18:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083966277547364399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1809450762046738432",
+              "start": 0,
+              "username": "huacai2233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083966277547364399",
+        "in_reply_to_user_id": "1809450762046738432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083919792134853011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huacai2233 真的希望她能好好的(⁠ ⁠ꈨຶ⁠ ⁠˙̫̮⁠ ⁠ꈨຶ⁠ ⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809450762046738432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2083834538812453136",
+        "created_at": "2026-08-02T14:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083919792134853011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790756114700640256",
+              "start": 0,
+              "username": "hongdougao_hong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083919792134853011",
+        "in_reply_to_user_id": "1790756114700640256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083834538812453136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdougao_hong 我也觉得。虽然我知道谈论她的外貌不好 但是我真的属于担心她的健康😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-15T14:48:38.000Z",
+        "description": "🌈❤️Feminism\n防炸备用机｜alt account ：@Lajitong_l\n\n@hongdou_cici的重生号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Lajitong_l"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "hongdou_cici"
+              }
+            ]
+          }
+        },
+        "id": "1790756114700640256",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "2064807093803348132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1026,
+          "following_count": 210,
+          "like_count": 2730,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 1430
+        },
+        "url": "",
+        "username": "hongdougao_hong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T04:54:36.000Z",
+        "description": "花菜\n08 想要和你们互fo扩列🥹",
+        "id": "1809450762046738432",
+        "name": "花菜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809451374771597314/81b8jNcW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 37,
+          "like_count": 890,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 396
+        },
+        "url": "",
+        "username": "huacai2233",
+        "verified": true
+      }
+    ]
+  }
+}
